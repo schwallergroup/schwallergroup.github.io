@@ -1,0 +1,13 @@
+---
+title: "Welcome, Andres!"
+author: "LIAC team"
+date: "2022-08-02"
+categories: [news]
+image: "image.jpg"
+---
+
+We are delighted to welcome [Andres Camilo Marulanda Bran](https://twitter.com/drecmb) as a PhD student! He is part of our NCCR Catalysis team.
+
+![](image.jpg)
+
+Andres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White's group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig.

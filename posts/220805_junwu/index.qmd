@@ -1,0 +1,14 @@
+---
+title: "Welcome, Junwu!"
+author: "LIAC team"
+date: "2022-08-05"
+categories: [news]
+image: "image.jpg"
+---
+We have the great pleasure of welcoming [Junwu Chen](https://twitter.com/JunwuChen25) as a new NCCR Catalysis PhD student. 
+
+![](image.jpg)
+
+Junwu joins the us from the Chinese Academy of Sciences (CAS) in Beijing. If you want to read some of his previous work, they are available from his [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=q5Oke7sAAAAJ).
+
+We are super excited to have you here!

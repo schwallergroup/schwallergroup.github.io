@@ -1,0 +1,158 @@
+---
+title: "Team"
+# page-layout: full
+---
+
+### PI
+
+::: {.callout-note .column-page appearance="simple" icon=false}
+
+
+## Philippe Schwaller
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+
+<img src="images/philippe.jpg" alt="Philippe's profile picture" class="img-fluid img-round" />
+
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+
+Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research. 
+
+- 5 years at IBM Research -- Zurich (with Dr. Teodoro Laino)
+- PhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern
+- MPhil (2019) in Physics, University of Cambridge
+- BSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL
+
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/NMy7s8rr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) --- [{{< fa brands github size=2xl >}}](https://github.com/pschwllr) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
+</div>
+
+:::
+
+:::
+
+:::
+
+### Administrative assistant
+Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the amazing person who makes sure that all things run smoothly. 
+
+
+### PhD students
+
+::: {.grid .column-page}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Bojana Ranković
+
+<img src="images/bojana.jpg" alt="Bojana's profile picture" class="img-fluid img-round" />
+
+- Started in March 2022
+- MSc in Computer Science, EPFL
+- BSc in Computer Science, University of Belgrade
+
+<div class="center">
+
+
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/3CQKYvPe) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/6ojaHa) --- [{{< fa brands github size=2xl >}}](https://github.com/bojana-rankovic) 
+</div>
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Oliver Schilter
+
+<img src="images/oliver.jpg" alt="Oliver's profile picture" class="img-fluid img-round" />
+
+- Started in April 2022 (based at IBM Research)
+- MSc and BSc in Chemistry and Chemical Engineering, ETHZ
+
+<div class="center">
+
+
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/) 
+</div>
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Andres CM Bran
+
+<img src="images/andres.jpg" alt="Andres' profile picture" class="img-fluid img-round" />
+
+- Started in August 2022
+- BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin
+
+<div class="center">
+
+
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom) 
+</div>
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Junwu Chen
+
+<img src="images/junwu.jpg" alt="Junwu's profile picture" class="img-fluid img-round" />
+
+- Started in August 2022
+- MSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing
+
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Asvfx7kH) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JunwuChen25) --- [{{< fa brands github size=2xl >}}](https://github.com/jwchen25) 
+</div>
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note appearance="simple" icon=false}
+
+## 
+
+
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+
+::: {.callout-note appearance="simple" icon=false}
+
+## 
+
+
+
+:::
+
+:::
+
+
+
+:::

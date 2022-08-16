@@ -1,0 +1,22 @@
+---
+title: "Schwaller Group at EPFL"
+image: images/logo_4x.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/SchwallerGroup
+    - icon: github
+      text: Github
+      href: https://github.com/schwallergroup
+
+---
+
+The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. The lab is led by Prof. [Philippe Schwaller](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ). 
+
+[![](images/overview.jpg)](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1604)
+
+In LIAC, we develop artificial intelligence and machine learning approaches for accelerating the synthesis and discovery of novel molecules and materials. We do fundamental science driven by real-world use cases focusing on sustainability.
+
+LIAC is derived from the French lab name (laboratoire d'intelligence artificielle en chimie).

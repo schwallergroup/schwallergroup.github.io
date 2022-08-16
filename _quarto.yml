@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "LIAC"
+  navbar:
+    left:
+      - team.qmd
+      - research.qmd
+      - news.qmd
+      - openings.qmd
+    right:
+      - icon: github
+        href: https://github.com/schwallergroup
+      - icon: twitter
+        href: https://twitter.com/SchwallerGroup
+  twitter-card:
+    creator: "@pschwllr"
+    site: "@SchwallerGroup"
+    image: images/overview.jpg
+    title: LIAC (Schwaller Group) at EPFL
+    description: Laboratory of Artificial Chemical Intelligence at EPFL | AI-accelerated discovery and synthesis
+format:
+  html:
+    theme: quartz
+    css: styles.css

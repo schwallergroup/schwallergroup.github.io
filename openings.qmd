@@ -1,0 +1,16 @@
+---
+title: "Openings"
+---
+
+## Master thesis and semester projects
+
+Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.
+
+In our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning. 
+
+## PhD and Postdoc positions
+
+There are currently no open positions. Open positions will be advertised here and on Twitter.
+
+### Postdoc fellowships
+- [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships)
