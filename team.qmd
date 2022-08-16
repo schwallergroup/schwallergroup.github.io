@@ -81,7 +81,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 <div class="center">
 
 
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) 
 </div>
 
 :::
