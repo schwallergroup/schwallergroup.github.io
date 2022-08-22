@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "posts/220805_junwu/index.html",
-    "href": "posts/220805_junwu/index.html",
-    "title": "Welcome, Junwu!",
-    "section": "",
-    "text": "Junwu joins the us from the Chinese Academy of Sciences (CAS) in Beijing. If you want to read some of his previous work, they are available from his Google Scholar profile.\nWe are super excited to have you here!"
-  },
-  {
-    "objectID": "posts/220801_andres/index.html",
-    "href": "posts/220801_andres/index.html",
-    "title": "Welcome, Andres!",
-    "section": "",
-    "text": "Andres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White’s group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -28,18 +14,25 @@
     "text": "Prior to EPFL\n\n\nD Probst, P Schwaller, JL Reymond. Reaction classification and yield prediction using the differential reaction fingerprint DRFP. Digital Discovery, 2022, 1, 91-97.\n\n\n\n\n\nP Schwaller*, AC Vaucher, R Laplaza, C Bunne, A Krause, C Corminboeuf, and T Laino. Machine intelligence for chemical reaction space. WIREs Comput. Mol. Sci., 2022, e1604.\n\n\n\n\n\nA Thakkar, P Schwaller*. How AI for Synthesis Can Help Tackle Challenges in Molecular Discovery. CHIMIA, 2021, 75, 7-8, 677-678.\n\n\nD Kreutter, P Schwaller, JL Reymond. Predicting Enzymatic Reactions with a Molecular Transformer. Chem. Sci., 2021, 12, 8648-8659. Chemical Science cover. Most popular 2021 physical and theoretical chemistry articles.\n\n\n\n\n\nAC Vaucher, P Schwaller, J Geluykens, VH Nair, A Iuliano, T Laino. Inferring experimental procedures from text-based representations of chemical reactions. Nature Comm., 2021, 12 (1), 1-11. Editors’ highlight in Computation and Machine Learning for Chemistry. [Blog]. [Code].\n\n\n\n\n\nP Schwaller*, B Hoover, JL Reymond, H Strobelt, T Laino. Extraction of organic chemistry grammar from unsupervised learning of chemical reactions. Sci. Adv., 2021, 7, 15, abe416. Featured in TechTalks, C&EN. [Code].\n\n\n\n\n\nP Schwaller*, AC Vaucher, T Laino, JL Reymond. Prediction of Chemical Reaction Yields using Deep Learning. Mach. Learn.: Sci. Technol., 2021, 2, 015016. Invited article for “Machine Learning for Chemical Reactions” focus collection. [Code].\n\n\n\n\n\nA Toniato, P Schwaller, A Cardinale, J Geluykens, T Laino. Unassisted Noise-Reduction of Chemical Reactions Data Sets. Nat. Mach. Int., 2021, 3, 485–494. [Code].\n\n\n\n\n\nP Schwaller*, D Probst, AC Vaucher, VH Nair, D Kreutter, T Laino, JL Reymond. Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. Nat. Mach. Int., 2021, 3, 144–152. [News & Views]. [Matters Arising]. Synthesis and enabling technologies collection. Featured in C&EN. [Code].\n\n\n\n\n\nG Pesciullesi•, P Schwaller•, T Laino, JL Reymond. Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates. Nature Comm., 2020, 11, 4874. Editors’ highlight in Organic Chemistry and Chemical Biology. [Blog]. [Code].\n\n\n\n\n\nAC Vaucher, F Zipoli, J Geluykens, VH Nair, P Schwaller, T Laino. Automated extraction of chemical synthesis actions from experimental procedures. Nature Comm., 2020, 11 (1), 2041-1723. Editors’ highlight in Computation and Machine Learning for Chemistry. Featured in C&EN. [Blog]. [Code].\n\n\n\n\n\nH Öztürk, A Özgür, P Schwaller, T Laino, E Ozkirimli. Exploring chemical space using natural language processing methodologies for drug discovery. Drug Discovery Today, 2020, 25 (4), 689-705.\n\n\n\n\n\nP Schwaller*, R Petraglia, V Zullo, V H Nair, R A Haeuselmann, R Pisoni, C Bekas, A Iuliano, T Laino. Predicting retrosynthetic pathways using a combined linguistic model and hyper-graph exploration strategy. Chem. Sci., 2020,11, 3316-3325. [Blog].\n\n\n\n\n\nVH Nair, P Schwaller, T Laino. Data-driven Chemical Reaction Prediction and Retrosynthesis. Chimia, 2020, 73 (12), 997-1000. Invited article for special “Artificial Intelligence in Swiss Chemical Research” issue.\n\n\nP Schwaller*, T Laino, T Gaudin, P Bolgar, CA Hunter, C Bekas, AA Lee. Molecular Transformer – A Model for Uncertainty-Calibrated Chemical Reaction Prediction. ACS Cent. Sci. 2019, 5, 9, 1572–1583. ACS Central Science Top-10 Most Read Articles in 2020. Featured in C&EN, Chemistry World. [Blog]. [Code].\n\n\n\n\n\nP Schwaller•*, T Gaudin•, D Lanyi, C Bekas, T Laino. Found in Translation: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models. Chem. Sci., 2018, 9, 6091-609. Chemical Science: Most popular articles 2018-2019. Featured in Chemistry World, IEEE Spectrum, MIT Technology Review, phys.org. [Blog].\n\n\n\n\n\nM Makha, P Schwaller, K Strassel, SB Anantharaman, F Nüesch, R Hany, J Heier. Insights into photovoltaic properties of ternary organic solar cells from phase diagrams. Sci. Technol. Adv. Mater., 2018, 19, 1, 669–682.\n\n\nN Mounet, M Gibertini, P Schwaller, D Campi, A Merkys, A Marrazzo, T Sohier, IE Castelli, A Cepellotti, G Pizzi, N Marzari. Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds. Nature Nanotech., 2018, 13, 246–252. HPC Max Prize 2017. Nature Nanotechnology cover. [News & Views]. Featured in arstechnica, phys.org. [Blog]. [Code]."
   },
   {
-    "objectID": "openings.html",
-    "href": "openings.html",
-    "title": "Openings",
+    "objectID": "posts/220805_junwu/index.html",
+    "href": "posts/220805_junwu/index.html",
+    "title": "Welcome, Junwu!",
     "section": "",
-    "text": "Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.\nIn our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning."
+    "text": "Junwu joins the us from the Chinese Academy of Sciences (CAS) in Beijing. If you want to read some of his previous work, they are available from his Google Scholar profile.\nWe are super excited to have you here!"
   },
   {
-    "objectID": "openings.html#phd-and-postdoc-positions",
-    "href": "openings.html#phd-and-postdoc-positions",
-    "title": "Openings",
-    "section": "PhD and Postdoc positions",
-    "text": "PhD and Postdoc positions\nThere are currently no open positions. Open positions will be advertised here and on Twitter.\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
+    "objectID": "posts/220801_andres/index.html",
+    "href": "posts/220801_andres/index.html",
+    "title": "Welcome, Andres!",
+    "section": "",
+    "text": "Andres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White’s group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Administrative assistant\nAnnick Gaudin () – the amazing person who makes sure that all things run smoothly.\n\n\nPhD students\n\n\n\n\n\n\n\n\nBojana Ranković\n\n\n\n\n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n\n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n\n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n —  —"
   },
   {
     "objectID": "news.html",
@@ -56,10 +49,17 @@
     "text": "In LIAC, we develop artificial intelligence and machine learning approaches for accelerating the synthesis and discovery of novel molecules and materials. We do fundamental science driven by real-world use cases focusing on sustainability.\nLIAC is derived from the French lab name (laboratoire d’intelligence artificielle en chimie)."
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
+    "objectID": "openings.html",
+    "href": "openings.html",
+    "title": "Openings",
     "section": "",
-    "text": "Administrative assistant\nAnnick Gaudin () – the amazing person who makes sure that all things run smoothly.\n\n\nPhD students\n\n\n\n\n\n\n\n\nBojana Ranković\n\n\n\n\n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n\n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n\n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n —  —"
+    "text": "Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.\nIn our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning."
+  },
+  {
+    "objectID": "openings.html#phd-and-postdoc-positions",
+    "href": "openings.html#phd-and-postdoc-positions",
+    "title": "Openings",
+    "section": "PhD and Postdoc positions",
+    "text": "PhD and Postdoc positions\nThere are currently no open positions. Open positions will be advertised here and on Twitter.\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
   }
 ]
