@@ -132,9 +132,17 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## 
+## Jeff Guo
 
+<img src="images/jeff.jpg" alt="Jeff's profile picture" class="img-fluid img-round" />
 
+- Started in September 2022
+- AstraZeneca Grad Program
+- MRes, Imperial College London and BSc, McGill University
+
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/48LY5AGP) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JeffGuo__) --- [{{< fa brands github size=2xl >}}](https://github.com/GuoJeff) 
+</div>
 
 :::
 
