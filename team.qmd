@@ -153,13 +153,80 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## 
+## Víctor Sabanza Gil 
+
+<img src="images/victor.jpg" alt="Victor's profile picture" class="img-fluid img-round" />
+
+- Started in October 2022
+- MSc in Complex Systems Chemistry, Strasbourg
+- BSc, Universidad de La Rioja
+
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) 
+</div>
 
 
 
 :::
 
 :::
+
+
+
+:::
+
+### Project students
+
+
+::: {.grid .column-page}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Théo Neukomm
+
+<img src="images/theo.jpg" alt="Theo's profile picture" class="img-fluid img-round" />
+
+- September - December 2022
+- MSc (current) and BSc in Chemistry, EPFL
+- Project intern
+
+<div class="center">
+
+[{{< fa brands github size=2xl >}}](https://github.com/Volowan) 
+</div>
+
+:::
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Anna Kapeliukha
+
+<img src="images/anna.jpg" alt="Anna's profile picture" class="img-fluid img-round" />
+
+- October 2022 - January 2023
+- MSc at Taras Shevchenko National University of Kyiv, Ukraine
+
+<div class="center">
+
+[{{< fa brands twitter size=2xl >}}](https://twitter.com/AKapeliukha) --- [{{< fa brands github size=2xl >}}](https://github.com/AnnaKapel) 
+</div>
+
+:::
+
+:::
+
+
+
+
+
+
 
 
 

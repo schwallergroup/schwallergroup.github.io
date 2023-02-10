@@ -1,0 +1,16 @@
+---
+title: "Welcome, Jeff!"
+author: "LIAC team"
+date: "2022-09-01"
+categories: [news]
+image: "image.jpg"
+---
+
+We are delighted to welcome [Jeff Guo](https://twitter.com/JeffGuo__) as a PhD student! He will be part of our NCCR Catalysis team.
+
+![](image.jpg)
+
+Jeff Guo recently completed the grad program at AstraZeneca, where he was working on reinforcement learning for molecular design. Before that he received a MRes in Drug Discovery and Development from Imperial College London 
+and BSc in Chemistry from the McGill University.
+
+For a list of all his publication you can check out his [Google Scholar profile](https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=en&oi=ao)

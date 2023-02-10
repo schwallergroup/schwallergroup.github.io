@@ -1,0 +1,19 @@
+---
+title: "Kickoff Group Meeting"
+author: "LIAC team"
+date: "2022-11-07"
+categories: [news]
+image: "image.jpg"
+---
+
+Last week we had our kickoff group meeting! 
+
+It was awesome to see what our talented group members presented only a few months after starting their PhD and projects. 
+
+Say hi to [Anna Kapeliukha](https://twitter.com/AKapeliukha), who will be with us for 3-month project. 
+
+Anna, it's a great pleasure to have you here!
+
+After the group meeting, we went to a Chinese restaurant and discovered many delicious dishes [Junwu](https://twitter.com/JunwuChen25) had ordered for us. Thanks, Junwu! 
+
+![Dinner with the LIAC team](image.jpg)

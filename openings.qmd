@@ -10,7 +10,9 @@ In our lab you can learn how to extract/scrape chemical data, handle it using Py
 
 ## PhD and Postdoc positions
 
-There are currently no open positions. Open positions will be advertised here and on Twitter.
+Currently there is no position available.
+
+[Industrial PhD position in Multi-Objective Optimisation for High-Throughput Experimentation (Deadline: Nov 4th - closed)](positions/Industrial_PhD_in_Multi-Objective_Optimisation_for_High-Throughput_Experimentation.pdf)
 
 ### Postdoc fellowships
 - [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships)
