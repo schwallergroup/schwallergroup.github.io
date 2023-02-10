@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://schwallergroup.github.io/research.html</loc>
-    <lastmod>2022-11-07T09:24:58.780Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/index.html</loc>
+    <lastmod>2023-02-10T15:30:11.074Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/posts/221107_kickoff/index.html</loc>
-    <lastmod>2022-11-07T09:24:59.170Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/news.html</loc>
+    <lastmod>2023-02-10T15:30:11.918Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/posts/220805_junwu/index.html</loc>
-    <lastmod>2022-11-07T09:24:59.495Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/openings.html</loc>
+    <lastmod>2023-02-10T15:30:12.246Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/posts/220801_andres/index.html</loc>
-    <lastmod>2022-11-07T09:24:59.771Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/research.html</loc>
+    <lastmod>2023-02-10T15:30:12.674Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/posts/220901_jeff/index.html</loc>
-    <lastmod>2022-11-07T09:25:00.056Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/team.html</loc>
+    <lastmod>2023-02-10T15:30:13.090Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/team.html</loc>
-    <lastmod>2022-11-07T09:25:00.373Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/posts/220901_jeff/index.html</loc>
+    <lastmod>2023-02-10T15:30:13.410Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/news.html</loc>
-    <lastmod>2022-11-07T09:25:00.677Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/posts/220805_junwu/index.html</loc>
+    <lastmod>2023-02-10T15:30:13.758Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/index.html</loc>
-    <lastmod>2022-11-07T09:25:00.933Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/posts/221003_victor/index.html</loc>
+    <lastmod>2023-02-10T15:30:14.090Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/openings.html</loc>
-    <lastmod>2022-11-07T09:25:01.222Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/posts/221107_kickoff/index.html</loc>
+    <lastmod>2023-02-10T15:30:14.422Z</lastmod>
   </url>
   <url>
-    <loc>https://schwallergroup.github.io/links.html</loc>
-    <lastmod>2022-11-07T09:25:01.478Z</lastmod>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/posts/220430_amld/index.html</loc>
+    <lastmod>2023-02-10T15:30:14.778Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/posts/220801_andres/index.html</loc>
+    <lastmod>2023-02-10T15:30:15.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/schwallergroup/schwallergroup.github.io/links.html</loc>
+    <lastmod>2023-02-10T15:30:15.398Z</lastmod>
   </url>
 </urlset>
