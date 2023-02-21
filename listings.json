@@ -2,12 +2,17 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/230220_masters_students/index.html",
+      "/posts/230217_toboganning/index.html",
+      "/posts/230127_potluck/index.html",
+      "/posts/230125_paulo/index.html",
       "/posts/221107_kickoff/index.html",
-      "/posts/220430_amld/index.html",
-      "/posts/220901_jeff/index.html",
       "/posts/221003_victor/index.html",
+      "/posts/220901_jeff/index.html",
       "/posts/220805_junwu/index.html",
-      "/posts/220801_andres/index.html"
+      "/posts/220801_andres/index.html",
+      "/posts/220301_oli/index.html",
+      "/posts/220301_bojana/index.html"
     ]
   }
 ]
