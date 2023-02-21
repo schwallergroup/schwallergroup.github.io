@@ -21,13 +21,6 @@
     "text": "Last week we had our kickoff group meeting!\nIt was awesome to see what our talented group members presented only a few months after starting their PhD and projects.\nSay hi to Anna Kapeliukha, who will be with us for 3-month project.\nAnna, it’s a great pleasure to have you here!\nAfter the group meeting, we went to a Chinese restaurant and discovered many delicious dishes Junwu had ordered for us. Thanks, Junwu!\n\n\n\nDinner with the LIAC team"
   },
   {
-    "objectID": "posts/220301_oli/index.html",
-    "href": "posts/220301_oli/index.html",
-    "title": "Welcome, Oliver!",
-    "section": "",
-    "text": "We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.\n\nOliver got his undergraduate and master’s degrees in chemical engineering at ETH Zürich. He completed his master’s thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!"
-  },
-  {
     "objectID": "posts/220301_bojana/index.html",
     "href": "posts/220301_bojana/index.html",
     "title": "Welcome, Bojana!",
@@ -40,6 +33,13 @@
     "title": "Welcome, Paulo!",
     "section": "",
     "text": "We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.\n\nPaulo got his undergraduate degree and master’s degrees in Physics Engineering at NOVA School of Science and Technology in Portugal and is currently a machine learning scientist at Pharmaceuticals."
+  },
+  {
+    "objectID": "posts/220404_oli/index.html",
+    "href": "posts/220404_oli/index.html",
+    "title": "Welcome, Oliver!",
+    "section": "",
+    "text": "We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.\n\nOliver got his undergraduate and master’s degrees in chemical engineering at ETH Zürich. He completed his master’s thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!"
   },
   {
     "objectID": "posts/220805_junwu/index.html",
@@ -102,7 +102,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Welcome Artur, Malte, and Lucien as new project and master’s students!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nToboganning in Leysin\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nPotluck\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Paulo!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nKickoff Group Meeting\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Victor!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Jeff!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Junwu!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Andres!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Oliver!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Bojana!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome Artur, Malte, and Lucien as new project and master’s students!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nToboganning in Leysin\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nPotluck\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Paulo!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nKickoff Group Meeting\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Victor!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Jeff!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Junwu!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Andres!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Oliver!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Bojana!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
