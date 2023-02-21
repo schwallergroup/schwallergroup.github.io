@@ -1,0 +1,13 @@
+---
+title: "Welcome, Bojana!"
+author: "LIAC team"
+date: "2022-03-01"
+categories: [news]
+image: "bojana.jpg"
+---
+
+We are delighted to welcome [Bojana Rankovic](https://twitter.com/6ojaHa) as a PhD student! She will be part of our NCCR Catalysis team.
+
+![](bojana.jpg)
+
+Bojana got her undergraduate degree in computer science at the University of Belgrade and her master's in computer science at EPFL. She completed an internship at IBM research and completed her master's thesis at ETH Zürich. Welcome!

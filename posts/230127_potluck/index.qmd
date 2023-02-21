@@ -1,0 +1,13 @@
+---
+title: "Potluck"
+author: "LIAC event"
+date: "2023-01-27"
+categories: [news]
+image: "potluck.jpeg"
+---
+
+We recently had a lab potluck event!
+
+Everyone brought food to share and it was a perfect way to end the work week!
+
+![Before we enjoyed the food and drinks](potluck.jpeg)

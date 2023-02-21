@@ -1,0 +1,13 @@
+---
+title: "Welcome, Paulo!"
+author: "LIAC team"
+date: "2023-01-25"
+categories: [news]
+image: "paulo-square.jpg"
+---
+
+We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.
+
+![](paulo-square.jpg)
+
+Paulo got his undergraduate degree and master's degrees in Physics Engineering at NOVA School of Science and Technology in Portugal and is currently a machine learning scientist at Pharmaceuticals.

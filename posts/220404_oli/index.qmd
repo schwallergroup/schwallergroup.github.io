@@ -1,0 +1,13 @@
+---
+title: "Welcome, Oliver!"
+author: "LIAC team"
+date: "2022-04-04"
+categories: [news]
+image: "oliver.jpg"
+---
+
+We are delighted to welcome [Oliver Schilter](https://twitter.com/oschilter?lang=en) as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.
+
+![](oliver.jpg)
+
+Oliver got his undergraduate and master's degrees in chemical engineering at ETH Zürich. He completed his master's thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!

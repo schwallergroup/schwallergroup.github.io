@@ -37,11 +37,11 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 
 :::
 
-### Administrative assistant
+### Administrative Assistant
 Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the amazing person who makes sure that all things run smoothly. 
 
 
-### PhD students
+### PhD Students
 
 ::: {.grid .column-page}
 
@@ -158,8 +158,9 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 <img src="images/victor.jpg" alt="Victor's profile picture" class="img-fluid img-round" />
 
 - Started in October 2022
-- MSc in Complex Systems Chemistry, Strasbourg
-- BSc, Universidad de La Rioja
+- Joint PhD student with the Luterbacher group (LDPC)
+- MSc in Complex Systems Chemistry, Strasbourg University
+- BSc in Chemistry, University of La Rioja
 
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) 
@@ -171,36 +172,35 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Paulo Neves
+
+<img src="images/paulo-square.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
+
+- Started in January 2023 (based at Janssen Pharmaceuticals)
+- BSc and MSc in Physics Engineering, NOVA School of Science and Technology
+
+<div class="center">
+</div>
+
 
 
 :::
 
-### Project students
+:::
+
+
+
+:::
+
+### Master's and Project Students
 
 
 ::: {.grid .column-page}
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note  appearance="simple" icon=false}
-
-## Théo Neukomm
-
-<img src="images/theo.jpg" alt="Theo's profile picture" class="img-fluid img-round" />
-
-- September - December 2022
-- MSc (current) and BSc in Chemistry, EPFL
-- Project intern
-
-<div class="center">
-
-[{{< fa brands github size=2xl >}}](https://github.com/Volowan) 
-</div>
-
-:::
-
-:::
-
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
@@ -216,6 +216,69 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 <div class="center">
 
 [{{< fa brands twitter size=2xl >}}](https://twitter.com/AKapeliukha) --- [{{< fa brands github size=2xl >}}](https://github.com/AnnaKapel) 
+</div>
+
+:::
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Artur Stefaniuk
+
+<img src="images/artur-square.jpg" alt="Artur's profile picture" class="img-fluid img-round" />
+
+- February - June 2023
+- Master's thesis
+- MSc and BSc in Molecular & Biological Chemistry, EPFL
+
+<div class="center">
+
+</div>
+
+:::
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Malte Frank
+
+<img src="images/malte-square.jpg" alt="Malte's profile picture" class="img-fluid img-round" />
+
+- February - June 2023
+- Master's thesis
+- BSc in Mechanical Engineering, RWTH Aachen
+
+<div class="center">
+
+</div>
+
+:::
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Lucien Brey
+
+<img src="images/lucien-square.jpg" alt="Lucien's profile picture" class="img-fluid img-round" />
+
+- February - June 2023
+- Project student
+- MSc and BSc in Chemistry, EPFL
+
+<div class="center">
+
 </div>
 
 :::

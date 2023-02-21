@@ -1,16 +1,13 @@
 ---
-title: "Welcome, Jeff!"
+title: "Welcome, Victor!"
 author: "LIAC team"
-date: "2022-09-01"
+date: "2022-10-03"
 categories: [news]
-image: "image.jpg"
+image: "victor.jpg"
 ---
 
-We are delighted to welcome [Jeff Guo](https://twitter.com/JeffGuo__) as a PhD student! He will be part of our NCCR Catalysis team.
+We are delighted to welcome [Victor Sabanza](https://twitter.com/VictorSabanza) as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and the Luterbacher group (LPDC)
 
-![](image.jpg)
+![](victor.jpg)
 
-Jeff Guo recently completed the grad program at AstraZeneca, where he was working on reinforcement learning for molecular design. Before that he received a MRes in Drug Discovery and Development from Imperial College London 
-and BSc in Chemistry from the McGill University.
-
-For a list of all his publication you can check out his [Google Scholar profile](https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=en&oi=ao)
+Victor got his undergraduate degree in chemistry at the University of La Rioja and his master's degree in complex systems chemistry at Strasbourg University. Welcome!
