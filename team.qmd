@@ -248,13 +248,14 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 ::: {.callout-note  appearance="simple" icon=false}
 
-## Malte Frank
+## Malte Franke
 
 <img src="images/malte-square.jpg" alt="Malte's profile picture" class="img-fluid img-round" />
 
 - February - June 2023
-- Master's thesis
+- Project student
 - BSc in Mechanical Engineering, RWTH Aachen
+- MSc in Chemical Engineering, RWTH Aachen
 
 <div class="center">
 
