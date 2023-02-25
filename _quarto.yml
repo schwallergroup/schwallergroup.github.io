@@ -14,13 +14,13 @@ website:
         menu:
         - text: AI for Chemistry
           href: https://schwallergroup.github.io/ai4chem_course/
+    right:
       - text: EPFL
         menu:
         - text: Institute of Chemical Sciences and Engineering – ISIC
           href: https://www.epfl.ch/schools/sb/research/isic/
         - text: Laboratory of Artificial Chemical Intelligence - LIAC
           href: https://www.epfl.ch/labs/liac/
-    right:
       - icon: github
         href: https://github.com/schwallergroup
       - icon: twitter
