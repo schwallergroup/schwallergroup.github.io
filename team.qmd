@@ -38,7 +38,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 
 ### Administrative Assistant
-Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the amazing person who makes sure that all things run smoothly. 
+Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly. 
 
 
 ### PhD Students
@@ -158,9 +158,8 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 <img src="images/victor.jpg" alt="Victor's profile picture" class="img-fluid img-round" />
 
 - Started in October 2022
-- Joint PhD student with the Luterbacher group (LDPC)
-- MSc in Complex Systems Chemistry, Strasbourg University
-- BSc in Chemistry, University of La Rioja
+- Joint with LDPC
+- MSc in Chemistry, Strasbourg University and BSc, La Rioja
 
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) 
@@ -181,7 +180,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 <img src="images/paulo-square.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
 
-- Started in January 2023 (based at Janssen Pharmaceuticals)
+- Started in January 2023 (with Janssen Pharmaceuticals)
 - BSc and MSc in Physics Engineering, NOVA School of Science and Technology
 
 <div class="center">
@@ -197,7 +196,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 :::
 
-### Master's and Project Students
+### Project Students
 
 
 ::: {.grid .column-page}
@@ -290,8 +289,11 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/tR48v7YH)) -- the ama
 
 
 
-
-
-
-
 :::
+
+## Alumni
+
+### Project students
+
+- Théo Neukomm (EPFL, master semester project, Fall 2022)
+
