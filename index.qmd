@@ -13,7 +13,7 @@ about:
 
 ---
 
-The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. The lab is led by Prof. [Philippe Schwaller](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ). 
+The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. The lab is led by Prof. [Philippe Schwaller](https://people.epfl.ch/philippe.schwaller?lang=en). 
 
 [![](images/overview.jpg)](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1604)
 

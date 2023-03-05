@@ -21,9 +21,11 @@ website:
           href: https://www.epfl.ch/schools/sb/research/isic/
         - text: Laboratory of Artificial Chemical Intelligence - LIAC
           href: https://www.epfl.ch/labs/liac/
-      - icon: github
+      - text: "{{< fa graduation-cap size=lg >}}"
+        href: https://scholar.google.com/citations?hl=en&user=Tz0I4ywAAAAJ&view_op=list_works&sortby=pubdate
+      - text: "{{< fa brands github size=lg >}}"
         href: https://github.com/schwallergroup
-      - icon: twitter
+      - text: "{{< fa brands twitter size=lg >}}"
         href: https://twitter.com/SchwallerGroup
   google-analytics: "G-HNV4RSCCZX"
   twitter-card:
@@ -36,3 +38,5 @@ format:
   html:
     theme: quartz
     css: styles.css
+    link-external-newwindow: true
+    link-external-filter: ^(?:http:|https:)\/\/schwallergroup\.github\.io\/custom
