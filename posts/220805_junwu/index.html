@@ -41,6 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +76,7 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../../styles.css">
 <meta name="twitter:title" content="LIAC (Schwaller Group) at EPFL">
 <meta name="twitter:description" content="Laboratory of Artificial Chemical Intelligence at EPFL | AI-accelerated discovery and synthesis">
-<meta name="twitter:image" content="https://github.com/schwallergroup/schwallergroup.github.io/images/overview.jpg">
+<meta name="twitter:image" content="https://schwallergroup.github.io/images/overview.jpg">
 <meta name="twitter:creator" content="@pschwllr">
 <meta name="twitter:site" content="@SchwallerGroup">
 <meta name="twitter:card" content="summary_large_image">
@@ -140,15 +142,17 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
   </li>  
     </ul>
   </li>
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/schwallergroup"><i class="bi bi-github" role="img">
-</i> 
- <span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://scholar.google.com/citations?hl=en&amp;user=Tz0I4ywAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">
+ <span class="menu-text"><i class="fa-solid fa-graduation-cap fa-lg" aria-label="graduation-cap"></i></span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/SchwallerGroup"><i class="bi bi-twitter" role="img">
-</i> 
- <span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/schwallergroup">
+ <span class="menu-text"><i class="fa-brands fa-github fa-lg" aria-label="github"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://twitter.com/SchwallerGroup">
+ <span class="menu-text"><i class="fa-brands fa-twitter fa-lg" aria-label="twitter"></i></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -337,6 +341,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/^(?:http:|https:)\/\/schwallergroup\.github\.io\/custom/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
