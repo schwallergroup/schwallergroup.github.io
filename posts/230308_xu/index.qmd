@@ -1,0 +1,11 @@
+---
+title: "Welcome Xu!"
+author: "LIAC team"
+date: "2023-03-08"
+categories: [news]
+image: ""
+---
+
+Xu joins LIAC to carry out her Bachelor's thesis! Welcome Xu and we are looking forward to doing great science together!
+
+![Xu](xu.jpg)

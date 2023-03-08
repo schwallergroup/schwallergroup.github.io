@@ -286,6 +286,29 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Xu Huang
+
+<img src="images/xu.jpg" alt="Xu's profile picture" class="img-fluid img-round" />
+
+- March 2023 - July 2023
+- Bachelor's thesis
+- Senior undergraduate at Shanghai Jiao Tong Univeresity
+
+<div class="center">
+
+[{{< fa brands twitter size=2xl >}}](https://twitter.com/AKapeliukha) --- [{{< fa brands github size=2xl >}}](https://github.com/AnnaKapel)
+</div>
+
+:::
+
+:::
+
+
+
 
 
 
