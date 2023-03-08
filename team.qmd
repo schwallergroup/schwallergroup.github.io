@@ -236,6 +236,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 <div class="center">
 
+[{{< fa brands github size=2xl >}}](https://github.com/stefaniukartur)
 </div>
 
 :::
@@ -258,6 +259,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 <div class="center">
 
+[{{< fa brands github size=2xl >}}](https://github.com/maltefranke)
 </div>
 
 :::
@@ -300,7 +302,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 <div class="center">
 
-[{{< fa brands twitter size=2xl >}}](https://twitter.com/AKapeliukha) --- [{{< fa brands github size=2xl >}}](https://github.com/AnnaKapel)
+[{{< fa brands github size=2xl >}}](https://github.com/melissazhen)
 </div>
 
 :::
