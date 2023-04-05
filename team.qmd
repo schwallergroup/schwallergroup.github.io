@@ -37,6 +37,39 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 
 :::
 
+
+### Postdoctoral Associates
+
+::: {.callout-note .column-page appearance="simple" icon=false}
+
+
+## Stéphane d'Ascoli
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+
+<img src="images/stephane.jpg" alt="Stéphane's profile picture" class="img-fluid img-round" />
+
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+
+- AI4Science research fellow
+- PhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)
+- BSc and MSc in theoretical physics
+- Research interests include overparameterized neural networks and their applications to computer vision, symbolic mathematics and the natural sciences
+
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Lr7SORC9) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/stephanedascoli) --- [{{< fa brands github size=2xl >}}](https://github.com/sdascoli) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=en)
+</div>
+
+:::
+
+:::
+
+:::
+
 ### Administrative Assistant
 Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly. 
 
@@ -184,6 +217,29 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - BSc and MSc in Physics Engineering, NOVA School of Science and Technology
 
 <div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/u6TBDmoN) --- [{{< fa brands twitter size=2xl >}}]() --- [{{< fa brands github size=2xl >}}]()
+</div>
+
+
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Rebecca Neeser
+
+<img src="images/rebecca.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
+
+- Joint with LPDI
+- BSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT
+
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/i6PiL7mC) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/RebeccaNeeser) --- [{{< fa brands github size=2xl >}}](https://github.com/rneeser)
 </div>
 
 

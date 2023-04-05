@@ -1,0 +1,11 @@
+---
+title: "Welcome Rebecca!"
+author: "LIAC team"
+date: "2023-04-03"
+categories: [news]
+image: ""
+---
+
+Rebecca joins LIAC as a joint PhD student with the Laboratory of Protein Design and Immunoengineering (LPDI) working at the exciting intersection of machine learning and biology!
+
+![Rebecca](rebecca.jpg)
