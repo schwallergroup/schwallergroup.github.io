@@ -1,1 +1,1 @@
-Sitemap: https://github.com/schwallergroup/schwallergroup.github.io/sitemap.xml
+Sitemap: https://schwallergroup.github.io/sitemap.xml
