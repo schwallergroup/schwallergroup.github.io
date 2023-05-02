@@ -261,27 +261,6 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note  appearance="simple" icon=false}
 
-## Anna Kapeliukha
-
-<img src="images/anna.jpg" alt="Anna's profile picture" class="img-fluid img-round" />
-
-- October 2022 - January 2023
-- MSc at Taras Shevchenko National University of Kyiv, Ukraine
-
-<div class="center">
-
-[{{< fa brands twitter size=2xl >}}](https://twitter.com/AKapeliukha) --- [{{< fa brands github size=2xl >}}](https://github.com/AnnaKapel) 
-</div>
-
-:::
-
-:::
-
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note  appearance="simple" icon=false}
-
 ## Artur Stefaniuk
 
 <img src="images/artur-square.jpg" alt="Artur's profile picture" class="img-fluid img-round" />
@@ -358,7 +337,28 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 <div class="center">
 
-[{{< fa brands github size=2xl >}}](https://github.com/melissazhen)
+</div>
+
+:::
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Cheng-Hua (Lance) Huang
+
+<img src="images/cheng_hua.jpg" alt="Cheng-Hua's profile picture" class="img-fluid img-round" />
+
+- April 2023 - August 2023
+- Master's thesis
+- BSc in Material Science & Engineering (MSE) at National Tsing Hua University, Taiwan
+- MSc in MSE at EPFL
+
+<div class="center">
+
 </div>
 
 :::
@@ -377,4 +377,4 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ### Project students
 
 - Théo Neukomm (EPFL, master semester project, Fall 2022)
-
+- Anna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)

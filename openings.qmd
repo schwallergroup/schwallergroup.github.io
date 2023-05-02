@@ -10,8 +10,6 @@ In our lab you can learn how to extract/scrape chemical data, handle it using Py
 
 ## PhD and Postdoc positions
 
-Currently there is no position available.
-
 [Strategic Synthesis Planning, PhD/Postdoc (Deadline: May 5th)](positions/PhD_PostDoc_Strategic_Sythesis_Planning.pdf)
 
 ### Postdoc fellowships
