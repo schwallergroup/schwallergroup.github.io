@@ -1,38 +1,24 @@
 [
   {
-    "objectID": "posts/220801_andres/index.html",
-    "href": "posts/220801_andres/index.html",
-    "title": "Welcome, Andres!",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "We are delighted to welcome Andres Camilo Marulanda Bran as a PhD student! He is part of our NCCR Catalysis team.\n\nAndres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White’s group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig."
+    "text": "A full list is available from the following Google Scholar profile."
   },
   {
-    "objectID": "posts/220901_jeff/index.html",
-    "href": "posts/220901_jeff/index.html",
-    "title": "Welcome, Jeff!",
-    "section": "",
-    "text": "We are delighted to welcome Jeff Guo as a PhD student! He will be part of our NCCR Catalysis team.\n\nJeff Guo recently completed the grad program at AstraZeneca, where he was working on reinforcement learning for molecular design. Before that he received a MRes in Drug Discovery and Development from Imperial College London and BSc in Chemistry from the McGill University.\nFor a list of all his publication you can check out his Google Scholar profile"
+    "objectID": "research.html#journal-and-workshop-papers",
+    "href": "research.html#journal-and-workshop-papers",
+    "title": "Research",
+    "section": "Journal and workshop papers",
+    "text": "Journal and workshop papers\n\n\nKM Jablonka, P Schwaller, A Ortega-Guerrero, B Smit. Is GPT-3 all you need for low-data discovery in chemistry?. 10.26434/chemrxiv-2023-fw8n4, 2023.\n\n\n\n\n\nJ Guo, B Ranković, P Schwaller*. Bayesian Optimization for Chemical Reactions. Chimia, 2023, 77, 31-31.\n\n\nB Ranković, RR Griffiths, HB Moss, P Schwaller*. Bayesian optimisation for additive screening and yield improvements in chemical reactions–beyond one-hot encodings. 10.26434/chemrxiv-2022-nll2j, 2022.\n\n\n\n\n\nRR Griffiths, L Klarner, HB Moss, A Ravuri, S Truong, B Rankovic, Y Du, A Jamasb, J Schwartz, A Tripp, G Kell, A Bourached, A Chan, J Moss, C Guo, AA Lee, P Schwaller, J Tang. GAUCHE: A Library for Gaussian Processes in Chemistry. arXiv:2212.04450, 2022.\n\n\nS Barthel, M Krenn, Qi Ai, N Carson, A Frei, NC Frey, P Friederich, T Gaudin, AA Gayle, KM Jablonka, RF Lameiro, D Lemm, A Lo, SM Moosavi, JM Napoles-Duarte, AK Nigam, R Pollice, K Rajan, U Schatzschneider, P Schwaller, M Skreta, B Smit, F Strieth-Kalthoff, C Sun, G Tom, GF von Rudolf, A Wang, A White, A Young, R Yu, A Aspuru-Guzik. SELFIES and the future of molecular string representations. Patterns, 2022, 3, 10, 100588."
   },
   {
-    "objectID": "posts/220301_bojana/index.html",
-    "href": "posts/220301_bojana/index.html",
-    "title": "Welcome, Bojana!",
-    "section": "",
-    "text": "We are delighted to welcome Bojana Rankovic as a PhD student! She will be part of our NCCR Catalysis team.\n\nBojana got her undergraduate degree in computer science at the University of Belgrade and her master’s in computer science at EPFL. She completed an internship at IBM research and completed her master’s thesis at ETH Zürich. Welcome!"
-  },
-  {
-    "objectID": "posts/230217_toboganning/index.html",
-    "href": "posts/230217_toboganning/index.html",
-    "title": "Toboganning in Leysin",
-    "section": "",
-    "text": "We recently had our first LIAC winter event!\nThe team enjoyed an amazing lunch in Leysin village, trying out local fondue specialties and rostï, before heading to toboganning.\nIt was great to have the whole team together!\n\n\n\nLunch before toboganning\n\n\n\n\n\nToboganning"
-  },
-  {
-    "objectID": "posts/220404_oli/index.html",
-    "href": "posts/220404_oli/index.html",
-    "title": "Welcome, Oliver!",
-    "section": "",
-    "text": "We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.\n\nOliver got his undergraduate and master’s degrees in chemical engineering at ETH Zürich. He completed his master’s thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!"
+    "objectID": "research.html#prior-to-epfl",
+    "href": "research.html#prior-to-epfl",
+    "title": "Research",
+    "section": "Prior to EPFL",
+    "text": "Prior to EPFL\n\n\nA Toniato, AC Vaucher, P Schwaller, T Laino. Enhancing diversity in language based models for single-step retrosynthesis. Digital Discovery, 2023, Accepted manuscript.\n\n\nD Probst, P Schwaller, JL Reymond. Reaction classification and yield prediction using the differential reaction fingerprint DRFP. Digital Discovery, 2022, 1, 91-97.\n\n\n\n\n\nP Schwaller*, AC Vaucher, R Laplaza, C Bunne, A Krause, C Corminboeuf, and T Laino. Machine intelligence for chemical reaction space. WIREs Comput. Mol. Sci., 2022, e1604.\n\n\n\n\n\nA Thakkar, P Schwaller*. How AI for Synthesis Can Help Tackle Challenges in Molecular Discovery. CHIMIA, 2021, 75, 7-8, 677-678.\n\n\nD Kreutter, P Schwaller, JL Reymond. Predicting Enzymatic Reactions with a Molecular Transformer. Chem. Sci., 2021, 12, 8648-8659. Chemical Science cover. Most popular 2021 physical and theoretical chemistry articles.\n\n\n\n\n\nAC Vaucher, P Schwaller, J Geluykens, VH Nair, A Iuliano, T Laino. Inferring experimental procedures from text-based representations of chemical reactions. Nature Comm., 2021, 12 (1), 1-11. Editors’ highlight in Computation and Machine Learning for Chemistry. [Blog]. [Code].\n\n\n\n\n\nP Schwaller*, B Hoover, JL Reymond, H Strobelt, T Laino. Extraction of organic chemistry grammar from unsupervised learning of chemical reactions. Sci. Adv., 2021, 7, 15, abe416. Featured in TechTalks, C&EN. [Code].\n\n\n\n\n\nP Schwaller*, AC Vaucher, T Laino, JL Reymond. Prediction of Chemical Reaction Yields using Deep Learning. Mach. Learn.: Sci. Technol., 2021, 2, 015016. Invited article for “Machine Learning for Chemical Reactions” focus collection. [Code].\n\n\n\n\n\nA Toniato, P Schwaller, A Cardinale, J Geluykens, T Laino. Unassisted Noise-Reduction of Chemical Reactions Data Sets. Nat. Mach. Int., 2021, 3, 485–494. [Code].\n\n\n\n\n\nP Schwaller*, D Probst, AC Vaucher, VH Nair, D Kreutter, T Laino, JL Reymond. Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. Nat. Mach. Int., 2021, 3, 144–152. [News & Views]. [Matters Arising]. Synthesis and enabling technologies collection. Featured in C&EN. [Code].\n\n\n\n\n\nG Pesciullesi•, P Schwaller•, T Laino, JL Reymond. Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates. Nature Comm., 2020, 11, 4874. Editors’ highlight in Organic Chemistry and Chemical Biology. [Blog]. [Code].\n\n\n\n\n\nAC Vaucher, F Zipoli, J Geluykens, VH Nair, P Schwaller, T Laino. Automated extraction of chemical synthesis actions from experimental procedures. Nature Comm., 2020, 11 (1), 2041-1723. Editors’ highlight in Computation and Machine Learning for Chemistry. Featured in C&EN. [Blog]. [Code].\n\n\n\n\n\nH Öztürk, A Özgür, P Schwaller, T Laino, E Ozkirimli. Exploring chemical space using natural language processing methodologies for drug discovery. Drug Discovery Today, 2020, 25 (4), 689-705.\n\n\n\n\n\nP Schwaller*, R Petraglia, V Zullo, V H Nair, R A Haeuselmann, R Pisoni, C Bekas, A Iuliano, T Laino. Predicting retrosynthetic pathways using a combined linguistic model and hyper-graph exploration strategy. Chem. Sci., 2020,11, 3316-3325. [Blog].\n\n\n\n\n\nVH Nair, P Schwaller, T Laino. Data-driven Chemical Reaction Prediction and Retrosynthesis. Chimia, 2020, 73 (12), 997-1000. Invited article for special “Artificial Intelligence in Swiss Chemical Research” issue.\n\n\nP Schwaller*, T Laino, T Gaudin, P Bolgar, CA Hunter, C Bekas, AA Lee. Molecular Transformer – A Model for Uncertainty-Calibrated Chemical Reaction Prediction. ACS Cent. Sci. 2019, 5, 9, 1572–1583. ACS Central Science Top-10 Most Read Articles in 2020. Featured in C&EN, Chemistry World. [Blog]. [Code].\n\n\n\n\n\nP Schwaller•*, T Gaudin•, D Lanyi, C Bekas, T Laino. Found in Translation: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models. Chem. Sci., 2018, 9, 6091-609. Chemical Science: Most popular articles 2018-2019. Featured in Chemistry World, IEEE Spectrum, MIT Technology Review, phys.org. [Blog].\n\n\n\n\n\nM Makha, P Schwaller, K Strassel, SB Anantharaman, F Nüesch, R Hany, J Heier. Insights into photovoltaic properties of ternary organic solar cells from phase diagrams. Sci. Technol. Adv. Mater., 2018, 19, 1, 669–682.\n\n\nN Mounet, M Gibertini, P Schwaller, D Campi, A Merkys, A Marrazzo, T Sohier, IE Castelli, A Cepellotti, G Pizzi, N Marzari. Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds. Nature Nanotech., 2018, 13, 246–252. HPC Max Prize 2017. Nature Nanotechnology cover. [News & Views]. Featured in arstechnica, phys.org. [Blog]. [Code]."
   },
   {
     "objectID": "posts/230308_xu/index.html",
@@ -42,11 +28,18 @@
     "text": "Xu joins LIAC to carry out her Bachelor’s thesis! Welcome Xu and we are looking forward to doing great science together!\n\n\n\nXu"
   },
   {
-    "objectID": "posts/230127_potluck/index.html",
-    "href": "posts/230127_potluck/index.html",
-    "title": "Potluck",
+    "objectID": "posts/221107_kickoff/index.html",
+    "href": "posts/221107_kickoff/index.html",
+    "title": "Kickoff Group Meeting",
     "section": "",
-    "text": "We recently had a lab potluck event!\nEveryone brought food to share and it was a perfect way to end the work week!\n\n\n\nBefore we enjoyed the food and drinks"
+    "text": "Last week we had our kickoff group meeting!\nIt was awesome to see what our talented group members presented only a few months after starting their PhD and projects.\nSay hi to Anna Kapeliukha, who will be with us for 3-month project.\nAnna, it’s a great pleasure to have you here!\nAfter the group meeting, we went to a Chinese restaurant and discovered many delicious dishes Junwu had ordered for us. Thanks, Junwu!\n\n\n\nDinner with the LIAC team"
+  },
+  {
+    "objectID": "posts/220301_bojana/index.html",
+    "href": "posts/220301_bojana/index.html",
+    "title": "Welcome, Bojana!",
+    "section": "",
+    "text": "We are delighted to welcome Bojana Rankovic as a PhD student! She will be part of our NCCR Catalysis team.\n\nBojana got her undergraduate degree in computer science at the University of Belgrade and her master’s in computer science at EPFL. She completed an internship at IBM research and completed her master’s thesis at ETH Zürich. Welcome!"
   },
   {
     "objectID": "posts/230125_paulo/index.html",
@@ -56,25 +49,18 @@
     "text": "We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.\n\nPaulo got his undergraduate degree and master’s degrees in Physics Engineering at NOVA School of Science and Technology in Portugal and is currently a machine learning scientist at Pharmaceuticals."
   },
   {
-    "objectID": "posts/221003_victor/index.html",
-    "href": "posts/221003_victor/index.html",
-    "title": "Welcome, Victor!",
+    "objectID": "posts/230410_cheng_hua/index.html",
+    "href": "posts/230410_cheng_hua/index.html",
+    "title": "Welcome Cheng-Hua!",
     "section": "",
-    "text": "We are delighted to welcome Victor Sabanza as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and the Luterbacher group (LPDC)\n\nVictor got his undergraduate degree in chemistry at the University of La Rioja and his master’s degree in complex systems chemistry at Strasbourg University. Welcome!"
+    "text": "Cheng-Hua joins LIAC for his master’s thesis!\n\n\n\nCheng-Hua"
   },
   {
-    "objectID": "posts/230317_stephane/index.html",
-    "href": "posts/230317_stephane/index.html",
-    "title": "Welcome Stéphane!",
+    "objectID": "posts/220404_oli/index.html",
+    "href": "posts/220404_oli/index.html",
+    "title": "Welcome, Oliver!",
     "section": "",
-    "text": "Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).\n\n\n\nStéphane"
-  },
-  {
-    "objectID": "posts/230403_rebecca/index.html",
-    "href": "posts/230403_rebecca/index.html",
-    "title": "Welcome Rebecca!",
-    "section": "",
-    "text": "Rebecca joins LIAC as a joint PhD student with the Laboratory of Protein Design and Immunoengineering (LPDI) working at the exciting intersection of machine learning and biology!\n\n\n\nRebecca"
+    "text": "We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.\n\nOliver got his undergraduate and master’s degrees in chemical engineering at ETH Zürich. He completed his master’s thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!"
   },
   {
     "objectID": "posts/220805_junwu/index.html",
@@ -84,6 +70,34 @@
     "text": "We have the great pleasure of welcoming Junwu Chen as a new NCCR Catalysis PhD student.\n\nJunwu joins the us from the Chinese Academy of Sciences (CAS) in Beijing. If you want to read some of his previous work, they are available from his Google Scholar profile.\nWe are super excited to have you here!"
   },
   {
+    "objectID": "posts/230403_rebecca/index.html",
+    "href": "posts/230403_rebecca/index.html",
+    "title": "Welcome Rebecca!",
+    "section": "",
+    "text": "Rebecca joins LIAC as a joint PhD student with the Laboratory of Protein Design and Immunoengineering (LPDI) working at the exciting intersection of machine learning and biology!\n\n\n\nRebecca"
+  },
+  {
+    "objectID": "posts/220801_andres/index.html",
+    "href": "posts/220801_andres/index.html",
+    "title": "Welcome, Andres!",
+    "section": "",
+    "text": "We are delighted to welcome Andres Camilo Marulanda Bran as a PhD student! He is part of our NCCR Catalysis team.\n\nAndres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White’s group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig."
+  },
+  {
+    "objectID": "posts/230127_potluck/index.html",
+    "href": "posts/230127_potluck/index.html",
+    "title": "Potluck",
+    "section": "",
+    "text": "We recently had a lab potluck event!\nEveryone brought food to share and it was a perfect way to end the work week!\n\n\n\nBefore we enjoyed the food and drinks"
+  },
+  {
+    "objectID": "posts/220901_jeff/index.html",
+    "href": "posts/220901_jeff/index.html",
+    "title": "Welcome, Jeff!",
+    "section": "",
+    "text": "We are delighted to welcome Jeff Guo as a PhD student! He will be part of our NCCR Catalysis team.\n\nJeff Guo recently completed the grad program at AstraZeneca, where he was working on reinforcement learning for molecular design. Before that he received a MRes in Drug Discovery and Development from Imperial College London and BSc in Chemistry from the McGill University.\nFor a list of all his publication you can check out his Google Scholar profile"
+  },
+  {
     "objectID": "posts/230220_masters_students/index.html",
     "href": "posts/230220_masters_students/index.html",
     "title": "Welcome Artur, Malte, and Lucien as new project and master’s students!",
@@ -91,11 +105,46 @@
     "text": "Artur, Malte, and Lucien join LIAC as project and master’s students! We are looking forward to doing great science together!\n\n\n\nArtur\n\n\n\n\n\nMalte\n\n\n\n\n\nLucien"
   },
   {
-    "objectID": "posts/221107_kickoff/index.html",
-    "href": "posts/221107_kickoff/index.html",
-    "title": "Kickoff Group Meeting",
+    "objectID": "posts/221003_victor/index.html",
+    "href": "posts/221003_victor/index.html",
+    "title": "Welcome, Victor!",
     "section": "",
-    "text": "Last week we had our kickoff group meeting!\nIt was awesome to see what our talented group members presented only a few months after starting their PhD and projects.\nSay hi to Anna Kapeliukha, who will be with us for 3-month project.\nAnna, it’s a great pleasure to have you here!\nAfter the group meeting, we went to a Chinese restaurant and discovered many delicious dishes Junwu had ordered for us. Thanks, Junwu!\n\n\n\nDinner with the LIAC team"
+    "text": "We are delighted to welcome Victor Sabanza as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and the Luterbacher group (LPDC)\n\nVictor got his undergraduate degree in chemistry at the University of La Rioja and his master’s degree in complex systems chemistry at Strasbourg University. Welcome!"
+  },
+  {
+    "objectID": "posts/230217_toboganning/index.html",
+    "href": "posts/230217_toboganning/index.html",
+    "title": "Toboganning in Leysin",
+    "section": "",
+    "text": "We recently had our first LIAC winter event!\nThe team enjoyed an amazing lunch in Leysin village, trying out local fondue specialties and rostï, before heading to toboganning.\nIt was great to have the whole team together!\n\n\n\nLunch before toboganning\n\n\n\n\n\nToboganning"
+  },
+  {
+    "objectID": "posts/230317_stephane/index.html",
+    "href": "posts/230317_stephane/index.html",
+    "title": "Welcome Stéphane!",
+    "section": "",
+    "text": "Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).\n\n\n\nStéphane"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Philippe Schwaller\n\n\n\n\n\n\n\n\nPhilippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills – in his case a combination of chemistry, materials science, computer science, and experimental research.\n\n5 years at IBM Research – Zurich (with Dr. Teodoro Laino)\nPhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern\nMPhil (2019) in Physics, University of Cambridge\nBSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL\n\n\n —  —  —"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\nProject students\n\nThéo Neukomm (EPFL, master semester project, Fall 2022)\nAnna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Welcome Cheng-Hua!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Rebecca!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 3, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Stéphane!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Xu!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Artur, Malte, and Lucien as new project and master’s students!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nToboganning in Leysin\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nPotluck\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Paulo!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nKickoff Group Meeting\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Victor!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Jeff!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Junwu!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Andres!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Oliver!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Bojana!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -116,48 +165,6 @@
     "href": "openings.html#phd-and-postdoc-positions",
     "title": "Openings",
     "section": "PhD and Postdoc positions",
-    "text": "PhD and Postdoc positions\nCurrently there is no position available.\nStrategic Synthesis Planning, PhD/Postdoc (Deadline: May 5th)\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Welcome Rebecca!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 3, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Stéphane!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Xu!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome Artur, Malte, and Lucien as new project and master’s students!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nToboganning in Leysin\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nPotluck\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Paulo!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nKickoff Group Meeting\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nLIAC event\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Victor!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Jeff!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Junwu!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Andres!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Oliver!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2022\n\n\nLIAC team\n\n\n\n\n\n\n  \n\n\n\n\nWelcome, Bojana!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Philippe Schwaller\n\n\n\n\n\n\n\n\nPhilippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills – in his case a combination of chemistry, materials science, computer science, and experimental research.\n\n5 years at IBM Research – Zurich (with Dr. Teodoro Laino)\nPhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern\nMPhil (2019) in Physics, University of Cambridge\nBSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL\n\n\n —  —  —"
-  },
-  {
-    "objectID": "team.html#alumni",
-    "href": "team.html#alumni",
-    "title": "Team",
-    "section": "Alumni",
-    "text": "Alumni\n\nProject students\n\nThéo Neukomm (EPFL, master semester project, Fall 2022)"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "A full list is available from the following Google Scholar profile."
-  },
-  {
-    "objectID": "research.html#journal-and-workshop-papers",
-    "href": "research.html#journal-and-workshop-papers",
-    "title": "Research",
-    "section": "Journal and workshop papers",
-    "text": "Journal and workshop papers\n\n\nKM Jablonka, P Schwaller, A Ortega-Guerrero, B Smit. Is GPT-3 all you need for low-data discovery in chemistry?. 10.26434/chemrxiv-2023-fw8n4, 2023.\n\n\n\n\n\nJ Guo, B Ranković, P Schwaller*. Bayesian Optimization for Chemical Reactions. Chimia, 2023, 77, 31-31.\n\n\nB Ranković, RR Griffiths, HB Moss, P Schwaller*. Bayesian optimisation for additive screening and yield improvements in chemical reactions–beyond one-hot encodings. 10.26434/chemrxiv-2022-nll2j, 2022.\n\n\n\n\n\nRR Griffiths, L Klarner, HB Moss, A Ravuri, S Truong, B Rankovic, Y Du, A Jamasb, J Schwartz, A Tripp, G Kell, A Bourached, A Chan, J Moss, C Guo, AA Lee, P Schwaller, J Tang. GAUCHE: A Library for Gaussian Processes in Chemistry. arXiv:2212.04450, 2022.\n\n\nS Barthel, M Krenn, Qi Ai, N Carson, A Frei, NC Frey, P Friederich, T Gaudin, AA Gayle, KM Jablonka, RF Lameiro, D Lemm, A Lo, SM Moosavi, JM Napoles-Duarte, AK Nigam, R Pollice, K Rajan, U Schatzschneider, P Schwaller, M Skreta, B Smit, F Strieth-Kalthoff, C Sun, G Tom, GF von Rudolf, A Wang, A White, A Young, R Yu, A Aspuru-Guzik. SELFIES and the future of molecular string representations. Patterns, 2022, 3, 10, 100588."
-  },
-  {
-    "objectID": "research.html#prior-to-epfl",
-    "href": "research.html#prior-to-epfl",
-    "title": "Research",
-    "section": "Prior to EPFL",
-    "text": "Prior to EPFL\n\n\nA Toniato, AC Vaucher, P Schwaller, T Laino. Enhancing diversity in language based models for single-step retrosynthesis. Digital Discovery, 2023, Accepted manuscript.\n\n\nD Probst, P Schwaller, JL Reymond. Reaction classification and yield prediction using the differential reaction fingerprint DRFP. Digital Discovery, 2022, 1, 91-97.\n\n\n\n\n\nP Schwaller*, AC Vaucher, R Laplaza, C Bunne, A Krause, C Corminboeuf, and T Laino. Machine intelligence for chemical reaction space. WIREs Comput. Mol. Sci., 2022, e1604.\n\n\n\n\n\nA Thakkar, P Schwaller*. How AI for Synthesis Can Help Tackle Challenges in Molecular Discovery. CHIMIA, 2021, 75, 7-8, 677-678.\n\n\nD Kreutter, P Schwaller, JL Reymond. Predicting Enzymatic Reactions with a Molecular Transformer. Chem. Sci., 2021, 12, 8648-8659. Chemical Science cover. Most popular 2021 physical and theoretical chemistry articles.\n\n\n\n\n\nAC Vaucher, P Schwaller, J Geluykens, VH Nair, A Iuliano, T Laino. Inferring experimental procedures from text-based representations of chemical reactions. Nature Comm., 2021, 12 (1), 1-11. Editors’ highlight in Computation and Machine Learning for Chemistry. [Blog]. [Code].\n\n\n\n\n\nP Schwaller*, B Hoover, JL Reymond, H Strobelt, T Laino. Extraction of organic chemistry grammar from unsupervised learning of chemical reactions. Sci. Adv., 2021, 7, 15, abe416. Featured in TechTalks, C&EN. [Code].\n\n\n\n\n\nP Schwaller*, AC Vaucher, T Laino, JL Reymond. Prediction of Chemical Reaction Yields using Deep Learning. Mach. Learn.: Sci. Technol., 2021, 2, 015016. Invited article for “Machine Learning for Chemical Reactions” focus collection. [Code].\n\n\n\n\n\nA Toniato, P Schwaller, A Cardinale, J Geluykens, T Laino. Unassisted Noise-Reduction of Chemical Reactions Data Sets. Nat. Mach. Int., 2021, 3, 485–494. [Code].\n\n\n\n\n\nP Schwaller*, D Probst, AC Vaucher, VH Nair, D Kreutter, T Laino, JL Reymond. Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. Nat. Mach. Int., 2021, 3, 144–152. [News & Views]. [Matters Arising]. Synthesis and enabling technologies collection. Featured in C&EN. [Code].\n\n\n\n\n\nG Pesciullesi•, P Schwaller•, T Laino, JL Reymond. Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates. Nature Comm., 2020, 11, 4874. Editors’ highlight in Organic Chemistry and Chemical Biology. [Blog]. [Code].\n\n\n\n\n\nAC Vaucher, F Zipoli, J Geluykens, VH Nair, P Schwaller, T Laino. Automated extraction of chemical synthesis actions from experimental procedures. Nature Comm., 2020, 11 (1), 2041-1723. Editors’ highlight in Computation and Machine Learning for Chemistry. Featured in C&EN. [Blog]. [Code].\n\n\n\n\n\nH Öztürk, A Özgür, P Schwaller, T Laino, E Ozkirimli. Exploring chemical space using natural language processing methodologies for drug discovery. Drug Discovery Today, 2020, 25 (4), 689-705.\n\n\n\n\n\nP Schwaller*, R Petraglia, V Zullo, V H Nair, R A Haeuselmann, R Pisoni, C Bekas, A Iuliano, T Laino. Predicting retrosynthetic pathways using a combined linguistic model and hyper-graph exploration strategy. Chem. Sci., 2020,11, 3316-3325. [Blog].\n\n\n\n\n\nVH Nair, P Schwaller, T Laino. Data-driven Chemical Reaction Prediction and Retrosynthesis. Chimia, 2020, 73 (12), 997-1000. Invited article for special “Artificial Intelligence in Swiss Chemical Research” issue.\n\n\nP Schwaller*, T Laino, T Gaudin, P Bolgar, CA Hunter, C Bekas, AA Lee. Molecular Transformer – A Model for Uncertainty-Calibrated Chemical Reaction Prediction. ACS Cent. Sci. 2019, 5, 9, 1572–1583. ACS Central Science Top-10 Most Read Articles in 2020. Featured in C&EN, Chemistry World. [Blog]. [Code].\n\n\n\n\n\nP Schwaller•*, T Gaudin•, D Lanyi, C Bekas, T Laino. Found in Translation: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models. Chem. Sci., 2018, 9, 6091-609. Chemical Science: Most popular articles 2018-2019. Featured in Chemistry World, IEEE Spectrum, MIT Technology Review, phys.org. [Blog].\n\n\n\n\n\nM Makha, P Schwaller, K Strassel, SB Anantharaman, F Nüesch, R Hany, J Heier. Insights into photovoltaic properties of ternary organic solar cells from phase diagrams. Sci. Technol. Adv. Mater., 2018, 19, 1, 669–682.\n\n\nN Mounet, M Gibertini, P Schwaller, D Campi, A Merkys, A Marrazzo, T Sohier, IE Castelli, A Cepellotti, G Pizzi, N Marzari. Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds. Nature Nanotech., 2018, 13, 246–252. HPC Max Prize 2017. Nature Nanotechnology cover. [News & Views]. Featured in arstechnica, phys.org. [Blog]. [Code]."
+    "text": "PhD and Postdoc positions\nStrategic Synthesis Planning, PhD/Postdoc (Deadline: May 5th)\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
   }
 ]
