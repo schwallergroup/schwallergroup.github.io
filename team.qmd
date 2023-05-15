@@ -9,6 +9,9 @@ title: "Team"
     text-decoration:none;
    -webkit-text-decoration:none;
   }
+  a:link:hover {
+    color:black;
+  }
 </style>
 
 # Principal Investigator  
@@ -35,7 +38,8 @@ title: "Team"
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# Philippe Schwaller
+# [Philippe Schwaller](people/philippe_schwaller.qmd)
+<a href="people/philippe_schwaller.qmd" style="text-decoration: none">
 
 Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research. 
 
@@ -43,6 +47,8 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 - PhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern
 - MPhil (2019) in Physics, University of Cambridge
 - BSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL
+
+</a>
 
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/NMy7s8rr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) --- [{{< fa brands github size=2xl >}}](https://github.com/pschwllr) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
@@ -60,8 +66,6 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 ::: {.callout-note .column-page appearance="simple" icon=false}
 
 
-
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
@@ -73,12 +77,16 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### Stéphane d'Ascoli
+### [Stéphane d'Ascoli](people/stephane_ascoli.qmd)
+<a href="people/stephane_ascoli.qmd" style="text-decoration: none">
+
+
 - AI4Science research fellow
 - PhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)
 - BSc and MSc in theoretical physics
 - Research interests include overparameterized neural networks and their applications to computer vision, symbolic mathematics and the natural sciences
 
+</a>
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/Lr7SORC9) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/stephanedascoli) --- [{{< fa brands github size=2xl >}}](https://github.com/sdascoli) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=en)
 </div>
@@ -118,6 +126,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 :::
 
+
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
 ::: {.callout-note appearance="simple" icon=false}
@@ -129,6 +138,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 - Started in April 2022 (based at IBM Research)
 - MSc and BSc in Chemistry and Chemical Engineering, ETHZ
+
 </a>
 
 <div class="center">
@@ -149,13 +159,12 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 - Started in August 2022
 - BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin
+
 </a>
+
 <div class="center">
-
-
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom) 
 </div>
-
 
 :::
 
@@ -165,12 +174,15 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Junwu Chen
+## [Junwu Chen](people/junuwu_chen.qmd)
+<a href="people/junuwu_chen.qmd" style="text-decoration: none">
 
 <img src="images/junwu.jpg" alt="Junwu's profile picture" class="img-fluid img-round" />
 
 - Started in August 2022
 - MSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing
+
+</a>
 
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/Asvfx7kH) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JunwuChen25) --- [{{< fa brands github size=2xl >}}](https://github.com/jwchen25) 
@@ -184,13 +196,16 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Jeff Guo
+## [Jeff Guo](people/jeff_guo.qmd)
+<a href="people/jeff_guo.qmd" style="text-decoration: none">
 
 <img src="images/jeff.jpg" alt="Jeff's profile picture" class="img-fluid img-round" />
 
 - Started in September 2022
 - AstraZeneca Grad Program
 - MRes, Imperial College London and BSc, McGill University
+
+</a>
 
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/48LY5AGP) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JeffGuo__) --- [{{< fa brands github size=2xl >}}](https://github.com/GuoJeff) 
@@ -205,7 +220,8 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Víctor Sabanza Gil 
+## [Víctor Sabanza Gil](people/victor_sabanza.qmd)
+<a href="people/victor_sabanza.qmd" style="text-decoration: none">
 
 <img src="images/victor.jpg" alt="Victor's profile picture" class="img-fluid img-round" />
 
@@ -213,6 +229,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - Joint with LDPC
 - MSc in Chemistry, Strasbourg University and BSc, La Rioja
 
+</a>
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) 
 </div>
@@ -228,13 +245,15 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Paulo Neves
+## [Paulo Neves](people/paulo_neves.qmd)
+<a href="people/paulo_neves.qmd" style="text-decoration: none">
 
 <img src="images/paulo-square.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
 
 - Started in January 2023 (with Janssen Pharmaceuticals)
 - BSc and MSc in Physics Engineering, NOVA School of Science and Technology
 
+</a>
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/u6TBDmoN) --- [{{< fa brands twitter size=2xl >}}]() --- [{{< fa brands github size=2xl >}}]()
 </div>
@@ -250,24 +269,22 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Rebecca Neeser
+## [Rebecca Neeser](people/rebecca_neeser.qmd)
+<a href="people/rebecca_neeser.qmd" style="text-decoration: none">
 
 <img src="images/rebecca.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
 
 - Joint with LPDI
 - BSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT
 
+</a>
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/i6PiL7mC) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/RebeccaNeeser) --- [{{< fa brands github size=2xl >}}](https://github.com/rneeser)
 </div>
 
-
-
 :::
 
 :::
-
-
 
 :::
 

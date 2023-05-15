@@ -232,8 +232,8 @@ I am truly excited to be a part of this scientific group, where we can collabora
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 - Master thesis at Jensen Group at MIT
-- MSc in Bio & -Chemical Engineering from ETHZ
-- BSc in Chemical Engineering from ETHZ
+- MSc in Bio & -Chemical Engineering from ETH Zürich
+- BSc in Chemical Engineering from ETH Zürich
 
 :::
 
