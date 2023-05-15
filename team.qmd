@@ -1,24 +1,41 @@
 ---
 title: "Team"
-# page-layout: full
 ---
+<style>
+  .quarto-title {
+    display: none;
+  }
+  a:link{
+    text-decoration:none;
+   -webkit-text-decoration:none;
+  }
+</style>
 
-### PI
+# Principal Investigator  
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
 
 
-## Philippe Schwaller
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+<style>
+  .img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+</style>
 
-<img src="images/philippe.jpg" alt="Philippe's profile picture" class="img-fluid img-round" />
+<div class="img-container">
+  ![](images/philippe.jpg){.img-fluid .img-round}
+</div>
 
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+# Philippe Schwaller
 
 Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research. 
 
@@ -38,23 +55,25 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 
 
-### Postdoctoral Associates
+## Postdoctoral Associates
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
 
 
-## Stéphane d'Ascoli
+
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
 
-<img src="images/stephane.jpg" alt="Stéphane's profile picture" class="img-fluid img-round" />
 
+<div class="img-container">
+  ![](images/stephane.jpg){.img-fluid .img-round}
+</div>
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-
+### Stéphane d'Ascoli
 - AI4Science research fellow
 - PhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)
 - BSc and MSc in theoretical physics
@@ -70,29 +89,28 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 
 :::
 
-### Administrative Assistant
+## Administrative Assistant
 Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly. 
 
 
-### PhD Students
+## PhD Students
 
 ::: {.grid .column-page}
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
 ::: {.callout-note  appearance="simple" icon=false}
-
-## Bojana Ranković
-
+ 
+# [Bojana Ranković](people/bojana_rankovic.qmd)
+<a href="people/bojana_rankovic.qmd" style="text-decoration: none">
 <img src="images/bojana.jpg" alt="Bojana's profile picture" class="img-fluid img-round" />
 
 - Started in March 2022
 - MSc in Computer Science, EPFL
 - BSc in Computer Science, University of Belgrade
 
+</a>
 <div class="center">
-
-
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/3CQKYvPe) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/6ojaHa) --- [{{< fa brands github size=2xl >}}](https://github.com/bojana-rankovic) 
 </div>
 
@@ -104,16 +122,16 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Oliver Schilter
+# [Oliver Schilter](people/oliver_schilter.qmd)
 
+<a href="people/oliver_schilter.qmd" style="text-decoration: none">
 <img src="images/oliver.jpg" alt="Oliver's profile picture" class="img-fluid img-round" />
 
 - Started in April 2022 (based at IBM Research)
 - MSc and BSc in Chemistry and Chemical Engineering, ETHZ
+</a>
 
 <div class="center">
-
-
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) 
 </div>
 
@@ -125,18 +143,19 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.callout-note appearance="simple" icon=false}
 
-## Andres CM Bran
-
+# [Andres CM Bran](people/andres_bran.qmd)
+<a href="people/andres_bran.qmd" style="text-decoration: none">
 <img src="images/andres.jpg" alt="Andres' profile picture" class="img-fluid img-round" />
 
 - Started in August 2022
 - BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin
-
+</a>
 <div class="center">
 
 
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom) 
 </div>
+
 
 :::
 
@@ -350,7 +369,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ## Cheng-Hua (Lance) Huang
 
-<img src="images/cheng_hua.jpg" alt="Cheng-Hua's profile picture" class="img-fluid img-round" />
+<img src="images/cheng_hua.jpg" alt="Cheng-Hua's profile picture" class="img-fluid img-round"/>
 
 - April 2023 - August 2023
 - Master's thesis
@@ -372,9 +391,9 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 :::
 
-## Alumni
+# Alumni
 
-### Project students
+## Project students
 
 - Théo Neukomm (EPFL, master semester project, Fall 2022)
 - Anna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)

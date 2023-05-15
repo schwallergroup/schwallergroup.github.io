@@ -3,9 +3,10 @@ title: "Welcome Cheng-Hua!"
 author: "LIAC team"
 date: "2023-04-10"
 categories: [news]
-image: ""
+image: "cheng_hua.jpg"
 ---
 
-Cheng-Hua joins LIAC for his master's thesis!
+
+Cheng-Hua joins LIAC for his master's thesis! Cool!
 
 ![Cheng-Hua](cheng_hua.jpg)
