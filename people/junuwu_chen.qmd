@@ -40,7 +40,7 @@ console.log(entries.length)
     });
     
     for (var k = 0; k < formattedAuthors.length; k++) {
-        if (formattedAuthors[k] === author_name || formattedAuthors[k] === author_name.concat("*") {
+        if (formattedAuthors[k] === author_name || formattedAuthors[k] === author_name.concat("*")) {
         html += "<b>" + formattedAuthors[k] + "</b>";
         } else {
         html += formattedAuthors[k];
