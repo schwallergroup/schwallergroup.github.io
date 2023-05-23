@@ -209,8 +209,8 @@ window.addEventListener('DOMContentLoaded', function() {
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 
-MSc in Chemical Engineering from University of Chinese Academy of Sciences
-BSc in Chemical Engineering and Technology from Wuhan University of Technology
+- MSc in Chemical Engineering from University of Chinese Academy of Sciences
+- BSc in Chemical Engineering and Technology from Wuhan University of Technology
 
 :::
 
@@ -219,7 +219,7 @@ BSc in Chemical Engineering and Technology from Wuhan University of Technology
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}]() --- junwu.chen@epfl.ch
+- {{< fa envelope size=2xl >}} --- junwu.chen@epfl.ch
 
 - [{{< fa brands twitter size=2xl >}}](https://twitter.com/JunwuChen25) --- [https://twitter.com/JunwuChen25](https://twitter.com/JunwuChen25)
 
