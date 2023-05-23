@@ -7,11 +7,11 @@
     "text": "A full list is available from the following Google Scholar profile."
   },
   {
-    "objectID": "research.html#journal-and-workshop-papers",
-    "href": "research.html#journal-and-workshop-papers",
+    "objectID": "research.html#journal-articles-workshop-papers-and-preprints",
+    "href": "research.html#journal-articles-workshop-papers-and-preprints",
     "title": "Research",
-    "section": "Journal and workshop papers",
-    "text": "Journal and workshop papers\n\n\nKM Jablonka, P Schwaller, A Ortega-Guerrero, B Smit. Is GPT-3 all you need for low-data discovery in chemistry?. 10.26434/chemrxiv-2023-fw8n4, 2023.\n\n\n\n\n\nJ Guo, B Ranković, P Schwaller*. Bayesian Optimization for Chemical Reactions. Chimia, 2023, 77, 31-31.\n\n\nB Ranković, RR Griffiths, HB Moss, P Schwaller*. Bayesian optimisation for additive screening and yield improvements in chemical reactions–beyond one-hot encodings. 10.26434/chemrxiv-2022-nll2j, 2022.\n\n\n\n\n\nRR Griffiths, L Klarner, HB Moss, A Ravuri, S Truong, B Rankovic, Y Du, A Jamasb, J Schwartz, A Tripp, G Kell, A Bourached, A Chan, J Moss, C Guo, AA Lee, P Schwaller, J Tang. GAUCHE: A Library for Gaussian Processes in Chemistry. arXiv:2212.04450, 2022.\n\n\nS Barthel, M Krenn, Qi Ai, N Carson, A Frei, NC Frey, P Friederich, T Gaudin, AA Gayle, KM Jablonka, RF Lameiro, D Lemm, A Lo, SM Moosavi, JM Napoles-Duarte, AK Nigam, R Pollice, K Rajan, U Schatzschneider, P Schwaller, M Skreta, B Smit, F Strieth-Kalthoff, C Sun, G Tom, GF von Rudolf, A Wang, A White, A Young, R Yu, A Aspuru-Guzik. SELFIES and the future of molecular string representations. Patterns, 2022, 3, 10, 100588."
+    "section": "Journal articles, workshop papers, and preprints",
+    "text": "Journal articles, workshop papers, and preprints\n\n\nJ Guo, P Schwaller. Augmented Memory: Capitalizing on Experience Replay to Accelerate De Novo Molecular Design. 10.26434/chemrxiv-2023-qmqmq-v3, 2023.\n\n\n\n\n\nAM Bran, S Cox, AD White, P Schwaller. ChemCrow: Augmenting large-language models with chemistry tools. arXiv:2304.05376, 2023.\n\n\nO Schilter, A Vaucher, P Schwaller, T Laino. Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions. Digital Discovery, 2023.\n\n\n\n\n\nKM Jablonka, P Schwaller, A Ortega-Guerrero, B Smit. Is GPT-3 all you need for low-data discovery in chemistry?. 10.26434/chemrxiv-2023-fw8n4, 2023.\n\n\n\n\n\nJ Guo, B Ranković, P Schwaller*. Bayesian Optimization for Chemical Reactions. Chimia, 2023, 77, 31-31.\n\n\nB Ranković, RR Griffiths, HB Moss, P Schwaller*. Bayesian optimisation for additive screening and yield improvements in chemical reactions–beyond one-hot encodings. 10.26434/chemrxiv-2022-nll2j, 2022.\n\n\n\n\n\nRR Griffiths, L Klarner, HB Moss, A Ravuri, S Truong, B Rankovic, Y Du, A Jamasb, J Schwartz, A Tripp, G Kell, A Bourached, A Chan, J Moss, C Guo, AA Lee, P Schwaller, J Tang. GAUCHE: A Library for Gaussian Processes in Chemistry. arXiv:2212.04450, 2022.\n\n\nAM Bran, P Schwaller. Differential top-k learning for template-based single-step retrosynthesis. AI for Accelerated Materials Design NeurIPS 2022 workshop, 2022.\n\nS Barthel, M Krenn, Qi Ai, N Carson, A Frei, NC Frey, P Friederich, T Gaudin, AA Gayle, KM Jablonka, RF Lameiro, D Lemm, A Lo, SM Moosavi, JM Napoles-Duarte, AK Nigam, R Pollice, K Rajan, U Schatzschneider, P Schwaller, M Skreta, B Smit, F Strieth-Kalthoff, C Sun, G Tom, GF von Rudolf, A Wang, A White, A Young, R Yu, A Aspuru-Guzik. SELFIES and the future of molecular string representations. Patterns, 2022, 3, 10, 100588."
   },
   {
     "objectID": "research.html#prior-to-epfl",
@@ -53,7 +53,7 @@
     "href": "posts/230410_cheng_hua/index.html",
     "title": "Welcome Cheng-Hua!",
     "section": "",
-    "text": "Cheng-Hua joins LIAC for his master’s thesis!\n\n\n\nCheng-Hua"
+    "text": "Cheng-Hua joins LIAC for his master’s thesis! Cool!\n\n\n\nCheng-Hua"
   },
   {
     "objectID": "posts/220404_oli/index.html",
@@ -130,14 +130,14 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Philippe Schwaller\n\n\n\n\n\n\n\n\nPhilippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills – in his case a combination of chemistry, materials science, computer science, and experimental research.\n\n5 years at IBM Research – Zurich (with Dr. Teodoro Laino)\nPhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern\nMPhil (2019) in Physics, University of Cambridge\nBSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL\n\n\n —  —  —"
+    "text": "Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills – in his case a combination of chemistry, materials science, computer science, and experimental research.\n\n5 years at IBM Research – Zurich (with Dr. Teodoro Laino)\nPhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern\nMPhil (2019) in Physics, University of Cambridge\nBSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI4Science research fellow\nPhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)\nBSc and MSc in theoretical physics\nResearch interests include overparameterized neural networks and their applications to computer vision, symbolic mathematics and the natural sciences\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\nAnnick Gaudin () – the amazing person who makes sure that all things run smoothly.\n\n\n\n\n\n\n\n\n\n\n\nBojana Ranković\n\n\n\n \n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n \n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n \n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJeff Guo\n\n\n\n\n\n\nStarted in September 2022\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nVíctor Sabanza Gil\n\n\n\n\n\n\nStarted in October 2022\nJoint with LDPC\nMSc in Chemistry, Strasbourg University and BSc, La Rioja\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nPaulo Neves\n\n\n\n\n\n\nStarted in January 2023 (with Janssen Pharmaceuticals)\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nRebecca Neeser\n\n\n\n\n\n\nJoint with LPDI\nBSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtur Stefaniuk\n\n\n\n\n\nFebruary - June 2023\nMaster’s thesis\nMSc and BSc in Molecular & Biological Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMalte Franke\n\n\n\n\n\nFebruary - June 2023\nProject student\nBSc in Mechanical Engineering, RWTH Aachen\nMSc in Chemical Engineering, RWTH Aachen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucien Brey\n\n\n\n\n\nFebruary - June 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXu Huang\n\n\n\n\n\nMarch 2023 - July 2023\nBachelor’s thesis\nSenior undergraduate at Shanghai Jiao Tong Univeresity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCheng-Hua (Lance) Huang\n\n\n\n\n\nApril 2023 - August 2023\nMaster’s thesis\nBSc in Material Science & Engineering (MSE) at National Tsing Hua University, Taiwan\nMSc in MSE at EPFL"
   },
   {
-    "objectID": "team.html#alumni",
-    "href": "team.html#alumni",
+    "objectID": "team.html#project-students-1",
+    "href": "team.html#project-students-1",
     "title": "Team",
-    "section": "Alumni",
-    "text": "Alumni\n\nProject students\n\nThéo Neukomm (EPFL, master semester project, Fall 2022)\nAnna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)"
+    "section": "Project students",
+    "text": "Project students\n\nThéo Neukomm (EPFL, master semester project, Fall 2022)\nAnna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)"
   },
   {
     "objectID": "news.html",
@@ -166,5 +166,75 @@
     "title": "Openings",
     "section": "PhD and Postdoc positions",
     "text": "PhD and Postdoc positions\nStrategic Synthesis Planning, PhD/Postdoc (Deadline: May 5th)\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
+  },
+  {
+    "objectID": "people/rebecca_neeser.html",
+    "href": "people/rebecca_neeser.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/philippe_schwaller.html",
+    "href": "people/philippe_schwaller.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/stephane_ascoli.html",
+    "href": "people/stephane_ascoli.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/junuwu_chen.html",
+    "href": "people/junuwu_chen.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/andres_bran.html",
+    "href": "people/andres_bran.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/oliver_schilter.html",
+    "href": "people/oliver_schilter.html",
+    "title": "Oliver Schilter",
+    "section": "",
+    "text": "With a background in chemical engineering, I have had the privilege of pursuing my research jointly between EPFL and IBM Research in Zürich. My passion lies in exploring the intersection of artificial intelligence (AI) and chemistry, with a particular focus on catalysis.\nThroughout my academic journey, I have dedicated myself to understanding and harnessing the power of AI to revolutionize the field of chemistry. By leveraging cutting-edge technologies and computational models, I aim to unravel the complexities of catalytic processes and develop innovative solutions to advance sustainable chemistry.\nBeyond the realm of research, I find great joy in engaging in various activities such as Squash, running, and hiking. Additionally, I love exploring the art of cooking, experimenting with flavors and techniques to create delectable dishes that nourish both body and soul.\nI am truly excited to be a part of this scientific group, where we can collaborate, exchange ideas, and push the boundaries of scientific knowledge. Together, we can pave the way for transformative advancements in the world of AI-driven chemistry.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster thesis at Jensen Group at MIT\nMSc in Bio & -Chemical Engineering from ETH Zürich\nBSc in Chemical Engineering from ETH Zürich\n\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/jeff_guo.html",
+    "href": "people/jeff_guo.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/bojana_rankovic.html",
+    "href": "people/bojana_rankovic.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/paulo_neves.html",
+    "href": "people/paulo_neves.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/victor_sabanza.html",
+    "href": "people/victor_sabanza.html",
+    "title": "CHANGE NAME",
+    "section": "",
+    "text": "LET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n\n\n\n\n\n\n\n\nLET CHAT GPT GENERATE SOMETHING FOR YOU\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
   }
 ]
