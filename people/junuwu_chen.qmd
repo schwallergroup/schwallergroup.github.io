@@ -40,7 +40,7 @@ console.log(entries.length)
     });
     
     for (var k = 0; k < formattedAuthors.length; k++) {
-        if (formattedAuthors[k] === author_name) {
+        if (formattedAuthors[k] === author_name || formattedAuthors[k] === author_name.concat("*") {
         html += "<b>" + formattedAuthors[k] + "</b>";
         } else {
         html += formattedAuthors[k];
@@ -111,7 +111,7 @@ function BibtexParser() {
 window.addEventListener('DOMContentLoaded', function() {
       var bibtex = `@article{yuan2022host,
   title={Host--guest molecular interaction promoted urea electrosynthesis over a precisely designed conductive metal--organic framework},
-  author={Yuan, Menglei * and Chen, Junwu * and Zhang, Honghua and Li, Qiongguang and Zhou, Le and Yang, Chao and Liu, Rongji and Liu, Zhanjun and Zhang, Suojiang and Zhang, Guangjin},
+  author={Yuan, Menglei* and Chen, Junwu* and Zhang, Honghua and Li, Qiongguang and Zhou, Le and Yang, Chao and Liu, Rongji and Liu, Zhanjun and Zhang, Suojiang and Zhang, Guangjin},
   journal={Energy \& Environmental Science},
   volume={15},
   number={5},
@@ -132,7 +132,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 @article{yuan2021unveiling,
   title={Unveiling Electrochemical Urea Synthesis by Co-Activation of CO2 and N2 with Mott--Schottky Heterostructure Catalysts},
-  author={Yuan, Menglei * and Chen, Junwu * and Bai, Yiling and Liu, Zhanjun and Zhang, Jingxian and Zhao, Tongkun and Wang, Qin and Li, Shuwei and He, Hongyan and Zhang, Guangjin},
+  author={Yuan, Menglei* and Chen, Junwu* and Bai, Yiling and Liu, Zhanjun and Zhang, Jingxian and Zhao, Tongkun and Wang, Qin and Li, Shuwei and He, Hongyan and Zhang, Guangjin},
   journal={Angewandte Chemie International Edition},
   volume={60},
   number={19},
