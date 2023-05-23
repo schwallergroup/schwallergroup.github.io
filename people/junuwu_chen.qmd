@@ -19,7 +19,7 @@ title: "Junwu Chen"
 // JavaScript code here
 function convertBibtex(bibtex) {
 
-var author_name = "NAME, CHANGE"
+var author_name = "Chen, Junwu"
 
   // Parse the BibTeX input
   var parser = new BibtexParser();
@@ -185,12 +185,12 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/junwu.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Junwu Chen
 
 
 LET CHAT GPT GENERATE SOMETHING FOR YOU
