@@ -1,0 +1,199 @@
+---
+title: "CHANGE NAME"
+---
+
+
+<style>
+  .quarto-title {
+    display: none;
+  }
+  a:link{
+    text-decoration:none;
+   -webkit-text-decoration:none;
+  }
+</style>
+
+ 
+
+<script>
+// JavaScript code here
+function convertBibtex(bibtex) {
+
+var author_name = "NAME, CHANGE"
+
+  // Parse the BibTeX input
+  var parser = new BibtexParser();
+  var entries = parser.parse(bibtex);
+console.log(entries)
+console.log(entries.length)
+  // Generate the ACS HTML output
+  var html = "";
+  for (var i = 0; i < entries.length; i++) {
+    console.log(i)
+    var entry = entries[i];
+    console.log(entry)
+    html += "<p><li>";
+    if (entry.hasOwnProperty("author")) {
+    var authors = entry.author.split(/(?<!\{) and |(?<!\{)&/);
+    var formattedAuthors = authors.map(function(author) {
+        return author.trim();
+    });
+    
+    for (var k = 0; k < formattedAuthors.length; k++) {
+        if (formattedAuthors[k] === author_name) {
+        html += "<b>" + formattedAuthors[k] + "</b>";
+        } else {
+        html += formattedAuthors[k];
+        }
+        
+        if (i < formattedAuthors.length - 1) {
+        html += "; ";
+        } else {
+        html += ". ";
+        }
+    }
+    }
+    
+    if (entry.hasOwnProperty("title")) {
+      html += entry.title + ". ";
+    }
+    if (entry.hasOwnProperty("journal")) {
+      html += "<i>" + entry.journal + "</i>, ";
+    }
+    if (entry.hasOwnProperty("year")) {
+      html += entry.year + ".";
+    }
+    if (entry.hasOwnProperty("doi")) {
+      html += "<br> doi: <a href='https://doi.org/" + entry.doi + "'>" + entry.doi + "</a>.";
+    }
+    html += "</li></p>";
+    console.log(html)
+  }
+    
+  return html;
+}
+
+function BibtexParser() {
+  this.parse = function(bibtex) {
+    var entries = [];
+    var lines = bibtex.split("\n");
+
+    var currentEntry = {};
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i].trim();
+      if (line.startsWith("@")) {
+        // New entry
+        if (Object.keys(currentEntry).length > 0) {
+          entries.push(currentEntry);
+          currentEntry = {};
+        }
+        var entryType = line.match(/@(\w+)/)[1].toLowerCase();
+        currentEntry["entryType"] = entryType;
+      } else if (line.startsWith("}")) {
+        // End of entry
+        entries.push(currentEntry);
+        currentEntry = {};
+      } else if (line.includes("=")) {
+        // Field
+        var field = line.match(/(\w+)\s*=\s*{([^}]*)}/);
+        if (field) {
+          var fieldName = field[1].toLowerCase();
+          var fieldValue = field[2];
+          currentEntry[fieldName] = fieldValue;
+        }
+      }
+    }
+
+    return entries;
+  };
+}
+
+window.addEventListener('DOMContentLoaded', function() {
+      var bibtex = `@article{toniato2023role,
+  title={The Role of AI in Driving the Sustainability of the Chemical Industry},
+  author={Toniato, Alessandra and Schilter, Oliver and Laino, Teodoro},
+  journal={Chimia},
+  volume={77},
+  number={3},
+  pages={144--144},
+  year={2023}
+}
+
+@article{schilter2023designing,
+  title={Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions},
+  author={Schilter, Oliver and Vaucher, Alain and Schwaller, Philippe and Laino, Teodoro},
+  journal={Digital Discovery},
+  year={2023},
+  publisher={Royal Society of Chemistry},
+  doi={https://doi.org/10.2533/chimia.2023.144}
+}
+
+`;
+
+      document.getElementById("biblio").innerHTML = convertBibtex(bibtex);
+    });
+</script>
+
+
+::: {.callout-note .column-page appearance="simple" icon=false}
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+<style>
+  .img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+</style>
+
+<div class="img-container">
+  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+</div>
+
+:::
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+# CHANGE NAME
+
+
+LET CHAT GPT GENERATE SOMETHING FOR YOU
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+## Publications
+
+<ol>
+<div id="biblio"></div>
+</ol>
+
+
+
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+## Education
+
+LET CHAT GPT GENERATE SOMETHING FOR YOU
+
+:::
+
+
+::: {.g-col-16 .g-col-sm-8 .g-col-md-8}
+##  Links
+
+
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+
+- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+
+:::
+
+:::

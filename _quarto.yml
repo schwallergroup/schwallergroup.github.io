@@ -36,7 +36,8 @@ website:
     description: Laboratory of Artificial Chemical Intelligence at EPFL | AI-accelerated discovery and synthesis
 format:
   html:
-    theme: quartz
+    theme:
+      light: flatly
     css: styles.css
     link-external-newwindow: true
     link-external-filter: ^(?:http:|https:)\/\/schwallergroup\.github\.io\/custom

@@ -1,0 +1,255 @@
+---
+title: "Oliver Schilter"
+---
+
+
+<style>
+  .quarto-title {
+    display: none;
+  }
+  a:link{
+    text-decoration:none;
+   -webkit-text-decoration:none;
+  }
+</style>
+
+ 
+
+<script>
+// JavaScript code here
+function convertBibtex(bibtex) {
+
+var author_name = "Schilter, Oliver"
+
+  // Parse the BibTeX input
+  var parser = new BibtexParser();
+  var entries = parser.parse(bibtex);
+console.log(entries)
+console.log(entries.length)
+  // Generate the ACS HTML output
+  var html = "";
+  for (var i = 0; i < entries.length; i++) {
+    console.log(i)
+    var entry = entries[i];
+    console.log(entry)
+    html += "<p><li>";
+    if (entry.hasOwnProperty("author")) {
+    var authors = entry.author.split(/(?<!\{) and |(?<!\{)&/);
+    var formattedAuthors = authors.map(function(author) {
+        return author.trim();
+    });
+    
+    for (var k = 0; k < formattedAuthors.length; k++) {
+        if (formattedAuthors[k] === author_name) {
+        html += "<b>" + formattedAuthors[k] + "</b>";
+        } else {
+        html += formattedAuthors[k];
+        }
+        
+        if (i < formattedAuthors.length - 1) {
+        html += "; ";
+        } else {
+        html += ". ";
+        }
+    }
+    }
+    
+    if (entry.hasOwnProperty("title")) {
+      html += entry.title + ". ";
+    }
+    if (entry.hasOwnProperty("journal")) {
+      html += "<i>" + entry.journal + "</i>, ";
+    }
+    if (entry.hasOwnProperty("year")) {
+      html += entry.year + ".";
+    }
+    if (entry.hasOwnProperty("doi")) {
+      html += "<br> doi: <a href='https://doi.org/" + entry.doi + "'>" + entry.doi + "</a>.";
+    }
+    html += "</li></p>";
+    console.log(html)
+  }
+    
+  return html;
+}
+
+function BibtexParser() {
+  this.parse = function(bibtex) {
+    var entries = [];
+    var lines = bibtex.split("\n");
+
+    var currentEntry = {};
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i].trim();
+      if (line.startsWith("@")) {
+        // New entry
+        if (Object.keys(currentEntry).length > 0) {
+          entries.push(currentEntry);
+          currentEntry = {};
+        }
+        var entryType = line.match(/@(\w+)/)[1].toLowerCase();
+        currentEntry["entryType"] = entryType;
+      } else if (line.startsWith("}")) {
+        // End of entry
+        entries.push(currentEntry);
+        currentEntry = {};
+      } else if (line.includes("=")) {
+        // Field
+        var field = line.match(/(\w+)\s*=\s*{([^}]*)}/);
+        if (field) {
+          var fieldName = field[1].toLowerCase();
+          var fieldValue = field[2];
+          currentEntry[fieldName] = fieldValue;
+        }
+      }
+    }
+
+    return entries;
+  };
+}
+
+window.addEventListener('DOMContentLoaded', function() {
+      var bibtex = `@article{toniato2023role,
+  title={The Role of AI in Driving the Sustainability of the Chemical Industry},
+  author={Toniato, Alessandra and Schilter, Oliver and Laino, Teodoro},
+  journal={Chimia},
+  volume={77},
+  number={3},
+  pages={144--144},
+  year={2023}
+}
+
+@article{schilter2023designing,
+  title={Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions},
+  author={Schilter, Oliver and Vaucher, Alain and Schwaller, Philippe and Laino, Teodoro},
+  journal={Digital Discovery},
+  year={2023},
+  publisher={Royal Society of Chemistry},
+  doi={https://doi.org/10.2533/chimia.2023.144}
+}
+
+
+
+@article{manica2022gt4sd,
+  title={GT4SD: Generative Toolkit for Scientific Discovery},
+  author={Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish and Born, Jannis and Clarke, Dean and Teukam, Yves Gaetan Nana and Hoffman, Samuel C and Buchan, Matthew and Chenthamarakshan, Vijil and Schilter, Oliver and others},
+  journal={arXiv},
+  year={2022},
+  doi={https://doi.org/10.48550/arXiv.2207.03928}
+}
+
+@article{manica2023accelerating,
+  title={Accelerating material design with the generative toolkit for scientific discovery},
+  author={Manica, Matteo and Born, Jannis and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish and Clarke, Dean and Teukam, Yves Gaetan Nana and Giannone, Giorgio and Hoffman, Samuel C and Buchan, Matthew and Schilter, Oliver and others},
+  journal={npj Computational Materials},
+  volume={9},
+  number={1},
+  pages={69},
+  year={2023},
+  publisher={Nature Publishing Group UK London},
+   doi={https://doi.org/10.1038/s41524-023-01028-1}
+}
+
+@article{gaudin2020advanced,
+  title={Advanced Data-Driven Manufacturing},
+  author={Gaudin, Theophile and Schilter, Oliver and Zipoli, Federico and Laino, Teodoro},
+  journal={ERCIM News},
+  volume={122},
+  pages={45},
+  year={2020}
+  doi={https://ercim-news.ercim.eu/en122/special/advanced-data-driven-manufacturing}
+}
+
+@article{zipoli2022prediction,
+  title={Prediction of phase diagrams and associated phase structural properties},
+  author={Zipoli, Federico and Viterbo, Victor and Schilter, Oliver and Kahle, Leonid and Laino, Teodoro},
+  journal={Industrial \& Engineering Chemistry Research},
+  volume={61},
+  number={24},
+  pages={8378--8389},
+  year={2022},
+  publisher={ACS Publications}
+  doi={https://doi.org/10.1021/acs.iecr.2c00355}
+}
+
+@inproceedings{schilter2022deep,
+  title={Deep learning assisted Suzuki cross coupling catalyst design},
+  author={Schilter, Oliver and Zipoli, Federico and Vaucher, Alain and Laino, Teodoro},
+  booktitle={American Chemical Society (ACS) Fall Meeting},
+  year={2022}
+}s`;
+
+      document.getElementById("biblio").innerHTML = convertBibtex(bibtex);
+    });
+</script>
+
+
+::: {.callout-note .column-page appearance="simple" icon=false}
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+<style>
+  .img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+</style>
+
+<div class="img-container">
+  ![](../images/oliver.jpg){.img-fluid .img-round}
+</div>
+
+:::
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+# Oliver Schilter
+
+
+With a background in chemical engineering, I have had the privilege of pursuing my research jointly between EPFL and IBM Research in Zürich. My passion lies in exploring the intersection of artificial intelligence (AI) and chemistry, with a particular focus on catalysis.
+
+Throughout my academic journey, I have dedicated myself to understanding and harnessing the power of AI to revolutionize the field of chemistry. By leveraging cutting-edge technologies and computational models, I aim to unravel the complexities of catalytic processes and develop innovative solutions to advance sustainable chemistry.
+
+Beyond the realm of research, I find great joy in engaging in various activities such as Squash, running, and hiking. Additionally, I love exploring the art of cooking, experimenting with flavors and techniques to create delectable dishes that nourish both body and soul.
+
+I am truly excited to be a part of this scientific group, where we can collaborate, exchange ideas, and push the boundaries of scientific knowledge. Together, we can pave the way for transformative advancements in the world of AI-driven chemistry.
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+## Publications
+
+<ol>
+<div id="biblio"></div>
+</ol>
+
+
+
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+## Education
+- Master thesis at Jensen Group at MIT
+- MSc in Bio & -Chemical Engineering from ETH Zürich
+- BSc in Chemical Engineering from ETH Zürich
+
+:::
+
+
+::: {.g-col-16 .g-col-sm-8 .g-col-md-8}
+##  Links
+
+
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+
+- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+
+:::
+
+:::

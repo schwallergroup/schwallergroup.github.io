@@ -3,7 +3,7 @@ title: "Welcome Stéphane!"
 author: "LIAC team"
 date: "2023-03-17"
 categories: [news]
-image: ""
+image: "stephane.jpg"
 ---
 
 Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).

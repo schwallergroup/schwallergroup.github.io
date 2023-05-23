@@ -3,7 +3,7 @@ title: "Welcome Artur, Malte, and Lucien as new project and master's students!"
 author: "LIAC team"
 date: "2023-02-20"
 categories: [news]
-image: ""
+image: "artur-square.jpg"
 ---
 
 Artur, Malte, and Lucien join LIAC as project and master's students! We are looking forward to doing great science together!
