@@ -19,8 +19,5 @@ The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institu
 
 In LIAC, we develop artificial intelligence and machine learning approaches for accelerating the synthesis and discovery of novel molecules and materials. We do fundamental science driven by real-world use cases focusing on sustainability.
 
-[![](images/chemcrow.png)](https://arxiv.org/pdf/2304.05376.pdf)
-
-
 LIAC is derived from the French lab name (laboratoire d'intelligence artificielle en chimie).
 
