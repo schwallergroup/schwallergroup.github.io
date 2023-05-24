@@ -111,7 +111,7 @@ function BibtexParser() {
 window.addEventListener('DOMContentLoaded', function() {
       var bibtex = `@article{neeser2023qmugs,
   title={QMugs 1.1: quantum mechanical properties of organic compounds commonly encountered in reactivity datasets},
-  author={Neeser, Rebecca and Isert, Clemens and Stuyver, Thijs and Schneider, Gisbert and Coley, Connor W},
+  author={Neeser, Rebecca M and Isert, Clemens and Stuyver, Thijs and Schneider, Gisbert and Coley, Connor W},
   journal={Chemical Data Collections},
   pages={101040},
   year={2023},
