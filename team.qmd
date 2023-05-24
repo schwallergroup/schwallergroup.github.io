@@ -14,7 +14,7 @@ title: "Team"
   }
 </style>
 
-# Principal Investigator  
+# Principal Investigator
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
 
@@ -41,7 +41,7 @@ title: "Team"
 # [Philippe Schwaller](people/philippe_schwaller.qmd)
 <a href="people/philippe_schwaller.qmd" style="text-decoration: none">
 
-Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research. 
+Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research.
 
 - 5 years at IBM Research -- Zurich (with Dr. Teodoro Laino)
 - PhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern
@@ -98,7 +98,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 
 ## Administrative Assistant
-Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly. 
+Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly.
 
 
 ## PhD Students
@@ -108,7 +108,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
 ::: {.callout-note  appearance="simple" icon=false}
- 
+
 # [Bojana Ranković](people/bojana_rankovic.qmd)
 <a href="people/bojana_rankovic.qmd" style="text-decoration: none">
 <img src="images/bojana.jpg" alt="Bojana's profile picture" class="img-fluid img-round" />
@@ -119,7 +119,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 </a>
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/3CQKYvPe) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/6ojaHa) --- [{{< fa brands github size=2xl >}}](https://github.com/bojana-rankovic) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/3CQKYvPe) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/6ojaHa) --- [{{< fa brands github size=2xl >}}](https://github.com/bojana-rankovic)
 </div>
 
 :::
@@ -142,7 +142,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 </a>
 
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter)
 </div>
 
 :::
@@ -163,7 +163,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 </a>
 
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom)
 </div>
 
 :::
@@ -185,7 +185,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 </a>
 
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Asvfx7kH) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JunwuChen25) --- [{{< fa brands github size=2xl >}}](https://github.com/jwchen25) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Asvfx7kH) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JunwuChen25) --- [{{< fa brands github size=2xl >}}](https://github.com/jwchen25)
 </div>
 
 :::
@@ -208,7 +208,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 </a>
 
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/48LY5AGP) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JeffGuo__) --- [{{< fa brands github size=2xl >}}](https://github.com/GuoJeff) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/48LY5AGP) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JeffGuo__) --- [{{< fa brands github size=2xl >}}](https://github.com/GuoJeff)
 </div>
 
 :::
@@ -231,7 +231,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 </a>
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) 
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza)
 </div>
 
 
@@ -274,6 +274,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 <img src="images/rebecca.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
 
+- Started in April 2023
 - Joint with LPDI
 - BSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT
 

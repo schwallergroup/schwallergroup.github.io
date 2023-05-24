@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Rebecca M. Neeser"
 ---
 
 
@@ -13,13 +13,13 @@ title: "CHANGE NAME"
   }
 </style>
 
- 
+
 
 <script>
 // JavaScript code here
 function convertBibtex(bibtex) {
 
-var author_name = "NAME, CHANGE"
+var author_name = "Neeser, Rebecca M."
 
   // Parse the BibTeX input
   var parser = new BibtexParser();
@@ -38,14 +38,14 @@ console.log(entries.length)
     var formattedAuthors = authors.map(function(author) {
         return author.trim();
     });
-    
+
     for (var k = 0; k < formattedAuthors.length; k++) {
         if (formattedAuthors[k] === author_name) {
         html += "<b>" + formattedAuthors[k] + "</b>";
         } else {
         html += formattedAuthors[k];
         }
-        
+
         if (i < formattedAuthors.length - 1) {
         html += "; ";
         } else {
@@ -53,7 +53,7 @@ console.log(entries.length)
         }
     }
     }
-    
+
     if (entry.hasOwnProperty("title")) {
       html += entry.title + ". ";
     }
@@ -69,7 +69,7 @@ console.log(entries.length)
     html += "</li></p>";
     console.log(html)
   }
-    
+
   return html;
 }
 
@@ -109,23 +109,13 @@ function BibtexParser() {
 }
 
 window.addEventListener('DOMContentLoaded', function() {
-      var bibtex = `@article{toniato2023role,
-  title={The Role of AI in Driving the Sustainability of the Chemical Industry},
-  author={Toniato, Alessandra and Schilter, Oliver and Laino, Teodoro},
-  journal={Chimia},
-  volume={77},
-  number={3},
-  pages={144--144},
-  year={2023}
-}
-
-@article{schilter2023designing,
-  title={Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions},
-  author={Schilter, Oliver and Vaucher, Alain and Schwaller, Philippe and Laino, Teodoro},
-  journal={Digital Discovery},
+      var bibtex = `@article{neeser2023qmugs,
+  title={QMugs 1.1: quantum mechanical properties of organic compounds commonly encountered in reactivity datasets},
+  author={Neeser, Rebecca M and Isert, Clemens and Stuyver, Thijs and Schneider, Gisbert and Coley, Connor W},
+  journal={Chemical Data Collections},
+  pages={101040},
   year={2023},
-  publisher={Royal Society of Chemistry},
-  doi={https://doi.org/10.2533/chimia.2023.144}
+  publisher={Elsevier}
 }
 
 `;
@@ -151,15 +141,21 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/rebecca.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Rebecca M. Neeser
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+With a solid background in Pharmaceutical Sciences and specialized knowledge in medicinal chemistry and drug design, I possess the unique ability to integrate computational approaches in the creation of novel small molecules. The interdisciplinary nature of my work, bridging the realms of chemistry, biology, and computer science, is of special interest to me. This interdisciplinarity is further enabled by a joint supervision arrangement between LIAC and LPDI (Laboratory of Protein Design and Immunoengineering). LIAC brings expertise in AI for chemistry, while LPDI offers deep knowledge in structural biology and computational protein design. This collaboration enables me to leverage diverse perspectives and cutting-edge methodologies to drive my research forward.
+
+My main interest lies in the development and application of machine learning tools for drug design. I am driven by the opportunity to address unresolved challenges in drug development and provide support to experimentalists. Through my research, I aim to make a tangible impact by facilitating the discovery and development of innovative therapeutics.
+
+Outside of work, you can find me in the mountains, where I am skiing, hiking or climbing. Additionally, I enjoy live music and exploring new coffee spots all over the world.
+
+I am genuinely excited about the prospect of learning new machine learning methods, contributing to the design of novel drugs, and collaborating with exceptional peers.
 :::
 :::
 
@@ -176,8 +172,9 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
-
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- Master thesis in the Coley Group at MIT in collaboration with the Schneider Group at ETH Zurich
+- MSc in Pharmaceutical Sciences from ETH Zurich
+- BSc in Pharmaceutical Sciences from ETH Zurich
 
 :::
 
@@ -186,13 +183,13 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/i6PiL7mC) --- [https://mailhide.io/e/i6PiL7mC](https://mailhide.io/e/i6PiL7mC)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/RebeccaNeeser) --- [https://twitter.com/RebeccaNeeser](https://twitter.com/RebeccaNeeser)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+- [{{< fa brands github size=2xl >}}](https://github.com/rneeser) --- [https://github.com/rneeser](https://github.com/rneeser)
 
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en) --- [https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en](https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en)
 
 :::
 
