@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Víctor Sabanza Gil"
 ---
 
 
@@ -19,7 +19,7 @@ title: "CHANGE NAME"
 // JavaScript code here
 function convertBibtex(bibtex) {
 
-var author_name = "NAME, CHANGE"
+var author_name = "Sabanza Gil, Victor"
 
   // Parse the BibTeX input
   var parser = new BibtexParser();
@@ -151,33 +151,24 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/victor.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Víctor Sabanza Gil
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+
 :::
-:::
-
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-## Publications
-
-<ol>
-<div id="biblio"></div>
-</ol>
-
-
-
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+
 ## Education
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- MSc in Complex Systems Chemistry from Université de Strasbourg (France)
+- BSc in Chemistry from Universidad de La Rioja (Spain)
 
 :::
 
@@ -186,13 +177,11 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [https://mailhide.io/e/xarXmL0P](https://mailhide.io/e/xarXmL0P)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [https://twitter.com/VictorSabanza](https://twitter.com/VictorSabanza)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
-
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) --- [https://github.com/O-Schilter](https://github.com/victorsabanza)
 
 :::
 
