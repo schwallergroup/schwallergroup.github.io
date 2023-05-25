@@ -181,7 +181,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 - [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [https://twitter.com/VictorSabanza](https://twitter.com/VictorSabanza)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) --- [https://github.com/O-Schilter](https://github.com/victorsabanza)
+- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza) --- [https://github.com/victorsabanza](https://github.com/victorsabanza)
 
 :::
 

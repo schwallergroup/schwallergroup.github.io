@@ -226,8 +226,9 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <img src="images/victor.jpg" alt="Victor's profile picture" class="img-fluid img-round" />
 
 - Started in October 2022
-- Joint with LDPC
-- MSc in Chemistry, Strasbourg University and BSc, La Rioja
+- Joint with LPDC
+- MSc in Complex Systems Chemistry, Université de Strasbourg (France)
+- BSc in Chemistry, Universidad de La Rioja (Spain)
 
 </a>
 <div class="center">
