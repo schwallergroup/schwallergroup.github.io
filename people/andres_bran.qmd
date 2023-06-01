@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Andres CM Bran"
 ---
 
 
@@ -19,7 +19,7 @@ title: "CHANGE NAME"
 // JavaScript code here
 function convertBibtex(bibtex) {
 
-var author_name = "NAME, CHANGE"
+var author_name = "Bran, Andres M"
 
   // Parse the BibTeX input
   var parser = new BibtexParser();
@@ -109,23 +109,11 @@ function BibtexParser() {
 }
 
 window.addEventListener('DOMContentLoaded', function() {
-      var bibtex = `@article{toniato2023role,
-  title={The Role of AI in Driving the Sustainability of the Chemical Industry},
-  author={Toniato, Alessandra and Schilter, Oliver and Laino, Teodoro},
-  journal={Chimia},
-  volume={77},
-  number={3},
-  pages={144--144},
+      var bibtex = `@article{bran2023chemcrow,
+  title={ChemCrow: Augmenting large-language models with chemistry tools},
+  author={Bran, Andres M and Cox, Sam and White, Andrew D and Schwaller, Philippe},
+  journal={arXiv preprint arXiv:2304.05376},
   year={2023}
-}
-
-@article{schilter2023designing,
-  title={Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions},
-  author={Schilter, Oliver and Vaucher, Alain and Schwaller, Philippe and Laino, Teodoro},
-  journal={Digital Discovery},
-  year={2023},
-  publisher={Royal Society of Chemistry},
-  doi={https://doi.org/10.2533/chimia.2023.144}
 }
 
 `;
@@ -151,15 +139,15 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/andres.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Andres CM Bran
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- Started in August 2022
 :::
 :::
 
@@ -177,7 +165,7 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin
 
 :::
 
@@ -186,13 +174,13 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [https://mailhide.io/e/DdqfHD8Z](https://mailhide.io/e/DdqfHD8Z)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [https://twitter.com/drecmb](https://twitter.com/drecmb)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom) --- [https://github.com/doncamilom](https://github.com/doncamilom)
 
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao) --- [https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao](https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao)
 
 :::
 
