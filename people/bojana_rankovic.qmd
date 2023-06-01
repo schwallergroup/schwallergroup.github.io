@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Bojana Ranković"
 ---
 
 
@@ -151,15 +151,15 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/bojana.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Bojana Ranković
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- Started in March 2022
 :::
 :::
 
@@ -177,7 +177,8 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- MSc in Computer Science, EPFL
+- BSc in Computer Science, University of Belgrade
 
 :::
 
@@ -186,11 +187,12 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/3CQKYvPe) --- [https://mailhide.io/e/3CQKYvPe](https://mailhide.io/e/3CQKYvPe)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/6ojaHa) --- [https://twitter.com/6ojaHa](https://twitter.com/6ojaHa)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+
+- [{{< fa brands github size=2xl >}}](https://github.com/bojana-rankovic) --- https://github.com/bojana-rankovic](https://github.com/bojana-rankovic)
 
 - [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
 
