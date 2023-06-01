@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Paulo Neves"
 ---
 
 
@@ -151,15 +151,15 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/paulo-square.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Paulo Neves
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- Started in January 2023 (with Janssen Pharmaceuticals)
 :::
 :::
 
@@ -177,7 +177,7 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- BSc and MSc in Physics Engineering, NOVA School of Science and Technology
 
 :::
 
@@ -186,13 +186,13 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
-
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/u6TBDmoN) --- [https://mailhide.io/e/u6TBDmoN](https://mailhide.io/e/u6TBDmoN)
+<!-- 
 - [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
 
 - [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
 
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) -->
 
 :::
 

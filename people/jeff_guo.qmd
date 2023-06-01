@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Jeff Guo"
 ---
 
 
@@ -151,15 +151,17 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/jeff.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Jeff Guo
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+Started in September 2022
+
+
 :::
 :::
 
@@ -177,7 +179,8 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- AstraZeneca Grad Program
+- MRes, Imperial College London and BSc, McGill University
 
 :::
 
@@ -186,13 +189,13 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/48LY5AGP) --- [https://mailhide.io/e/48LY5AGP](https://mailhide.io/e/48LY5AGP)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JeffGuo__) --- [https://twitter.com/JeffGuo__](https://twitter.com/JeffGuo__)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+- [{{< fa brands github size=2xl >}}](https://twitter.com/JeffGuo__) --- [https://twitter.com/JeffGuo__](https://twitter.com/JeffGuo__)
 
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra) --- [https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra](https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra)
 
 :::
 
