@@ -1,7 +1,6 @@
 ---
-title: "CHANGE NAME"
+title: "Philippe Schwaller"
 ---
-
 
 <style>
   .quarto-title {
@@ -12,14 +11,13 @@ title: "CHANGE NAME"
    -webkit-text-decoration:none;
   }
 </style>
-
  
 
 <script>
 // JavaScript code here
 function convertBibtex(bibtex) {
 
-var author_name = "NAME, CHANGE"
+var author_name = "Schwaller, Philippe"
 
   // Parse the BibTeX input
   var parser = new BibtexParser();
@@ -109,16 +107,7 @@ function BibtexParser() {
 }
 
 window.addEventListener('DOMContentLoaded', function() {
-      var bibtex = `@article{toniato2023role,
-  title={The Role of AI in Driving the Sustainability of the Chemical Industry},
-  author={Toniato, Alessandra and Schilter, Oliver and Laino, Teodoro},
-  journal={Chimia},
-  volume={77},
-  number={3},
-  pages={144--144},
-  year={2023}
-}
-
+      var bibtex = `
 @article{schilter2023designing,
   title={Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions},
   author={Schilter, Oliver and Vaucher, Alain and Schwaller, Philippe and Laino, Teodoro},
@@ -151,16 +140,18 @@ window.addEventListener('DOMContentLoaded', function() {
 </style>
 
 <div class="img-container">
-  ![](../images/demo_pic.jpg){.img-fluid .img-round}
+  ![](../images/philippe.jpg){.img-fluid .img-round}
 </div>
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Philippe Schwaller
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research.:::
+
 :::
+
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
@@ -176,9 +167,10 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
-
-LET CHAT GPT GENERATE SOMETHING FOR YOU
-
+- 5 years at IBM Research -- Zurich (with Dr. Teodoro Laino)
+- PhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern
+- MPhil (2019) in Physics, University of Cambridge
+- BSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL
 :::
 
 
@@ -186,13 +178,13 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/NMy7s8rr) --- [https://mailhide.io/e/NMy7s8rr](https://mailhide.io/e/NMy7s8rr)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) --- [https://twitter.com/pschwllr](https://twitter.com/pschwllr)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+- [{{< fa brands github size=2xl >}}](https://github.com/pschwllr) --- [https://github.com/pschwllr](https://github.com/pschwllr)
 
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ) --- [https://scholar.google.com/citations?user=Tz0I4ywAAAAJ](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
 
 :::
 
