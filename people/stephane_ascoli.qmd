@@ -1,5 +1,5 @@
 ---
-title: "CHANGE NAME"
+title: "Stéphane d'Ascoli"
 ---
 
 
@@ -156,10 +156,13 @@ window.addEventListener('DOMContentLoaded', function() {
 
 :::
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# CHANGE NAME
+# Stéphane d'Ascoli
+- AI4Science research fellow
+- PhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)
+- BSc and MSc in theoretical physics
+- Research interests include overparameterized neural networks and their applications to computer vision, symbolic mathematics and the natural sciences
 
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
 :::
 :::
 
@@ -177,7 +180,10 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## Education
 
-LET CHAT GPT GENERATE SOMETHING FOR YOU
+- AI4Science research fellow
+- PhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)
+- BSc and MSc in theoretical physics
+- Research interests include overparameterized neural networks and their applications to computer vision, symbolic mathematics and the natural sciences
 
 :::
 
@@ -186,13 +192,13 @@ LET CHAT GPT GENERATE SOMETHING FOR YOU
 ##  Links
 
 
-- [{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [https://mailhide.io/e/PXqg7siy](https://mailhide.io/e/PXqg7siy)
+- [{{< fa envelope size=2xl >}}](ttps://mailhide.io/e/Lr7SORC9) --- [ttps://mailhide.io/e/Lr7SORC9](ttps://mailhide.io/e/Lr7SORC9)
 
-- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [https://twitter.com/OSchilter](https://twitter.com/OSchilter)
+- [{{< fa brands twitter size=2xl >}}](https://twitter.com/stephanedascoli) --- [https://twitter.com/stephanedascoli](https://twitter.com/stephanedascoli)
 
-- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter) --- [https://github.com/O-Schilter](https://github.com/O-Schilter)
+- [{{< fa brands github size=2xl >}}](https://github.com/sdascoli) --- [https://github.com/sdascoli](https://github.com/sdascoli)
 
-- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao) --- [https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao)
+- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=e) --- [https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=e](https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=e)
 
 :::
 
