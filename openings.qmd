@@ -10,7 +10,9 @@ In our lab you can learn how to extract/scrape chemical data, handle it using Py
 
 ## PhD and Postdoc positions
 
-[Strategic Synthesis Planning, PhD/Postdoc (Deadline: May 5th)](positions/PhD_PostDoc_Strategic_Sythesis_Planning.pdf)
+- Postdoc on Machine Learning for Direct Air Capture Materials (deadline: June 30, write me an email with your CV and 1-page research summary): Develop models to screen and accelerate the discovery of new CO2 adsorbents. Experimental collaborations with Prof. Wendy Queen, and simulations with Prof. Nicola Marzari. This position is funded through EPFL’s #Solutions4Sustainability initiative and is part of a larger project on "Energy-efficient Carbon Capture, Usage and Storage for Sustainable and Circular Economy" led by Prof. Kumar Agrawal. 
+
+Additional information on [EPFL employment conditions](https://www.epfl.ch/about/working/working-at-epfl/employment-conditions/) and [salary scale](https://www.epfl.ch/campus/services/human-resources/en/basic-starting-salary-of-doctoral-assistants-and-postdocs/).
 
 ### Postdoc fellowships
 - [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships)
