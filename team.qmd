@@ -404,6 +404,49 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Tanya Gupta
+
+<img src="images/tanya.jpg" alt="Tanya's profile picture" class="img-fluid img-round"/>
+
+- May 2023 - July 2023
+- Internship
+- B.Tech in Chemical Engineering at Indian Institute of Technology, Delhi (IIT Delhi)
+
+<div class="center">
+
+</div>
+
+:::
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Sacha Raffaud
+
+<img src="images/sacha.jpg" alt="Sacha's profile picture" class="img-fluid img-round"/>
+
+- May 2023 - August 2023
+- Master's thesis
+- BSc Natural Sciences at UCL
+- MSc in Applied Computational Science and Engineering at Imperial College London
+
+<div class="center">
+
+</div>
+
+:::
+
+:::
+
+
 
 
 

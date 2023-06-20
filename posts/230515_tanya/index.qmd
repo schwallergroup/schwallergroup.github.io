@@ -1,0 +1,12 @@
+---
+title: "Welcome Tanya!"
+author: "LIAC team"
+date: "2023-05-15"
+categories: [news]
+image: "tanya.jpg"
+---
+
+
+Tanya joins LIAC for a summer internship!
+
+![Tanya](tanya.jpg)

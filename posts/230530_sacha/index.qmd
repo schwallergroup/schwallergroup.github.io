@@ -1,0 +1,12 @@
+---
+title: "Welcome Sacha!"
+author: "LIAC team"
+date: "2023-05-30"
+categories: [news]
+image: "sacha.jpg"
+---
+
+
+Sacha joins LIAC for his master's thesis!
+
+![Sacha](sacha.jpg)
