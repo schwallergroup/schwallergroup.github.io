@@ -1,0 +1,12 @@
+---
+title: "Welcome Ximena!"
+author: "LIAC team"
+date: "2023-06-05"
+categories: [news]
+image: "ximena.jpg"
+---
+
+
+Ximena joins LIAC for a summer project!
+
+![Ximena](ximena.jpg)

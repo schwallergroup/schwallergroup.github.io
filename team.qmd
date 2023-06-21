@@ -447,6 +447,27 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.callout-note  appearance="simple" icon=false}
+
+## Ximena Leyva Peralta
+
+<img src="images/ximena.jpg" alt="Ximena's profile picture" class="img-fluid img-round"/>
+
+- June 2023 - July 2023
+- Summer project
+- BSc in Chemistry at Yale University, class of 2025
+
+<div class="center">
+
+</div>
+
+:::
+
+:::
+
+
 
 
 
