@@ -64,13 +64,8 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 ## Postdoctoral Associates
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
-
-
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
-
-
 <div class="img-container">
   ![](images/stephane.jpg){.img-fluid .img-round}
 </div>
@@ -92,9 +87,34 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 </div>
 
 :::
-
+:::
 :::
 
+
+::: {.callout-note .column-page appearance="simple" icon=false}
+::: {.grid}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+<div class="img-container">
+  ![](images/geemi.jpg){.img-fluid .img-round}
+</div>
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+### [Geemi Wellawatte](people/geemi_wellawatte.qmd)
+<a href="people/geemi_wellawatte.qmd" style="text-decoration: none">
+
+- NCCR Catalysis postdoc
+- PhD at the university of Rochester NY (White Lab)
+- BSc Computational Chemistry at University of Colombo Sri Lanka
+- AI-based computational tools to solve chemistry problems
+
+</a>
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/P0rmPJBB) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/GWellawatte) --- [{{< fa brands github size=2xl >}}](https://github.com/geemi725) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=naYsHucAAAAJ&hl=en&oi=ao) 
+</div>
+
+:::
+:::
 :::
 
 ## Administrative Assistant
@@ -295,7 +315,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.grid .column-page}
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
 ::: {.callout-note  appearance="simple" icon=false}
 
@@ -314,10 +334,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 :::
 
-:::
+::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
 ::: {.callout-note  appearance="simple" icon=false}
 
@@ -337,10 +357,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 :::
 
-:::
+::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
 ::: {.callout-note  appearance="simple" icon=false}
 
@@ -358,7 +378,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 :::
 
-:::
+::: -->
 
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -448,23 +468,28 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
 ::: {.callout-note  appearance="simple" icon=false}
-
 ## Ximena Leyva Peralta
-
 <img src="images/ximena.jpg" alt="Ximena's profile picture" class="img-fluid img-round"/>
 
 - June 2023 - July 2023
 - Summer project
 - BSc in Chemistry at Yale University, class of 2025
-
 <div class="center">
-
 </div>
-
+:::
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Ximena Leyva Peralta
+<img src="images/jenestin.jpg" alt="Jenestin's profile picture" class="img-fluid img-round"/>
+
+- Summer project & Master thesis
+- MSc in Computer Science, University of St. Gallen
+<div class="center">
+</div>
+:::
 :::
 
 
@@ -478,5 +503,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ## Project students
 
-- Théo Neukomm (EPFL, master semester project, Fall 2022)
+- Lucien Brey (EPFL, Master semester project, Spring 2023)
+- Malte Franke (Aachen/EPFL exchange, Master semester project, Spring 2023)
+- Artur Stefaniuk (EPFL, Master thesis, Spring 2023)
 - Anna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)
+- Théo Neukomm (EPFL, Master semester project, Fall 2022)
+
+
