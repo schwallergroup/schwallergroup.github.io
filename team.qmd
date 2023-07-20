@@ -482,7 +482,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
-## Ximena Leyva Peralta
+## Jenestin Anthonipillai
 <img src="images/jenestin.jpg" alt="Jenestin's profile picture" class="img-fluid img-round"/>
 
 - Summer project & Master thesis
