@@ -279,15 +279,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/u6TBDmoN) --- [{{< fa brands twitter size=2xl >}}]() --- [{{< fa brands github size=2xl >}}]()
 </div>
 
-
-
 :::
-
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-
 ::: {.callout-note appearance="simple" icon=false}
 
 ## [Rebecca Neeser](people/rebecca_neeser.qmd)
@@ -305,8 +300,31 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 </div>
 
 :::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+
+## [Sarina Kopf](people/sarina_kopf.qmd)
+<a href="people/sarina_kopf.qmd" style="text-decoration: none">
+
+<img src="images/sarina.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
+
+- Started in August 2023
+- Joint with Prof. Nevado (UZH)
+- Fulbright Scholar (EPFL)
+- BSc in Biological Chemistry from Grinnell College (US)
+
+</a>
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/EOQR1Bwr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SchwallerGroup) --- [{{< fa brands github size=2xl >}}](https://github.com/SchwallerGroup)
+</div>
 
 :::
+:::
+
+
 
 :::
 
@@ -381,25 +399,20 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
-
 ## Xu Huang
 
 <img src="images/xu.jpg" alt="Xu's profile picture" class="img-fluid img-round" />
 
 - March 2023 - July 2023
 - Bachelor's thesis
-- Senior undergraduate at Shanghai Jiao Tong Univeresity
+- Senior undergraduate at Shanghai Jiao Tong University
 
 <div class="center">
-
 </div>
-
 :::
-
-:::
+::: -->
 
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -424,10 +437,8 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
-
 ## Tanya Gupta
 
 <img src="images/tanya.jpg" alt="Tanya's profile picture" class="img-fluid img-round"/>
@@ -435,14 +446,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - May 2023 - July 2023
 - Internship
 - B.Tech in Chemical Engineering at Indian Institute of Technology, Delhi (IIT Delhi)
-
 <div class="center">
-
 </div>
-
 :::
-
-:::
+::: -->
 
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -467,7 +474,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Ximena Leyva Peralta
 <img src="images/ximena.jpg" alt="Ximena's profile picture" class="img-fluid img-round"/>
@@ -478,7 +485,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 </div>
 :::
-:::
+::: -->
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
@@ -492,7 +499,32 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Théo Neukomm
+<img src="images/theo.jpg" alt="Théo's profile picture" class="img-fluid img-round"/>
 
+- July - December 2023
+- Project student
+- MSc and BSc in Chemistry, EPFL
+<div class="center">
+</div>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Peri Yerlikaya
+<img src="images/peri.jpg" alt="Peri's profile picture" class="img-fluid img-round"/>
+
+- July - September 2023
+- Laidlaw Scholar
+- BSc in Chemistry, EPFL
+<div class="center">
+</div>
+:::
+:::
 
 
 
@@ -503,10 +535,13 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 ## Project students
 
+- Xu Huang (Shanghai Jiao Tong University, Bachelor thesis, Spring 2023)
+- Ximena Leyva Peralta (Yale University, summer project, 2023)
+- Tanya Gupta (IIT Dehli, summer project, 2023)
 - Lucien Brey (EPFL, Master semester project, Spring 2023)
 - Malte Franke (Aachen/EPFL exchange, Master semester project, Spring 2023)
 - Artur Stefaniuk (EPFL, Master thesis, Spring 2023)
 - Anna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)
-- Théo Neukomm (EPFL, Master semester project, Fall 2022)
+<!-- - Théo Neukomm (EPFL, Master semester project, Fall 2022) -->
 
 
