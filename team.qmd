@@ -117,6 +117,31 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 :::
 
+::: {.callout-note .column-page appearance="simple" icon=false}
+::: {.grid}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+<div class="img-container">
+  ![](images/zlatko.jpg){.img-fluid .img-round}
+</div>
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+### [Zlatko Jončev](people/zlatko_joncev.qmd)
+<a href="people/zlatko_joncev.qmd" style="text-decoration: none">
+
+- PhD at the University of Basel (Sparr Group)
+- BSc and MSc in Organic Chemistry (Alfred Werner Fellow)
+- Research interests include ML assisted Strategic Synthesis Planning, Automated Experimentation, and Acceleration of Drug Discovery
+
+</a>
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/8DWrEg3A) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SchwallerGroup) --- [{{< fa brands github size=2xl >}}](https://github.com/golden-boy27) 
+</div>
+
+:::
+:::
+:::
+
 ## Administrative Assistant
 Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly.
 
