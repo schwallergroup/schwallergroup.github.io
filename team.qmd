@@ -38,7 +38,7 @@ title: "Team"
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# [Philippe Schwaller](people/philippe_schwaller.qmd)
+# [Prof. Philippe Schwaller](people/philippe_schwaller.qmd)
 <a href="people/philippe_schwaller.qmd" style="text-decoration: none">
 
 Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research.
@@ -63,7 +63,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 
 ## Postdoctoral Associates
 
-::: {.callout-note .column-page appearance="simple" icon=false}
+<!-- ::: {.callout-note .column-page appearance="simple" icon=false}
 ::: {.grid}
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
 <div class="img-container">
@@ -88,7 +88,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 
 :::
 :::
-:::
+::: -->
 
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
@@ -100,7 +100,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### [Geemi Wellawatte](people/geemi_wellawatte.qmd)
+### [Dr. Geemi Wellawatte](people/geemi_wellawatte.qmd)
 <a href="people/geemi_wellawatte.qmd" style="text-decoration: none">
 
 - NCCR Catalysis postdoc
@@ -126,7 +126,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### [Zlatko Jončev](people/zlatko_joncev.qmd)
+### [Dr. Zlatko Jončev](people/zlatko_joncev.qmd)
 <a href="people/zlatko_joncev.qmd" style="text-decoration: none">
 
 - PhD at the University of Basel (Sparr Group)
@@ -334,7 +334,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ## [Sarina Kopf](people/sarina_kopf.qmd)
 <a href="people/sarina_kopf.qmd" style="text-decoration: none">
 
-<img src="images/sarina.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
+<img src="images/sarina.jpg" alt="Sarina's profile picture" class="img-fluid img-round" />
 
 - Started in August 2023
 - Joint with Prof. Nevado (UZH)
@@ -343,12 +343,53 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 
 </a>
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/EOQR1Bwr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SchwallerGroup) --- [{{< fa brands github size=2xl >}}](https://github.com/SchwallerGroup)
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/EOQR1Bwr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SarinaKopf) --- [{{< fa brands github size=2xl >}}](https://github.com/SchwallerGroup)
 </div>
 
 :::
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Daniel Armstrong
+<!-- ## [Joshua Sin](people/sarina_kopf.qmd)
+<a href="people/sarina_kopf.qmd" style="text-decoration: none">
+-->
+<img src="images/daniel.jpg" alt="Daniel's profile picture" class="img-fluid img-round" /> 
+
+- Started in September 2023
+- MSc Information Technology, Glasgow
+- MChem from University of St. Andrews
+- Amazon Alexa Prize 2nd Place
+
+<!-- </a> -->
+<!-- <div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/EOQR1Bwr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/d_armstr
+) --- [{{< fa brands github size=2xl >}}](https://github.com/SchwallerGroup)
+</div> -->
+
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Joshua Sin
+<!-- ## [Joshua Sin](people/sarina_kopf.qmd)
+<a href="people/sarina_kopf.qmd" style="text-decoration: none"> -->
+
+<img src="images/joshua.jpg" alt="Joshua's profile picture" class="img-fluid img-round" /> 
+
+- Started in October 2023 (with Roche)
+- MChem from University of Oxford
+
+</a>
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Pe6jb5Jt) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/jwpsin) --- [{{< fa brands github size=2xl >}}](https://github.com/jwpsin)
+</div>
+
+:::
+:::
 
 
 :::
@@ -538,7 +579,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Peri Yerlikaya
 <img src="images/peri.jpg" alt="Peri's profile picture" class="img-fluid img-round"/>
@@ -549,20 +590,47 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 </div>
 :::
+::: -->
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Rémi Schlama
+<img src="images/remi.jpg" alt="Remi's profile picture" class="img-fluid img-round"/>
+
+- August to December 2023
+- Project student
+- MSc and BSc in Chemistry, EPFL
+<div class="center">
+</div>
+:::
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Yifan Du
+<img src="images/yifan.jpg" alt="Yifan's profile picture" class="img-fluid img-round"/>
 
-
+- Fall 2023
+- Bachelor Thesis
+- Zhejiang University
+<div class="center">
+</div>
+:::
+:::
 
 :::
 
 # Alumni
 
-## Project students
+## Postdocs & Fellows
+- Dr. Stéphane d'Ascoli (2023, now at Meta AI)
 
+## Project students
+- Peri Yerlikaya (EPFL, Laidlaw Scholar, Summer 2023)
 - Xu Huang (Shanghai Jiao Tong University, Bachelor thesis, Spring 2023)
-- Ximena Leyva Peralta (Yale University, summer project, 2023)
-- Tanya Gupta (IIT Dehli, summer project, 2023)
+- Ximena Leyva Peralta (Yale University, Summer 2023)
+- Tanya Gupta (IIT Dehli, Summer 2023)
 - Lucien Brey (EPFL, Master semester project, Spring 2023)
 - Malte Franke (Aachen/EPFL exchange, Master semester project, Spring 2023)
 - Artur Stefaniuk (EPFL, Master thesis, Spring 2023)
