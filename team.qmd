@@ -103,7 +103,7 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 ### [Dr. Geemi Wellawatte](people/geemi_wellawatte.qmd)
 <a href="people/geemi_wellawatte.qmd" style="text-decoration: none">
 
-- NCCR Catalysis postdoc
+- SusEcoCCUS postdoc
 - PhD at the university of Rochester NY (White Lab)
 - BSc Computational Chemistry at University of Colombo Sri Lanka
 - AI-based computational tools to solve chemistry problems
@@ -136,6 +136,31 @@ Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Inst
 </a>
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/8DWrEg3A) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SchwallerGroup) --- [{{< fa brands github size=2xl >}}](https://github.com/golden-boy27) 
+</div>
+
+:::
+:::
+:::
+
+::: {.callout-note .column-page appearance="simple" icon=false}
+::: {.grid}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
+<div class="img-container">
+  ![](images/marta.jpg){.img-fluid .img-round}
+</div>
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
+### [Dr. Marta Brucka](people/marta_brucka.qmd)
+<a href="people/marta_brucka.qmd" style="text-decoration: none">
+
+- PhD in NMR methodology, University of Geneva
+- MSc in Advanced Spectroscopy for Chemistry, University Lille 1 & University of Bologna
+- Transitioning into the intersection of AI and scientific research
+
+</a>
+<div class="center">
+[{{< fa envelope size=2xl >}}](https://mailhide.io/e/KgsVvhFG) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/martabrc) --- [{{< fa brands github size=2xl >}}](https://github.com/martabrucka) 
 </div>
 
 :::
