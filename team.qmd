@@ -412,10 +412,27 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 [{{< fa envelope size=2xl >}}](https://mailhide.io/e/Pe6jb5Jt) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/jwpsin) --- [{{< fa brands github size=2xl >}}](https://github.com/jwpsin)
 </div>
-
 :::
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+
+## Sacha Raffaud
+
+<img src="images/sacha.jpg" alt="Sacha's profile picture" class="img-fluid img-round"/>
+
+- May 2023 - August 2023
+- Master's thesis
+- BSc Natural Sciences at UCL
+- MSc in Applied Computational Science and Engineering at Imperial College London
+
+<div class="center">
+
+</div>
+
+:::
+:::
 
 :::
 
@@ -506,8 +523,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 
 ## Cheng-Hua (Lance) Huang
@@ -524,8 +540,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 </div>
 
 :::
-
-:::
+::: -->
 
 
 <!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -543,26 +558,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 
-::: {.callout-note  appearance="simple" icon=false}
-
-## Sacha Raffaud
-
-<img src="images/sacha.jpg" alt="Sacha's profile picture" class="img-fluid img-round"/>
-
-- May 2023 - August 2023
-- Master's thesis
-- BSc Natural Sciences at UCL
-- MSc in Applied Computational Science and Engineering at Imperial College London
-
-<div class="center">
-
-</div>
-
-:::
-
-:::
 
 
 <!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -631,7 +627,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Yifan Du
 <img src="images/yifan.jpg" alt="Yifan's profile picture" class="img-fluid img-round"/>
@@ -642,7 +638,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 </div>
 :::
-:::
+::: -->
 
 :::
 
@@ -652,6 +648,8 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - Dr. Stéphane d'Ascoli (2023, now at Meta AI)
 
 ## Project students
+- Yifan Du (Zhejiang University, Bachelor thesis, Fall 2023)
+- Cheng-Hua (Lance) Huang (EPFL, Master thesis & valorisation, 2023-2024)
 - Peri Yerlikaya (EPFL, Laidlaw Scholar, Summer 2023)
 - Xu Huang (Shanghai Jiao Tong University, Bachelor thesis, Spring 2023)
 - Ximena Leyva Peralta (Yale University, Summer 2023)
