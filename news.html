@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,7 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,6 +64,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -105,10 +112,37 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="LIAC (Schwaller Group) at EPFL">
 <meta name="twitter:description" content="Laboratory of Artificial Chemical Intelligence at EPFL | AI-accelerated discovery and synthesis">
-<meta name="twitter:image" content="https://github.com/schwallergroup/schwallergroup.github.io/images/overview.jpg">
+<meta name="twitter:image" content="https://schwallergroup.github.io/images/overview.jpg">
 <meta name="twitter:creator" content="@pschwllr">
 <meta name="twitter:site" content="@SchwallerGroup">
 <meta name="twitter:card" content="summary_large_image">
@@ -117,10 +151,10 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">LIAC</span>
     </a>
@@ -132,65 +166,69 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./team.html" rel="" target="">
- <span class="menu-text">Team</span></a>
+    <a class="nav-link" href="./team.html"> 
+<span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" rel="" target="" aria-current="page">
- <span class="menu-text">News</span></a>
+    <a class="nav-link active" href="./news.html" aria-current="page"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./openings.html" rel="" target="">
- <span class="menu-text">Openings</span></a>
+    <a class="nav-link" href="./openings.html"> 
+<span class="menu-text">Openings</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Teaching</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
         <li>
-    <a class="dropdown-item" href="https://schwallergroup.github.io/ai4chem_course/" rel="" target="">
+    <a class="dropdown-item" href="https://schwallergroup.github.io/ai4chem_course/">
  <span class="dropdown-text">AI for Chemistry</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://schwallergroup.github.io/practical-programming-in-chemistry/">
+ <span class="dropdown-text">Practical Programming in Chemistry</span></a>
   </li>  
     </ul>
   </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-epfl" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-epfl" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">EPFL</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-epfl">    
         <li>
-    <a class="dropdown-item" href="https://www.epfl.ch/schools/sb/research/isic/" rel="" target="">
+    <a class="dropdown-item" href="https://www.epfl.ch/schools/sb/research/isic/">
  <span class="dropdown-text">Institute of Chemical Sciences and Engineering – ISIC</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://www.epfl.ch/labs/liac/" rel="" target="">
+    <a class="dropdown-item" href="https://www.epfl.ch/labs/liac/">
  <span class="dropdown-text">Laboratory of Artificial Chemical Intelligence - LIAC</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://scholar.google.com/citations?hl=en&amp;user=Tz0I4ywAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-graduation-cap fa-lg" aria-label="graduation-cap"></i></span></a>
+    <a class="nav-link" href="https://scholar.google.com/citations?hl=en&amp;user=Tz0I4ywAAAAJ&amp;view_op=list_works&amp;sortby=pubdate"> 
+<span class="menu-text"><i class="fa-solid fa-graduation-cap fa-lg" aria-label="graduation-cap"></i></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/schwallergroup" rel="" target="">
- <span class="menu-text"><i class="fa-brands fa-github fa-lg" aria-label="github"></i></span></a>
+    <a class="nav-link" href="https://github.com/schwallergroup"> 
+<span class="menu-text"><i class="fa-brands fa-github fa-lg" aria-label="github"></i></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://twitter.com/SchwallerGroup" rel="" target="">
- <span class="menu-text"><i class="fa-brands fa-twitter fa-lg" aria-label="twitter"></i></span></a>
+    <a class="nav-link" href="https://twitter.com/SchwallerGroup"> 
+<span class="menu-text"><i class="fa-brands fa-twitter fa-lg" aria-label="twitter"></i></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -203,7 +241,7 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -227,34 +265,33 @@ gtag('config', 'G-HNV4RSCCZX', { 'anonymize_ip': true});
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news" data-listing-date-sort="1685923200000" data-listing-file-modified-sort="1701035491307" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="news" data-listing-date-sort="1685923200000" data-listing-file-modified-sort="1708553899361" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="thumbnail">
-<p><a href="./posts/230605_ximena/index.html"> <img src="./posts/230605_ximena/ximena.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230605_ximena/index.html" class="no-external"></a></p><a href="./posts/230605_ximena/index.html" class="no-external">
+<p><img src="./posts/230605_ximena/ximena.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230605_ximena/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230605_ximena/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Ximena!
+<a href="./posts/230605_ximena/index.html" class="no-external">Welcome Ximena!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230605_ximena/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230605_ximena/index.html">
 <div class="listing-description">
-Ximena joins LIAC for a summer project!
+<a href="./posts/230605_ximena/index.html" class="no-external">Ximena joins LIAC for a summer project!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230605_ximena/index.html">
+<a href="./posts/230605_ximena/index.html" class="no-external">
 <div class="listing-date">
 Jun 5, 2023
 </div>
@@ -264,32 +301,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1685404800000" data-listing-file-modified-sort="1701035491307" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1685404800000" data-listing-file-modified-sort="1708553899357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="thumbnail">
-<p><a href="./posts/230530_sacha/index.html"> <img src="./posts/230530_sacha/sacha.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230530_sacha/index.html" class="no-external"></a></p><a href="./posts/230530_sacha/index.html" class="no-external">
+<p><img src="./posts/230530_sacha/sacha.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230530_sacha/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230530_sacha/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Sacha!
+<a href="./posts/230530_sacha/index.html" class="no-external">Welcome Sacha!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230530_sacha/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230530_sacha/index.html">
 <div class="listing-description">
-Sacha joins LIAC for his master’s thesis!
+<a href="./posts/230530_sacha/index.html" class="no-external">Sacha joins LIAC for his master’s thesis!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230530_sacha/index.html">
+<a href="./posts/230530_sacha/index.html" class="no-external">
 <div class="listing-date">
 May 30, 2023
 </div>
@@ -299,32 +334,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="news" data-listing-date-sort="1684108800000" data-listing-file-modified-sort="1701035491303" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="2" data-categories="news" data-listing-date-sort="1684108800000" data-listing-file-modified-sort="1708553899357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="thumbnail">
-<p><a href="./posts/230515_tanya/index.html"> <img src="./posts/230515_tanya/tanya.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230515_tanya/index.html" class="no-external"></a></p><a href="./posts/230515_tanya/index.html" class="no-external">
+<p><img src="./posts/230515_tanya/tanya.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230515_tanya/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230515_tanya/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Tanya!
+<a href="./posts/230515_tanya/index.html" class="no-external">Welcome Tanya!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230515_tanya/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230515_tanya/index.html">
 <div class="listing-description">
-Tanya joins LIAC for a summer internship!
+<a href="./posts/230515_tanya/index.html" class="no-external">Tanya joins LIAC for a summer internship!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230515_tanya/index.html">
+<a href="./posts/230515_tanya/index.html" class="no-external">
 <div class="listing-date">
 May 15, 2023
 </div>
@@ -334,32 +367,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="news" data-listing-date-sort="1681084800000" data-listing-file-modified-sort="1701035491303" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="3" data-categories="news" data-listing-date-sort="1681084800000" data-listing-file-modified-sort="1708553899357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
 <div class="thumbnail">
-<p><a href="./posts/230410_cheng_hua/index.html"> <img src="./posts/230410_cheng_hua/cheng_hua.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230410_cheng_hua/index.html" class="no-external"></a></p><a href="./posts/230410_cheng_hua/index.html" class="no-external">
+<p><img src="./posts/230410_cheng_hua/cheng_hua.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230410_cheng_hua/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230410_cheng_hua/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Cheng-Hua!
+<a href="./posts/230410_cheng_hua/index.html" class="no-external">Welcome Cheng-Hua!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230410_cheng_hua/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230410_cheng_hua/index.html">
 <div class="listing-description">
-Cheng-Hua joins LIAC for his master’s thesis! Cool!
+<a href="./posts/230410_cheng_hua/index.html" class="no-external">Cheng-Hua joins LIAC for his master’s thesis! Cool!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230410_cheng_hua/index.html">
+<a href="./posts/230410_cheng_hua/index.html" class="no-external">
 <div class="listing-date">
 Apr 10, 2023
 </div>
@@ -369,32 +400,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="news" data-listing-date-sort="1680480000000" data-listing-file-modified-sort="1701035491299" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="4" data-categories="news" data-listing-date-sort="1680480000000" data-listing-file-modified-sort="1708553899353" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
 <div class="thumbnail">
-<p><a href="./posts/230403_rebecca/index.html"> <img src="./posts/230403_rebecca/rebecca.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230403_rebecca/index.html" class="no-external"></a></p><a href="./posts/230403_rebecca/index.html" class="no-external">
+<p><img src="./posts/230403_rebecca/rebecca.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230403_rebecca/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230403_rebecca/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Rebecca!
+<a href="./posts/230403_rebecca/index.html" class="no-external">Welcome Rebecca!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230403_rebecca/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230403_rebecca/index.html">
 <div class="listing-description">
-Re…
+<a href="./posts/230403_rebecca/index.html" class="no-external">Rebecca joins LIAC as a joint PhD student with the Laboratory of Protein Design and Immunoengineering (LPDI) working at the exciting intersection of machine learning and…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230403_rebecca/index.html">
+<a href="./posts/230403_rebecca/index.html" class="no-external">
 <div class="listing-date">
 Apr 3, 2023
 </div>
@@ -404,32 +433,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="news" data-listing-date-sort="1679011200000" data-listing-file-modified-sort="1701035491299" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="5" data-categories="news" data-listing-date-sort="1679011200000" data-listing-file-modified-sort="1708553899353" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <div class="thumbnail">
-<p><a href="./posts/230317_stephane/index.html"> <img src="./posts/230317_stephane/stephane.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230317_stephane/index.html" class="no-external"></a></p><a href="./posts/230317_stephane/index.html" class="no-external">
+<p><img src="./posts/230317_stephane/stephane.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230317_stephane/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230317_stephane/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Stéphane!
+<a href="./posts/230317_stephane/index.html" class="no-external">Welcome Stéphane!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230317_stephane/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230317_stephane/index.html">
 <div class="listing-description">
-Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).
+<a href="./posts/230317_stephane/index.html" class="no-external">Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230317_stephane/index.html">
+<a href="./posts/230317_stephane/index.html" class="no-external">
 <div class="listing-date">
 Mar 17, 2023
 </div>
@@ -439,32 +466,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="news" data-listing-date-sort="1678233600000" data-listing-file-modified-sort="1701035491295" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="6" data-categories="news" data-listing-date-sort="1678233600000" data-listing-file-modified-sort="1708553899349" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <div class="thumbnail">
-<p><a href="./posts/230308_xu/index.html"> <img src="./posts/230308_xu/xu.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230308_xu/index.html" class="no-external"></a></p><a href="./posts/230308_xu/index.html" class="no-external">
+<p><img src="./posts/230308_xu/xu.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230308_xu/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230308_xu/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Xu!
+<a href="./posts/230308_xu/index.html" class="no-external">Welcome Xu!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230308_xu/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230308_xu/index.html">
 <div class="listing-description">
-Xu joins LIAC to carry out her Bachelor’s thesis! Welcome Xu and we are looking forward to doing great science together!
+<a href="./posts/230308_xu/index.html" class="no-external">Xu joins LIAC to carry out her Bachelor’s thesis! Welcome Xu and we are looking forward to doing great science together!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230308_xu/index.html">
+<a href="./posts/230308_xu/index.html" class="no-external">
 <div class="listing-date">
 Mar 8, 2023
 </div>
@@ -474,32 +499,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="news" data-listing-date-sort="1676851200000" data-listing-file-modified-sort="1701035491287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="7" data-categories="news" data-listing-date-sort="1676851200000" data-listing-file-modified-sort="1708553899341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
 <div class="thumbnail">
-<p><a href="./posts/230220_masters_students/index.html"> <img src="./posts/230220_masters_students/artur-square.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230220_masters_students/index.html" class="no-external"></a></p><a href="./posts/230220_masters_students/index.html" class="no-external">
+<p><img src="./posts/230220_masters_students/artur-square.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230220_masters_students/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230220_masters_students/index.html">
 <h3 class="no-anchor listing-title">
-Welcome Artur, Malte, and Lucien as new project and master’s students!
+<a href="./posts/230220_masters_students/index.html" class="no-external">Welcome Artur, Malte, and Lucien as new project and master’s students!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230220_masters_students/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230220_masters_students/index.html">
 <div class="listing-description">
-Artur, Malte, and Lucien join LIAC as project and master’s students! We are looking forward to doing great science together!
+<a href="./posts/230220_masters_students/index.html" class="no-external">Artur, Malte, and Lucien join LIAC as project and master’s students! We are looking forward to doing great science together!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230220_masters_students/index.html">
+<a href="./posts/230220_masters_students/index.html" class="no-external">
 <div class="listing-date">
 Feb 20, 2023
 </div>
@@ -509,32 +532,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="news" data-listing-date-sort="1676592000000" data-listing-file-modified-sort="1701035491271" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="8" data-categories="news" data-listing-date-sort="1676592000000" data-listing-file-modified-sort="1708553899325" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
 <div class="thumbnail">
-<p><a href="./posts/230217_toboganning/index.html"> <img src="./posts/230217_toboganning/toboganning.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230217_toboganning/index.html" class="no-external"></a></p><a href="./posts/230217_toboganning/index.html" class="no-external">
+<p><img src="./posts/230217_toboganning/toboganning.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230217_toboganning/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230217_toboganning/index.html">
 <h3 class="no-anchor listing-title">
-Toboganning in Leysin
+<a href="./posts/230217_toboganning/index.html" class="no-external">Toboganning in Leysin</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230217_toboganning/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230217_toboganning/index.html">
 <div class="listing-description">
-We recently had our first LIAC winter event!
+<a href="./posts/230217_toboganning/index.html" class="no-external">We recently had our first LIAC winter event!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230217_toboganning/index.html">
+<a href="./posts/230217_toboganning/index.html" class="no-external">
 <div class="listing-date">
 Feb 17, 2023
 </div>
@@ -544,32 +565,30 @@ LIAC event
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="news" data-listing-date-sort="1674777600000" data-listing-file-modified-sort="1701035491259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="9" data-categories="news" data-listing-date-sort="1674777600000" data-listing-file-modified-sort="1708553899313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
 <div class="thumbnail">
-<p><a href="./posts/230127_potluck/index.html"> <img src="./posts/230127_potluck/potluck.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230127_potluck/index.html" class="no-external"></a></p><a href="./posts/230127_potluck/index.html" class="no-external">
+<p><img src="./posts/230127_potluck/potluck.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230127_potluck/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230127_potluck/index.html">
 <h3 class="no-anchor listing-title">
-Potluck
+<a href="./posts/230127_potluck/index.html" class="no-external">Potluck</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230127_potluck/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230127_potluck/index.html">
 <div class="listing-description">
-We recently had a lab potluck event!
+<a href="./posts/230127_potluck/index.html" class="no-external">We recently had a lab potluck event!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230127_potluck/index.html">
+<a href="./posts/230127_potluck/index.html" class="no-external">
 <div class="listing-date">
 Jan 27, 2023
 </div>
@@ -579,32 +598,30 @@ LIAC event
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="news" data-listing-date-sort="1674604800000" data-listing-file-modified-sort="1701035491259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="10" data-categories="news" data-listing-date-sort="1674604800000" data-listing-file-modified-sort="1708553899313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
 <div class="thumbnail">
-<p><a href="./posts/230125_paulo/index.html"> <img src="./posts/230125_paulo/paulo-square.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/230125_paulo/index.html" class="no-external"></a></p><a href="./posts/230125_paulo/index.html" class="no-external">
+<p><img src="./posts/230125_paulo/paulo-square.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/230125_paulo/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/230125_paulo/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Paulo!
+<a href="./posts/230125_paulo/index.html" class="no-external">Welcome, Paulo!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/230125_paulo/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/230125_paulo/index.html">
 <div class="listing-description">
-We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.
+<a href="./posts/230125_paulo/index.html" class="no-external">We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/230125_paulo/index.html">
+<a href="./posts/230125_paulo/index.html" class="no-external">
 <div class="listing-date">
 Jan 25, 2023
 </div>
@@ -614,32 +631,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="news" data-listing-date-sort="1667779200000" data-listing-file-modified-sort="1701035491259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="11" data-categories="news" data-listing-date-sort="1667779200000" data-listing-file-modified-sort="1708553899313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
 <div class="thumbnail">
-<p><a href="./posts/221107_kickoff/index.html"> <img src="./posts/221107_kickoff/image.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/221107_kickoff/index.html" class="no-external"></a></p><a href="./posts/221107_kickoff/index.html" class="no-external">
+<p><img src="./posts/221107_kickoff/image.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/221107_kickoff/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/221107_kickoff/index.html">
 <h3 class="no-anchor listing-title">
-Kickoff Group Meeting
+<a href="./posts/221107_kickoff/index.html" class="no-external">Kickoff Group Meeting</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/221107_kickoff/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/221107_kickoff/index.html">
 <div class="listing-description">
-Last week we had our kickoff group meeting!
+<a href="./posts/221107_kickoff/index.html" class="no-external">Last week we had our kickoff group meeting!</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/221107_kickoff/index.html">
+<a href="./posts/221107_kickoff/index.html" class="no-external">
 <div class="listing-date">
 Nov 7, 2022
 </div>
@@ -649,32 +664,30 @@ LIAC event
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="news" data-listing-date-sort="1664755200000" data-listing-file-modified-sort="1701035491259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="12" data-categories="news" data-listing-date-sort="1664755200000" data-listing-file-modified-sort="1708553899313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
 <div class="thumbnail">
-<p><a href="./posts/221003_victor/index.html"> <img src="./posts/221003_victor/victor.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/221003_victor/index.html" class="no-external"></a></p><a href="./posts/221003_victor/index.html" class="no-external">
+<p><img src="./posts/221003_victor/victor.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/221003_victor/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/221003_victor/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Victor!
+<a href="./posts/221003_victor/index.html" class="no-external">Welcome, Victor!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/221003_victor/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/221003_victor/index.html">
 <div class="listing-description">
-We are delighted to welcome Victor Sabanza as…
+<a href="./posts/221003_victor/index.html" class="no-external">We are delighted to welcome Victor Sabanza as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and the Luterbacher group…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/221003_victor/index.html">
+<a href="./posts/221003_victor/index.html" class="no-external">
 <div class="listing-date">
 Oct 3, 2022
 </div>
@@ -684,32 +697,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="news" data-listing-date-sort="1661990400000" data-listing-file-modified-sort="1701035491259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="13" data-categories="news" data-listing-date-sort="1661990400000" data-listing-file-modified-sort="1708553899313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
 <div class="thumbnail">
-<p><a href="./posts/220901_jeff/index.html"> <img src="./posts/220901_jeff/image.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/220901_jeff/index.html" class="no-external"></a></p><a href="./posts/220901_jeff/index.html" class="no-external">
+<p><img src="./posts/220901_jeff/image.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/220901_jeff/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/220901_jeff/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Jeff!
+<a href="./posts/220901_jeff/index.html" class="no-external">Welcome, Jeff!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/220901_jeff/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/220901_jeff/index.html">
 <div class="listing-description">
-We are delighted to welcome Jeff Guo as a PhD student! He will be part of our NCCR Catalysis team.
+<a href="./posts/220901_jeff/index.html" class="no-external">We are delighted to welcome Jeff Guo as a PhD student! He will be part of our NCCR Catalysis team.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/220901_jeff/index.html">
+<a href="./posts/220901_jeff/index.html" class="no-external">
 <div class="listing-date">
 Sep 1, 2022
 </div>
@@ -719,32 +730,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="news" data-listing-date-sort="1659657600000" data-listing-file-modified-sort="1701035491255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="14" data-categories="news" data-listing-date-sort="1659657600000" data-listing-file-modified-sort="1708553899309" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
 <div class="thumbnail">
-<p><a href="./posts/220805_junwu/index.html"> <img src="./posts/220805_junwu/image.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/220805_junwu/index.html" class="no-external"></a></p><a href="./posts/220805_junwu/index.html" class="no-external">
+<p><img src="./posts/220805_junwu/image.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/220805_junwu/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/220805_junwu/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Junwu!
+<a href="./posts/220805_junwu/index.html" class="no-external">Welcome, Junwu!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/220805_junwu/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/220805_junwu/index.html">
 <div class="listing-description">
-We have the great pleasure of welcoming Junwu Chen as a new NCCR Catalysis PhD student.
+<a href="./posts/220805_junwu/index.html" class="no-external">We have the great pleasure of welcoming Junwu Chen as a new NCCR Catalysis PhD student.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/220805_junwu/index.html">
+<a href="./posts/220805_junwu/index.html" class="no-external">
 <div class="listing-date">
 Aug 5, 2022
 </div>
@@ -754,32 +763,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="news" data-listing-date-sort="1659398400000" data-listing-file-modified-sort="1701035491255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="15" data-categories="news" data-listing-date-sort="1659398400000" data-listing-file-modified-sort="1708553899309" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
 <div class="thumbnail">
-<p><a href="./posts/220801_andres/index.html"> <img src="./posts/220801_andres/image.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/220801_andres/index.html" class="no-external"></a></p><a href="./posts/220801_andres/index.html" class="no-external">
+<p><img src="./posts/220801_andres/image.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/220801_andres/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/220801_andres/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Andres!
+<a href="./posts/220801_andres/index.html" class="no-external">Welcome, Andres!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/220801_andres/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/220801_andres/index.html">
 <div class="listing-description">
-We are delighted to welcome Andres Camilo Marulanda Bran as a PhD student! He is part of our NCCR Catalysis team.
+<a href="./posts/220801_andres/index.html" class="no-external">We are delighted to welcome Andres Camilo Marulanda Bran as a PhD student! He is part of our NCCR Catalysis team.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/220801_andres/index.html">
+<a href="./posts/220801_andres/index.html" class="no-external">
 <div class="listing-date">
 Aug 2, 2022
 </div>
@@ -789,32 +796,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="news" data-listing-date-sort="1649030400000" data-listing-file-modified-sort="1701035491255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="16" data-categories="news" data-listing-date-sort="1649030400000" data-listing-file-modified-sort="1708553899305" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
 <div class="thumbnail">
-<p><a href="./posts/220404_oli/index.html"> <img src="./posts/220404_oli/oliver.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/220404_oli/index.html" class="no-external"></a></p><a href="./posts/220404_oli/index.html" class="no-external">
+<p><img src="./posts/220404_oli/oliver.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/220404_oli/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/220404_oli/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Oliver!
+<a href="./posts/220404_oli/index.html" class="no-external">Welcome, Oliver!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/220404_oli/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/220404_oli/index.html">
 <div class="listing-description">
-We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.
+<a href="./posts/220404_oli/index.html" class="no-external">We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/220404_oli/index.html">
+<a href="./posts/220404_oli/index.html" class="no-external">
 <div class="listing-date">
 Apr 4, 2022
 </div>
@@ -824,32 +829,30 @@ LIAC team
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="news" data-listing-date-sort="1646092800000" data-listing-file-modified-sort="1701035491255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="17" data-categories="news" data-listing-date-sort="1646092800000" data-listing-file-modified-sort="1708553899305" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56">
 <div class="thumbnail">
-<p><a href="./posts/220301_bojana/index.html"> <img src="./posts/220301_bojana/bojana.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/220301_bojana/index.html" class="no-external"></a></p><a href="./posts/220301_bojana/index.html" class="no-external">
+<p><img src="./posts/220301_bojana/bojana.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/220301_bojana/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/220301_bojana/index.html">
 <h3 class="no-anchor listing-title">
-Welcome, Bojana!
+<a href="./posts/220301_bojana/index.html" class="no-external">Welcome, Bojana!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/220301_bojana/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/220301_bojana/index.html">
 <div class="listing-description">
-We are delighted to welcome Bojana Rankovic as a PhD student! She will be part of our NCCR Catalysis team.
+<a href="./posts/220301_bojana/index.html" class="no-external">We are delighted to welcome Bojana Rankovic as a PhD student! She will be part of our NCCR Catalysis team.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/220301_bojana/index.html">
+<a href="./posts/220301_bojana/index.html" class="no-external">
 <div class="listing-date">
 Mar 1, 2022
 </div>
@@ -943,10 +946,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/schwallergroup\.github\.io\/custom");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -956,8 +976,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -970,6 +999,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1013,6 +1161,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1038,6 +1187,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1095,23 +1270,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/schwallergroup\.github\.io\/custom");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
