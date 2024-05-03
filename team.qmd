@@ -640,6 +640,63 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 ::: -->
 
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Anna Borisova
+<img src="images/kelmanson.jpg" alt="Anna's profile picture" class="img-fluid img-round"/>
+
+- February to June 2024
+- Master thesis student
+- EMJMD Theoretical Chemistry and Computational Modelling
+- State University St. Petersburg / University of Helsinki
+<div class="center">
+</div>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Magdalena Lederbauer
+<img src="images/magdalena.jpg" alt="Magdalena's profile picture" class="img-fluid img-round"/>
+
+- February to June 2024
+- Master semester project
+- MSc and BSc in Chemistry, ETHZ
+<div class="center">
+</div>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Colleen Lonfat
+<img src="images/colleen.jpg" alt="Colleen's profile picture" class="img-fluid img-round"/>
+
+- February to June 2024
+- Project student
+- MSc and BSc in Chemistry, EPFL
+<div class="center">
+</div>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Tugdual Kerjan
+<img src="images/tug.jpg" alt="Tug's profile picture" class="img-fluid img-round"/>
+
+- February to June 2024
+- Project student
+- MSc and BSc in Computer Science, EPFL
+<div class="center">
+</div>
+:::
+:::
+
 :::
 
 # Alumni
@@ -648,6 +705,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - Dr. Stéphane d'Ascoli (2023, now at Meta AI)
 
 ## Project students
+- Ziad El Maki (EPFL, Master Semester project, Fall 2023)
 - Yifan Du (Zhejiang University, Bachelor thesis, Fall 2023)
 - Cheng-Hua (Lance) Huang (EPFL, Master thesis & valorisation, 2023-2024)
 - Peri Yerlikaya (EPFL, Laidlaw Scholar, Summer 2023)
