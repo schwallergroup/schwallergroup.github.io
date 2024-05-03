@@ -1,241 +1,24 @@
 [
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
+    "objectID": "openings.html",
+    "href": "openings.html",
+    "title": "Openings",
     "section": "",
-    "text": "Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills – in his case a combination of chemistry, materials science, computer science, and experimental research.\n\n5 years at IBM Research – Zurich (with Dr. Teodoro Laino)\nPhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern\nMPhil (2019) in Physics, University of Cambridge\nBSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSusEcoCCUS postdoc\nPhD at the university of Rochester NY (White Lab)\nBSc Computational Chemistry at University of Colombo Sri Lanka\nAI-based computational tools to solve chemistry problems\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD at the University of Basel (Sparr Group)\nBSc and MSc in Organic Chemistry (Alfred Werner Fellow)\nResearch interests include ML assisted Strategic Synthesis Planning, Automated Experimentation, and Acceleration of Drug Discovery\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD in NMR methodology, University of Geneva\nMSc in Advanced Spectroscopy for Chemistry, University Lille 1 & University of Bologna\nTransitioning into the intersection of AI and scientific research\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\nAnnick Gaudin () – the amazing person who makes sure that all things run smoothly.\n\n\n\n\n\n\n\n\n\n\n\nBojana Ranković\n\n\n\n \n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n \n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n \n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJeff Guo\n\n\n\n\n\n\nStarted in September 2022\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nVíctor Sabanza Gil\n\n\n\n\n\n\nStarted in October 2022\nJoint with LPDC\nMSc in Complex Systems Chemistry, Université de Strasbourg (France)\nBSc in Chemistry, Universidad de La Rioja (Spain)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nPaulo Neves\n\n\n\n\n\n\nStarted in January 2023 (with Janssen Pharmaceuticals)\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nRebecca Neeser\n\n\n\n\n\n\nStarted in April 2023\nJoint with LPDI\nBSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSarina Kopf\n\n\n\n\n\n\nStarted in August 2023\nJoint with Prof. Nevado (UZH)\nFulbright Scholar (EPFL)\nBSc in Biological Chemistry from Grinnell College (US)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nDaniel Armstrong\n\n\n\n\n\n\nStarted in September 2023\nMSc Information Technology, Glasgow\nMChem from University of St. Andrews\nAmazon Alexa Prize 2nd Place\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoshua Sin\n\n\n\n\n\n\nStarted in October 2023 (with Roche)\nMChem from University of Oxford\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSacha Raffaud\n\n\n\n\n\nMay 2023 - August 2023\nMaster’s thesis\nBSc Natural Sciences at UCL\nMSc in Applied Computational Science and Engineering at Imperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJenestin Anthonipillai\n\n\n\n\n\nSummer project & Master thesis\nMSc in Computer Science, University of St. Gallen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThéo Neukomm\n\n\n\n\n\nJuly - December 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRémi Schlama\n\n\n\n\n\nAugust to December 2023\nProject student\nMSc and BSc in Chemistry, EPFL"
+    "text": "Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.\nIn our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning."
   },
   {
-    "objectID": "team.html#postdoctoral-associates",
-    "href": "team.html#postdoctoral-associates",
-    "title": "Team",
+    "objectID": "openings.html#master-thesis-and-semester-projects",
+    "href": "openings.html#master-thesis-and-semester-projects",
+    "title": "Openings",
     "section": "",
-    "text": "SusEcoCCUS postdoc\nPhD at the university of Rochester NY (White Lab)\nBSc Computational Chemistry at University of Colombo Sri Lanka\nAI-based computational tools to solve chemistry problems\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD at the University of Basel (Sparr Group)\nBSc and MSc in Organic Chemistry (Alfred Werner Fellow)\nResearch interests include ML assisted Strategic Synthesis Planning, Automated Experimentation, and Acceleration of Drug Discovery\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD in NMR methodology, University of Geneva\nMSc in Advanced Spectroscopy for Chemistry, University Lille 1 & University of Bologna\nTransitioning into the intersection of AI and scientific research\n\n\n\n —  —"
+    "text": "Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.\nIn our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning."
   },
   {
-    "objectID": "team.html#administrative-assistant",
-    "href": "team.html#administrative-assistant",
-    "title": "Team",
-    "section": "",
-    "text": "Annick Gaudin () – the amazing person who makes sure that all things run smoothly."
-  },
-  {
-    "objectID": "team.html#phd-students",
-    "href": "team.html#phd-students",
-    "title": "Team",
-    "section": "",
-    "text": "Bojana Ranković\n\n\n\n \n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n \n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n \n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJeff Guo\n\n\n\n\n\n\nStarted in September 2022\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nVíctor Sabanza Gil\n\n\n\n\n\n\nStarted in October 2022\nJoint with LPDC\nMSc in Complex Systems Chemistry, Université de Strasbourg (France)\nBSc in Chemistry, Universidad de La Rioja (Spain)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nPaulo Neves\n\n\n\n\n\n\nStarted in January 2023 (with Janssen Pharmaceuticals)\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nRebecca Neeser\n\n\n\n\n\n\nStarted in April 2023\nJoint with LPDI\nBSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSarina Kopf\n\n\n\n\n\n\nStarted in August 2023\nJoint with Prof. Nevado (UZH)\nFulbright Scholar (EPFL)\nBSc in Biological Chemistry from Grinnell College (US)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nDaniel Armstrong\n\n\n\n\n\n\nStarted in September 2023\nMSc Information Technology, Glasgow\nMChem from University of St. Andrews\nAmazon Alexa Prize 2nd Place\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoshua Sin\n\n\n\n\n\n\nStarted in October 2023 (with Roche)\nMChem from University of Oxford\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSacha Raffaud\n\n\n\n\n\nMay 2023 - August 2023\nMaster’s thesis\nBSc Natural Sciences at UCL\nMSc in Applied Computational Science and Engineering at Imperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJenestin Anthonipillai\n\n\n\n\n\nSummer project & Master thesis\nMSc in Computer Science, University of St. Gallen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThéo Neukomm\n\n\n\n\n\nJuly - December 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRémi Schlama\n\n\n\n\n\nAugust to December 2023\nProject student\nMSc and BSc in Chemistry, EPFL"
-  },
-  {
-    "objectID": "team.html#postdocs-fellows",
-    "href": "team.html#postdocs-fellows",
-    "title": "Team",
-    "section": "Postdocs & Fellows",
-    "text": "Postdocs & Fellows\n\nDr. Stéphane d’Ascoli (2023, now at Meta AI)"
-  },
-  {
-    "objectID": "team.html#project-students-1",
-    "href": "team.html#project-students-1",
-    "title": "Team",
-    "section": "Project students",
-    "text": "Project students\n\nYifan Du (Zhejiang University, Bachelor thesis, Fall 2023)\nCheng-Hua (Lance) Huang (EPFL, Master thesis & valorisation, 2023-2024)\nPeri Yerlikaya (EPFL, Laidlaw Scholar, Summer 2023)\nXu Huang (Shanghai Jiao Tong University, Bachelor thesis, Spring 2023)\nXimena Leyva Peralta (Yale University, Summer 2023)\nTanya Gupta (IIT Dehli, Summer 2023)\nLucien Brey (EPFL, Master semester project, Spring 2023)\nMalte Franke (Aachen/EPFL exchange, Master semester project, Spring 2023)\nArtur Stefaniuk (EPFL, Master thesis, Spring 2023)\nAnna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Welcome Ximena!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 5, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Sacha!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Tanya!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Cheng-Hua!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Rebecca!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 3, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Stéphane!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 17, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Xu!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Artur, Malte, and Lucien as new project and master’s students!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nToboganning in Leysin\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nLIAC event\n\n\n\n\n\n\n\n\n\n\n\n\nPotluck\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nLIAC event\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Paulo!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nKickoff Group Meeting\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nLIAC event\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Victor!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Jeff!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Junwu!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 5, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Andres!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Oliver!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 4, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Bojana!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/220901_jeff/index.html",
-    "href": "posts/220901_jeff/index.html",
-    "title": "Welcome, Jeff!",
-    "section": "",
-    "text": "We are delighted to welcome Jeff Guo as a PhD student! He will be part of our NCCR Catalysis team.\n\nJeff Guo recently completed the grad program at AstraZeneca, where he was working on reinforcement learning for molecular design. Before that he received a MRes in Drug Discovery and Development from Imperial College London and BSc in Chemistry from the McGill University.\nFor a list of all his publication you can check out his Google Scholar profile"
-  },
-  {
-    "objectID": "posts/221107_kickoff/index.html",
-    "href": "posts/221107_kickoff/index.html",
-    "title": "Kickoff Group Meeting",
-    "section": "",
-    "text": "Last week we had our kickoff group meeting!\nIt was awesome to see what our talented group members presented only a few months after starting their PhD and projects.\nSay hi to Anna Kapeliukha, who will be with us for 3-month project.\nAnna, it’s a great pleasure to have you here!\nAfter the group meeting, we went to a Chinese restaurant and discovered many delicious dishes Junwu had ordered for us. Thanks, Junwu!\n\n\n\nDinner with the LIAC team"
-  },
-  {
-    "objectID": "posts/230220_masters_students/index.html",
-    "href": "posts/230220_masters_students/index.html",
-    "title": "Welcome Artur, Malte, and Lucien as new project and master’s students!",
-    "section": "",
-    "text": "Artur, Malte, and Lucien join LIAC as project and master’s students! We are looking forward to doing great science together!\n\n\n\nArtur\n\n\n\n\n\nMalte\n\n\n\n\n\nLucien"
-  },
-  {
-    "objectID": "posts/230410_cheng_hua/index.html",
-    "href": "posts/230410_cheng_hua/index.html",
-    "title": "Welcome Cheng-Hua!",
-    "section": "",
-    "text": "Cheng-Hua joins LIAC for his master’s thesis! Cool!\n\n\n\nCheng-Hua"
-  },
-  {
-    "objectID": "posts/220404_oli/index.html",
-    "href": "posts/220404_oli/index.html",
-    "title": "Welcome, Oliver!",
-    "section": "",
-    "text": "We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.\n\nOliver got his undergraduate and master’s degrees in chemical engineering at ETH Zürich. He completed his master’s thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!"
-  },
-  {
-    "objectID": "posts/230605_ximena/index.html",
-    "href": "posts/230605_ximena/index.html",
-    "title": "Welcome Ximena!",
-    "section": "",
-    "text": "Ximena joins LIAC for a summer project!\n\n\n\nXimena"
-  },
-  {
-    "objectID": "posts/230403_rebecca/index.html",
-    "href": "posts/230403_rebecca/index.html",
-    "title": "Welcome Rebecca!",
-    "section": "",
-    "text": "Rebecca joins LIAC as a joint PhD student with the Laboratory of Protein Design and Immunoengineering (LPDI) working at the exciting intersection of machine learning and biology!\n\n\n\nRebecca"
-  },
-  {
-    "objectID": "posts/221003_victor/index.html",
-    "href": "posts/221003_victor/index.html",
-    "title": "Welcome, Victor!",
-    "section": "",
-    "text": "We are delighted to welcome Victor Sabanza as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and the Luterbacher group (LPDC)\n\nVictor got his undergraduate degree in chemistry at the University of La Rioja and his master’s degree in complex systems chemistry at Strasbourg University. Welcome!"
-  },
-  {
-    "objectID": "posts/220301_bojana/index.html",
-    "href": "posts/220301_bojana/index.html",
-    "title": "Welcome, Bojana!",
-    "section": "",
-    "text": "We are delighted to welcome Bojana Rankovic as a PhD student! She will be part of our NCCR Catalysis team.\n\nBojana got her undergraduate degree in computer science at the University of Belgrade and her master’s in computer science at EPFL. She completed an internship at IBM research and completed her master’s thesis at ETH Zürich. Welcome!"
-  },
-  {
-    "objectID": "people/bojana_rankovic.html",
-    "href": "people/bojana_rankovic.html",
-    "title": "Bojana Ranković",
-    "section": "",
-    "text": "Started in March 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n\n\n — https://mailhide.io/e/3CQKYvPe\n — https://twitter.com/6ojaHa\n — https://github.com/bojana-rankovic](https://github.com/bojana-rankovic)\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
-  },
-  {
-    "objectID": "people/bojana_rankovic.html#education",
-    "href": "people/bojana_rankovic.html#education",
-    "title": "Bojana Ranković",
-    "section": "",
-    "text": "MSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade"
-  },
-  {
-    "objectID": "people/bojana_rankovic.html#links",
-    "href": "people/bojana_rankovic.html#links",
-    "title": "Bojana Ranković",
-    "section": "",
-    "text": "— https://mailhide.io/e/3CQKYvPe\n — https://twitter.com/6ojaHa\n — https://github.com/bojana-rankovic](https://github.com/bojana-rankovic)\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
-  },
-  {
-    "objectID": "people/junuwu_chen.html",
-    "href": "people/junuwu_chen.html",
-    "title": "Junwu Chen",
-    "section": "",
-    "text": "MSc in Chemical Engineering from University of Chinese Academy of Sciences\nBSc in Chemical Engineering and Technology from Wuhan University of Technology\n\n\n\n\n\n — junwu.chen@epfl.ch\n — https://twitter.com/JunwuChen25\n — https://github.com/jwchen25\n — https://scholar.google.com/citations?user=q5Oke7sAAAAJ&hl=en"
-  },
-  {
-    "objectID": "people/junuwu_chen.html#education",
-    "href": "people/junuwu_chen.html#education",
-    "title": "Junwu Chen",
-    "section": "",
-    "text": "MSc in Chemical Engineering from University of Chinese Academy of Sciences\nBSc in Chemical Engineering and Technology from Wuhan University of Technology"
-  },
-  {
-    "objectID": "people/junuwu_chen.html#links",
-    "href": "people/junuwu_chen.html#links",
-    "title": "Junwu Chen",
-    "section": "",
-    "text": "— junwu.chen@epfl.ch\n — https://twitter.com/JunwuChen25\n — https://github.com/jwchen25\n — https://scholar.google.com/citations?user=q5Oke7sAAAAJ&hl=en"
-  },
-  {
-    "objectID": "people/rebecca_neeser.html",
-    "href": "people/rebecca_neeser.html",
-    "title": "Rebecca M. Neeser",
-    "section": "",
-    "text": "With a solid background in Pharmaceutical Sciences and specialized knowledge in medicinal chemistry and drug design, I possess the unique ability to integrate computational approaches in the creation of novel small molecules. The interdisciplinary nature of my work, bridging the realms of chemistry, biology, and computer science, is of special interest to me. This interdisciplinarity is further enabled by a joint supervision arrangement between LIAC and LPDI (Laboratory of Protein Design and Immunoengineering). LIAC brings expertise in AI for chemistry, while LPDI offers deep knowledge in structural biology and computational protein design. This collaboration enables me to leverage diverse perspectives and cutting-edge methodologies to drive my research forward.\nMy main interest lies in the development and application of machine learning tools for drug design. I am driven by the opportunity to address unresolved challenges in drug development and provide support to experimentalists. Through my research, I aim to make a tangible impact by facilitating the discovery and development of innovative therapeutics.\nOutside of work, you can find me in the mountains, where I am skiing, hiking or climbing. Additionally, I enjoy live music and exploring new coffee spots all over the world.\nI am genuinely excited about the prospect of learning new machine learning methods, contributing to the design of novel drugs, and collaborating with exceptional peers.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster thesis in the Coley Group at MIT in collaboration with the Schneider Group at ETH Zurich\nMSc in Pharmaceutical Sciences from ETH Zurich\nBSc in Pharmaceutical Sciences from ETH Zurich\n\n\n\n\n\n — https://mailhide.io/e/i6PiL7mC\n — https://twitter.com/RebeccaNeeser\n — https://github.com/rneeser\n — https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en"
-  },
-  {
-    "objectID": "people/rebecca_neeser.html#education",
-    "href": "people/rebecca_neeser.html#education",
-    "title": "Rebecca M. Neeser",
-    "section": "",
-    "text": "Master thesis in the Coley Group at MIT in collaboration with the Schneider Group at ETH Zurich\nMSc in Pharmaceutical Sciences from ETH Zurich\nBSc in Pharmaceutical Sciences from ETH Zurich"
-  },
-  {
-    "objectID": "people/rebecca_neeser.html#links",
-    "href": "people/rebecca_neeser.html#links",
-    "title": "Rebecca M. Neeser",
-    "section": "",
-    "text": "— https://mailhide.io/e/i6PiL7mC\n — https://twitter.com/RebeccaNeeser\n — https://github.com/rneeser\n — https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en"
-  },
-  {
-    "objectID": "people/andres_bran.html",
-    "href": "people/andres_bran.html",
-    "title": "Andres CM Bran",
-    "section": "",
-    "text": "Started in August 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n\n\n — https://mailhide.io/e/DdqfHD8Z\n — https://twitter.com/drecmb\n — https://github.com/doncamilom\n — https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao"
-  },
-  {
-    "objectID": "people/andres_bran.html#education",
-    "href": "people/andres_bran.html#education",
-    "title": "Andres CM Bran",
-    "section": "",
-    "text": "BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin"
-  },
-  {
-    "objectID": "people/andres_bran.html#links",
-    "href": "people/andres_bran.html#links",
-    "title": "Andres CM Bran",
-    "section": "",
-    "text": "— https://mailhide.io/e/DdqfHD8Z\n — https://twitter.com/drecmb\n — https://github.com/doncamilom\n — https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao"
-  },
-  {
-    "objectID": "people/paulo_neves.html",
-    "href": "people/paulo_neves.html",
-    "title": "Paulo Neves",
-    "section": "",
-    "text": "Started in January 2023 (with Janssen Pharmaceuticals)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n\n\n — https://mailhide.io/e/u6TBDmoN"
-  },
-  {
-    "objectID": "people/paulo_neves.html#education",
-    "href": "people/paulo_neves.html#education",
-    "title": "Paulo Neves",
-    "section": "",
-    "text": "BSc and MSc in Physics Engineering, NOVA School of Science and Technology"
-  },
-  {
-    "objectID": "people/paulo_neves.html#links",
-    "href": "people/paulo_neves.html#links",
-    "title": "Paulo Neves",
-    "section": "",
-    "text": "— https://mailhide.io/e/u6TBDmoN"
-  },
-  {
-    "objectID": "people/oliver_schilter.html",
-    "href": "people/oliver_schilter.html",
-    "title": "Oliver Schilter",
-    "section": "",
-    "text": "With a background in chemical engineering, I have had the privilege of pursuing my research jointly between EPFL and IBM Research in Zürich. My passion lies in exploring the intersection of artificial intelligence (AI) and chemistry, with a particular focus on catalysis.\nThroughout my academic journey, I have dedicated myself to understanding and harnessing the power of AI to revolutionize the field of chemistry. By leveraging cutting-edge technologies and computational models, I aim to unravel the complexities of catalytic processes and develop innovative solutions to advance sustainable chemistry.\nBeyond the realm of research, I find great joy in engaging in various activities such as Squash, running, and hiking. Additionally, I love exploring the art of cooking, experimenting with flavors and techniques to create delectable dishes that nourish both body and soul.\nI am truly excited to be a part of this scientific group, where we can collaborate, exchange ideas, and push the boundaries of scientific knowledge. Together, we can pave the way for transformative advancements in the world of AI-driven chemistry.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster thesis at Jensen Group at MIT\nMSc in Bio & -Chemical Engineering from ETH Zürich\nBSc in Chemical Engineering from ETH Zürich\n\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
-  },
-  {
-    "objectID": "people/oliver_schilter.html#education",
-    "href": "people/oliver_schilter.html#education",
-    "title": "Oliver Schilter",
-    "section": "",
-    "text": "Master thesis at Jensen Group at MIT\nMSc in Bio & -Chemical Engineering from ETH Zürich\nBSc in Chemical Engineering from ETH Zürich"
-  },
-  {
-    "objectID": "people/oliver_schilter.html#links",
-    "href": "people/oliver_schilter.html#links",
-    "title": "Oliver Schilter",
-    "section": "",
-    "text": "— https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+    "objectID": "openings.html#phd-and-postdoc-positions",
+    "href": "openings.html#phd-and-postdoc-positions",
+    "title": "Openings",
+    "section": "PhD and Postdoc positions",
+    "text": "PhD and Postdoc positions\nCurrently, there are no open positions, but reach out to Prof. Philippe Schwaller if you think there could be a potential match.\nAdditional information on EPFL employment conditions and salary scale.\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
   },
   {
     "objectID": "research.html",
@@ -257,27 +40,6 @@
     "title": "Research",
     "section": "Prior to EPFL",
     "text": "Prior to EPFL\n\n\nA Cardinale, A Castrogiovanni, T Gaudin, J Geluykens, T Laino, M Manica, D Probst, P Schwaller, A Sobczyk, A Toniato, AC Vaucher, H Wolf, F Zipoli , T Laino. Fuelling the Digital Chemistry Revolution with Language Models: Sandmeyer Award 2022. CHIMIA , 77 (7/8), 484-484, 2023.\n\n\nA Thakkar, AC Vaucher, A Byekwaso, P Schwaller, A Toniato, T Laino. Unbiasing Retrosynthesis Language Models with Disconnection Prompts. ACS Central Science, 2023.\n\n\nA Toniato, AC Vaucher, P Schwaller, T Laino. Enhancing diversity in language based models for single-step retrosynthesis. Digital Discovery, 2023, Accepted manuscript.\n\n\nD Probst, P Schwaller, JL Reymond. Reaction classification and yield prediction using the differential reaction fingerprint DRFP. Digital Discovery, 2022, 1, 91-97.\n\n\n\n\n\nP Schwaller*, AC Vaucher, R Laplaza, C Bunne, A Krause, C Corminboeuf, and T Laino. Machine intelligence for chemical reaction space. WIREs Comput. Mol. Sci., 2022, e1604.\n\n\n\n\n\nA Thakkar, P Schwaller*. How AI for Synthesis Can Help Tackle Challenges in Molecular Discovery. CHIMIA, 2021, 75, 7-8, 677-678.\n\n\nD Kreutter, P Schwaller, JL Reymond. Predicting Enzymatic Reactions with a Molecular Transformer. Chem. Sci., 2021, 12, 8648-8659. Chemical Science cover. Most popular 2021 physical and theoretical chemistry articles.\n\n\n\n\n\nAC Vaucher, P Schwaller, J Geluykens, VH Nair, A Iuliano, T Laino. Inferring experimental procedures from text-based representations of chemical reactions. Nature Comm., 2021, 12 (1), 1-11. Editors’ highlight in Computation and Machine Learning for Chemistry. [Blog]. [Code].\n\n\n\n\n\nP Schwaller*, B Hoover, JL Reymond, H Strobelt, T Laino. Extraction of organic chemistry grammar from unsupervised learning of chemical reactions. Sci. Adv., 2021, 7, 15, abe416. Featured in TechTalks, C&EN. [Code].\n\n\n\n\n\nP Schwaller*, AC Vaucher, T Laino, JL Reymond. Prediction of Chemical Reaction Yields using Deep Learning. Mach. Learn.: Sci. Technol., 2021, 2, 015016. Invited article for “Machine Learning for Chemical Reactions” focus collection. [Code].\n\n\n\n\n\nA Toniato, P Schwaller, A Cardinale, J Geluykens, T Laino. Unassisted Noise-Reduction of Chemical Reactions Data Sets. Nat. Mach. Int., 2021, 3, 485–494. [Code].\n\n\n\n\n\nP Schwaller*, D Probst, AC Vaucher, VH Nair, D Kreutter, T Laino, JL Reymond. Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. Nat. Mach. Int., 2021, 3, 144–152. [News & Views]. [Matters Arising]. Synthesis and enabling technologies collection. Featured in C&EN. [Code].\n\n\n\n\n\nG Pesciullesi•, P Schwaller•, T Laino, JL Reymond. Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates. Nature Comm., 2020, 11, 4874. Editors’ highlight in Organic Chemistry and Chemical Biology. [Blog]. [Code].\n\n\n\n\n\nAC Vaucher, F Zipoli, J Geluykens, VH Nair, P Schwaller, T Laino. Automated extraction of chemical synthesis actions from experimental procedures. Nature Comm., 2020, 11 (1), 2041-1723. Editors’ highlight in Computation and Machine Learning for Chemistry. Featured in C&EN. [Blog]. [Code].\n\n\n\n\n\nH Öztürk, A Özgür, P Schwaller, T Laino, E Ozkirimli. Exploring chemical space using natural language processing methodologies for drug discovery. Drug Discovery Today, 2020, 25 (4), 689-705.\n\n\n\n\n\nP Schwaller*, R Petraglia, V Zullo, V H Nair, R A Haeuselmann, R Pisoni, C Bekas, A Iuliano, T Laino. Predicting retrosynthetic pathways using a combined linguistic model and hyper-graph exploration strategy. Chem. Sci., 2020,11, 3316-3325. [Blog].\n\n\n\n\n\nVH Nair, P Schwaller, T Laino. Data-driven Chemical Reaction Prediction and Retrosynthesis. Chimia, 2020, 73 (12), 997-1000. Invited article for special “Artificial Intelligence in Swiss Chemical Research” issue.\n\n\nP Schwaller*, T Laino, T Gaudin, P Bolgar, CA Hunter, C Bekas, AA Lee. Molecular Transformer – A Model for Uncertainty-Calibrated Chemical Reaction Prediction. ACS Cent. Sci. 2019, 5, 9, 1572–1583. ACS Central Science Top-10 Most Read Articles in 2020. Featured in C&EN, Chemistry World. [Blog]. [Code].\n\n\n\n\n\nP Schwaller•*, T Gaudin•, D Lanyi, C Bekas, T Laino. Found in Translation: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models. Chem. Sci., 2018, 9, 6091-609. Chemical Science: Most popular articles 2018-2019. Featured in Chemistry World, IEEE Spectrum, MIT Technology Review, phys.org. [Blog].\n\n\n\n\n\nM Makha, P Schwaller, K Strassel, SB Anantharaman, F Nüesch, R Hany, J Heier. Insights into photovoltaic properties of ternary organic solar cells from phase diagrams. Sci. Technol. Adv. Mater., 2018, 19, 1, 669–682.\n\n\nN Mounet, M Gibertini, P Schwaller, D Campi, A Merkys, A Marrazzo, T Sohier, IE Castelli, A Cepellotti, G Pizzi, N Marzari. Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds. Nature Nanotech., 2018, 13, 246–252. HPC Max Prize 2017. Nature Nanotechnology cover. [News & Views]. Featured in arstechnica, phys.org. [Blog]. [Code]."
-  },
-  {
-    "objectID": "people/jeff_guo.html",
-    "href": "people/jeff_guo.html",
-    "title": "Jeff Guo",
-    "section": "",
-    "text": "Started in September 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n\n\n — https://mailhide.io/e/48LY5AGP\n — https://twitter.com/JeffGuo__\n — https://twitter.com/JeffGuo__\n — https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra"
-  },
-  {
-    "objectID": "people/jeff_guo.html#education",
-    "href": "people/jeff_guo.html#education",
-    "title": "Jeff Guo",
-    "section": "",
-    "text": "AstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University"
-  },
-  {
-    "objectID": "people/jeff_guo.html#links",
-    "href": "people/jeff_guo.html#links",
-    "title": "Jeff Guo",
-    "section": "",
-    "text": "— https://mailhide.io/e/48LY5AGP\n — https://twitter.com/JeffGuo__\n — https://twitter.com/JeffGuo__\n — https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra"
   },
   {
     "objectID": "people/sarina_kopf.html",
@@ -322,6 +84,27 @@
     "text": "— https://mailhide.io/e/xarXmL0P\n — https://twitter.com/VictorSabanza\n — https://github.com/victorsabanza"
   },
   {
+    "objectID": "people/jeff_guo.html",
+    "href": "people/jeff_guo.html",
+    "title": "Jeff Guo",
+    "section": "",
+    "text": "Started in September 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n\n\n — https://mailhide.io/e/48LY5AGP\n — https://twitter.com/JeffGuo__\n — https://twitter.com/JeffGuo__\n — https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra"
+  },
+  {
+    "objectID": "people/jeff_guo.html#education",
+    "href": "people/jeff_guo.html#education",
+    "title": "Jeff Guo",
+    "section": "",
+    "text": "AstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University"
+  },
+  {
+    "objectID": "people/jeff_guo.html#links",
+    "href": "people/jeff_guo.html#links",
+    "title": "Jeff Guo",
+    "section": "",
+    "text": "— https://mailhide.io/e/48LY5AGP\n — https://twitter.com/JeffGuo__\n — https://twitter.com/JeffGuo__\n — https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=de&oi=sra"
+  },
+  {
     "objectID": "people/stephane_ascoli.html",
     "href": "people/stephane_ascoli.html",
     "title": "Stéphane d’Ascoli",
@@ -341,6 +124,244 @@
     "title": "Stéphane d’Ascoli",
     "section": "",
     "text": "— ttps://mailhide.io/e/Lr7SORC9\n — https://twitter.com/stephanedascoli\n — https://github.com/sdascoli\n — https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=e"
+  },
+  {
+    "objectID": "people/bojana_rankovic.html",
+    "href": "people/bojana_rankovic.html",
+    "title": "Bojana Ranković",
+    "section": "",
+    "text": "Started in March 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n\n\n — https://mailhide.io/e/3CQKYvPe\n — https://twitter.com/6ojaHa\n — https://github.com/bojana-rankovic](https://github.com/bojana-rankovic)\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/bojana_rankovic.html#education",
+    "href": "people/bojana_rankovic.html#education",
+    "title": "Bojana Ranković",
+    "section": "",
+    "text": "MSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade"
+  },
+  {
+    "objectID": "people/bojana_rankovic.html#links",
+    "href": "people/bojana_rankovic.html#links",
+    "title": "Bojana Ranković",
+    "section": "",
+    "text": "— https://mailhide.io/e/3CQKYvPe\n — https://twitter.com/6ojaHa\n — https://github.com/bojana-rankovic](https://github.com/bojana-rankovic)\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills – in his case a combination of chemistry, materials science, computer science, and experimental research.\n\n5 years at IBM Research – Zurich (with Dr. Teodoro Laino)\nPhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern\nMPhil (2019) in Physics, University of Cambridge\nBSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSusEcoCCUS postdoc\nPhD at the university of Rochester NY (White Lab)\nBSc Computational Chemistry at University of Colombo Sri Lanka\nAI-based computational tools to solve chemistry problems\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD at the University of Basel (Sparr Group)\nBSc and MSc in Organic Chemistry (Alfred Werner Fellow)\nResearch interests include ML assisted Strategic Synthesis Planning, Automated Experimentation, and Acceleration of Drug Discovery\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD in NMR methodology, University of Geneva\nMSc in Advanced Spectroscopy for Chemistry, University Lille 1 & University of Bologna\nTransitioning into the intersection of AI and scientific research\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\nAnnick Gaudin () – the amazing person who makes sure that all things run smoothly.\n\n\n\n\n\n\n\n\n\n\n\nBojana Ranković\n\n\n\n \n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n \n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n \n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJeff Guo\n\n\n\n\n\n\nStarted in September 2022\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nVíctor Sabanza Gil\n\n\n\n\n\n\nStarted in October 2022\nJoint with LPDC\nMSc in Complex Systems Chemistry, Université de Strasbourg (France)\nBSc in Chemistry, Universidad de La Rioja (Spain)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nPaulo Neves\n\n\n\n\n\n\nStarted in January 2023 (with Janssen Pharmaceuticals)\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nRebecca Neeser\n\n\n\n\n\n\nStarted in April 2023\nJoint with LPDI\nBSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSarina Kopf\n\n\n\n\n\n\nStarted in August 2023\nJoint with Prof. Nevado (UZH)\nFulbright Scholar (EPFL)\nBSc in Biological Chemistry from Grinnell College (US)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nDaniel Armstrong\n\n\n\n\n\n\nStarted in September 2023\nMSc Information Technology, Glasgow\nMChem from University of St. Andrews\nAmazon Alexa Prize 2nd Place\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoshua Sin\n\n\n\n\n\n\nStarted in October 2023 (with Roche)\nMChem from University of Oxford\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSacha Raffaud\n\n\n\n\n\nMay 2023 - August 2023\nMaster’s thesis\nBSc Natural Sciences at UCL\nMSc in Applied Computational Science and Engineering at Imperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJenestin Anthonipillai\n\n\n\n\n\nSummer project & Master thesis\nMSc in Computer Science, University of St. Gallen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThéo Neukomm\n\n\n\n\n\nJuly - December 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRémi Schlama\n\n\n\n\n\nAugust to December 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnna Borisova\n\n\n\n\n\nFebruary to June 2024\nMaster thesis student\nEMJMD Theoretical Chemistry and Computational Modelling\nState University St. Petersburg / University of Helsinki\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMagdalena Lederbauer\n\n\n\n\n\nFebruary to June 2024\nMaster semester project\nMSc and BSc in Chemistry, ETHZ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColleen Lonfat\n\n\n\n\n\nFebruary to June 2024\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTugdual Kerjan\n\n\n\n\n\nFebruary to June 2024\nProject student\nMSc and BSc in Computer Science, EPFL"
+  },
+  {
+    "objectID": "team.html#postdoctoral-associates",
+    "href": "team.html#postdoctoral-associates",
+    "title": "Team",
+    "section": "",
+    "text": "SusEcoCCUS postdoc\nPhD at the university of Rochester NY (White Lab)\nBSc Computational Chemistry at University of Colombo Sri Lanka\nAI-based computational tools to solve chemistry problems\n\n\n\n —  —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD at the University of Basel (Sparr Group)\nBSc and MSc in Organic Chemistry (Alfred Werner Fellow)\nResearch interests include ML assisted Strategic Synthesis Planning, Automated Experimentation, and Acceleration of Drug Discovery\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD in NMR methodology, University of Geneva\nMSc in Advanced Spectroscopy for Chemistry, University Lille 1 & University of Bologna\nTransitioning into the intersection of AI and scientific research\n\n\n\n —  —"
+  },
+  {
+    "objectID": "team.html#administrative-assistant",
+    "href": "team.html#administrative-assistant",
+    "title": "Team",
+    "section": "",
+    "text": "Annick Gaudin () – the amazing person who makes sure that all things run smoothly."
+  },
+  {
+    "objectID": "team.html#phd-students",
+    "href": "team.html#phd-students",
+    "title": "Team",
+    "section": "",
+    "text": "Bojana Ranković\n\n\n\n \n\nStarted in March 2022\nMSc in Computer Science, EPFL\nBSc in Computer Science, University of Belgrade\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nOliver Schilter\n\n\n\n \n\nStarted in April 2022 (based at IBM Research)\nMSc and BSc in Chemistry and Chemical Engineering, ETHZ\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nAndres CM Bran\n\n\n\n \n\nStarted in August 2022\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJunwu Chen\n\n\n\n\n\n\nStarted in August 2022\nMSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nJeff Guo\n\n\n\n\n\n\nStarted in September 2022\nAstraZeneca Grad Program\nMRes, Imperial College London and BSc, McGill University\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nVíctor Sabanza Gil\n\n\n\n\n\n\nStarted in October 2022\nJoint with LPDC\nMSc in Complex Systems Chemistry, Université de Strasbourg (France)\nBSc in Chemistry, Universidad de La Rioja (Spain)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nPaulo Neves\n\n\n\n\n\n\nStarted in January 2023 (with Janssen Pharmaceuticals)\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nRebecca Neeser\n\n\n\n\n\n\nStarted in April 2023\nJoint with LPDI\nBSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSarina Kopf\n\n\n\n\n\n\nStarted in August 2023\nJoint with Prof. Nevado (UZH)\nFulbright Scholar (EPFL)\nBSc in Biological Chemistry from Grinnell College (US)\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nDaniel Armstrong\n\n\n\n\n\n\nStarted in September 2023\nMSc Information Technology, Glasgow\nMChem from University of St. Andrews\nAmazon Alexa Prize 2nd Place\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoshua Sin\n\n\n\n\n\n\nStarted in October 2023 (with Roche)\nMChem from University of Oxford\n\n\n\n —  — \n\n\n\n\n\n\n\n\n\n\n\nSacha Raffaud\n\n\n\n\n\nMay 2023 - August 2023\nMaster’s thesis\nBSc Natural Sciences at UCL\nMSc in Applied Computational Science and Engineering at Imperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJenestin Anthonipillai\n\n\n\n\n\nSummer project & Master thesis\nMSc in Computer Science, University of St. Gallen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThéo Neukomm\n\n\n\n\n\nJuly - December 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRémi Schlama\n\n\n\n\n\nAugust to December 2023\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnna Borisova\n\n\n\n\n\nFebruary to June 2024\nMaster thesis student\nEMJMD Theoretical Chemistry and Computational Modelling\nState University St. Petersburg / University of Helsinki\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMagdalena Lederbauer\n\n\n\n\n\nFebruary to June 2024\nMaster semester project\nMSc and BSc in Chemistry, ETHZ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColleen Lonfat\n\n\n\n\n\nFebruary to June 2024\nProject student\nMSc and BSc in Chemistry, EPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTugdual Kerjan\n\n\n\n\n\nFebruary to June 2024\nProject student\nMSc and BSc in Computer Science, EPFL"
+  },
+  {
+    "objectID": "team.html#postdocs-fellows",
+    "href": "team.html#postdocs-fellows",
+    "title": "Team",
+    "section": "Postdocs & Fellows",
+    "text": "Postdocs & Fellows\n\nDr. Stéphane d’Ascoli (2023, now at Meta AI)"
+  },
+  {
+    "objectID": "team.html#project-students-1",
+    "href": "team.html#project-students-1",
+    "title": "Team",
+    "section": "Project students",
+    "text": "Project students\n\nZiad El Maki (EPFL, Master Semester project, Fall 2023)\nYifan Du (Zhejiang University, Bachelor thesis, Fall 2023)\nCheng-Hua (Lance) Huang (EPFL, Master thesis & valorisation, 2023-2024)\nPeri Yerlikaya (EPFL, Laidlaw Scholar, Summer 2023)\nXu Huang (Shanghai Jiao Tong University, Bachelor thesis, Spring 2023)\nXimena Leyva Peralta (Yale University, Summer 2023)\nTanya Gupta (IIT Dehli, Summer 2023)\nLucien Brey (EPFL, Master semester project, Spring 2023)\nMalte Franke (Aachen/EPFL exchange, Master semester project, Spring 2023)\nArtur Stefaniuk (EPFL, Master thesis, Spring 2023)\nAnna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)"
+  },
+  {
+    "objectID": "posts/230125_paulo/index.html",
+    "href": "posts/230125_paulo/index.html",
+    "title": "Welcome, Paulo!",
+    "section": "",
+    "text": "We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.\n\nPaulo got his undergraduate degree and master’s degrees in Physics Engineering at NOVA School of Science and Technology in Portugal and is currently a machine learning scientist at Pharmaceuticals."
+  },
+  {
+    "objectID": "posts/221003_victor/index.html",
+    "href": "posts/221003_victor/index.html",
+    "title": "Welcome, Victor!",
+    "section": "",
+    "text": "We are delighted to welcome Victor Sabanza as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and the Luterbacher group (LPDC)\n\nVictor got his undergraduate degree in chemistry at the University of La Rioja and his master’s degree in complex systems chemistry at Strasbourg University. Welcome!"
+  },
+  {
+    "objectID": "posts/230410_cheng_hua/index.html",
+    "href": "posts/230410_cheng_hua/index.html",
+    "title": "Welcome Cheng-Hua!",
+    "section": "",
+    "text": "Cheng-Hua joins LIAC for his master’s thesis! Cool!\n\n\n\nCheng-Hua"
+  },
+  {
+    "objectID": "posts/230217_toboganning/index.html",
+    "href": "posts/230217_toboganning/index.html",
+    "title": "Toboganning in Leysin",
+    "section": "",
+    "text": "We recently had our first LIAC winter event!\nThe team enjoyed an amazing lunch in Leysin village, trying out local fondue specialties and rostï, before heading to toboganning.\nIt was great to have the whole team together!\n\n\n\nLunch before toboganning\n\n\n\n\n\nToboganning"
+  },
+  {
+    "objectID": "posts/220805_junwu/index.html",
+    "href": "posts/220805_junwu/index.html",
+    "title": "Welcome, Junwu!",
+    "section": "",
+    "text": "We have the great pleasure of welcoming Junwu Chen as a new NCCR Catalysis PhD student.\n\nJunwu joins the us from the Chinese Academy of Sciences (CAS) in Beijing. If you want to read some of his previous work, they are available from his Google Scholar profile.\nWe are super excited to have you here!"
+  },
+  {
+    "objectID": "posts/230127_potluck/index.html",
+    "href": "posts/230127_potluck/index.html",
+    "title": "Potluck",
+    "section": "",
+    "text": "We recently had a lab potluck event!\nEveryone brought food to share and it was a perfect way to end the work week!\n\n\n\nBefore we enjoyed the food and drinks"
+  },
+  {
+    "objectID": "posts/230530_sacha/index.html",
+    "href": "posts/230530_sacha/index.html",
+    "title": "Welcome Sacha!",
+    "section": "",
+    "text": "Sacha joins LIAC for his master’s thesis!\n\n\n\nSacha"
+  },
+  {
+    "objectID": "posts/230308_xu/index.html",
+    "href": "posts/230308_xu/index.html",
+    "title": "Welcome Xu!",
+    "section": "",
+    "text": "Xu joins LIAC to carry out her Bachelor’s thesis! Welcome Xu and we are looking forward to doing great science together!\n\n\n\nXu"
+  },
+  {
+    "objectID": "posts/230403_rebecca/index.html",
+    "href": "posts/230403_rebecca/index.html",
+    "title": "Welcome Rebecca!",
+    "section": "",
+    "text": "Rebecca joins LIAC as a joint PhD student with the Laboratory of Protein Design and Immunoengineering (LPDI) working at the exciting intersection of machine learning and biology!\n\n\n\nRebecca"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Welcome Ximena!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 5, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Sacha!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Tanya!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Cheng-Hua!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Rebecca!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 3, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Stéphane!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 17, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Xu!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 8, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome Artur, Malte, and Lucien as new project and master’s students!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nToboganning in Leysin\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 17, 2023\n\n\nLIAC event\n\n\n\n\n\n\n\n\n\n\n\n\nPotluck\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nLIAC event\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Paulo!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nKickoff Group Meeting\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nLIAC event\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Victor!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Jeff!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Junwu!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 5, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Andres!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Oliver!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 4, 2022\n\n\nLIAC team\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Bojana!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 1, 2022\n\n\nLIAC team\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/220901_jeff/index.html",
+    "href": "posts/220901_jeff/index.html",
+    "title": "Welcome, Jeff!",
+    "section": "",
+    "text": "We are delighted to welcome Jeff Guo as a PhD student! He will be part of our NCCR Catalysis team.\n\nJeff Guo recently completed the grad program at AstraZeneca, where he was working on reinforcement learning for molecular design. Before that he received a MRes in Drug Discovery and Development from Imperial College London and BSc in Chemistry from the McGill University.\nFor a list of all his publication you can check out his Google Scholar profile"
+  },
+  {
+    "objectID": "posts/220404_oli/index.html",
+    "href": "posts/220404_oli/index.html",
+    "title": "Welcome, Oliver!",
+    "section": "",
+    "text": "We are delighted to welcome Oliver Schilter as a PhD student! He will be part of our NCCR Catalysis team and will share a joint appointment at LIAC and IBM Research.\n\nOliver got his undergraduate and master’s degrees in chemical engineering at ETH Zürich. He completed his master’s thesis at MIT and previously interned at Roche and CSL Behring. He is currently based at IBM research. Welcome!"
+  },
+  {
+    "objectID": "posts/221107_kickoff/index.html",
+    "href": "posts/221107_kickoff/index.html",
+    "title": "Kickoff Group Meeting",
+    "section": "",
+    "text": "Last week we had our kickoff group meeting!\nIt was awesome to see what our talented group members presented only a few months after starting their PhD and projects.\nSay hi to Anna Kapeliukha, who will be with us for 3-month project.\nAnna, it’s a great pleasure to have you here!\nAfter the group meeting, we went to a Chinese restaurant and discovered many delicious dishes Junwu had ordered for us. Thanks, Junwu!\n\n\n\nDinner with the LIAC team"
+  },
+  {
+    "objectID": "posts/220801_andres/index.html",
+    "href": "posts/220801_andres/index.html",
+    "title": "Welcome, Andres!",
+    "section": "",
+    "text": "We are delighted to welcome Andres Camilo Marulanda Bran as a PhD student! He is part of our NCCR Catalysis team.\n\nAndres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White’s group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig."
+  },
+  {
+    "objectID": "posts/230515_tanya/index.html",
+    "href": "posts/230515_tanya/index.html",
+    "title": "Welcome Tanya!",
+    "section": "",
+    "text": "Tanya joins LIAC for a summer internship!\n\n\n\nTanya"
+  },
+  {
+    "objectID": "posts/220301_bojana/index.html",
+    "href": "posts/220301_bojana/index.html",
+    "title": "Welcome, Bojana!",
+    "section": "",
+    "text": "We are delighted to welcome Bojana Rankovic as a PhD student! She will be part of our NCCR Catalysis team.\n\nBojana got her undergraduate degree in computer science at the University of Belgrade and her master’s in computer science at EPFL. She completed an internship at IBM research and completed her master’s thesis at ETH Zürich. Welcome!"
+  },
+  {
+    "objectID": "posts/230317_stephane/index.html",
+    "href": "posts/230317_stephane/index.html",
+    "title": "Welcome Stéphane!",
+    "section": "",
+    "text": "Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).\n\n\n\nStéphane"
+  },
+  {
+    "objectID": "posts/230220_masters_students/index.html",
+    "href": "posts/230220_masters_students/index.html",
+    "title": "Welcome Artur, Malte, and Lucien as new project and master’s students!",
+    "section": "",
+    "text": "Artur, Malte, and Lucien join LIAC as project and master’s students! We are looking forward to doing great science together!\n\n\n\nArtur\n\n\n\n\n\nMalte\n\n\n\n\n\nLucien"
+  },
+  {
+    "objectID": "posts/230605_ximena/index.html",
+    "href": "posts/230605_ximena/index.html",
+    "title": "Welcome Ximena!",
+    "section": "",
+    "text": "Ximena joins LIAC for a summer project!\n\n\n\nXimena"
+  },
+  {
+    "objectID": "people/junuwu_chen.html",
+    "href": "people/junuwu_chen.html",
+    "title": "Junwu Chen",
+    "section": "",
+    "text": "MSc in Chemical Engineering from University of Chinese Academy of Sciences\nBSc in Chemical Engineering and Technology from Wuhan University of Technology\n\n\n\n\n\n — junwu.chen@epfl.ch\n — https://twitter.com/JunwuChen25\n — https://github.com/jwchen25\n — https://scholar.google.com/citations?user=q5Oke7sAAAAJ&hl=en"
+  },
+  {
+    "objectID": "people/junuwu_chen.html#education",
+    "href": "people/junuwu_chen.html#education",
+    "title": "Junwu Chen",
+    "section": "",
+    "text": "MSc in Chemical Engineering from University of Chinese Academy of Sciences\nBSc in Chemical Engineering and Technology from Wuhan University of Technology"
+  },
+  {
+    "objectID": "people/junuwu_chen.html#links",
+    "href": "people/junuwu_chen.html#links",
+    "title": "Junwu Chen",
+    "section": "",
+    "text": "— junwu.chen@epfl.ch\n — https://twitter.com/JunwuChen25\n — https://github.com/jwchen25\n — https://scholar.google.com/citations?user=q5Oke7sAAAAJ&hl=en"
+  },
+  {
+    "objectID": "people/rebecca_neeser.html",
+    "href": "people/rebecca_neeser.html",
+    "title": "Rebecca M. Neeser",
+    "section": "",
+    "text": "With a solid background in Pharmaceutical Sciences and specialized knowledge in medicinal chemistry and drug design, I possess the unique ability to integrate computational approaches in the creation of novel small molecules. The interdisciplinary nature of my work, bridging the realms of chemistry, biology, and computer science, is of special interest to me. This interdisciplinarity is further enabled by a joint supervision arrangement between LIAC and LPDI (Laboratory of Protein Design and Immunoengineering). LIAC brings expertise in AI for chemistry, while LPDI offers deep knowledge in structural biology and computational protein design. This collaboration enables me to leverage diverse perspectives and cutting-edge methodologies to drive my research forward.\nMy main interest lies in the development and application of machine learning tools for drug design. I am driven by the opportunity to address unresolved challenges in drug development and provide support to experimentalists. Through my research, I aim to make a tangible impact by facilitating the discovery and development of innovative therapeutics.\nOutside of work, you can find me in the mountains, where I am skiing, hiking or climbing. Additionally, I enjoy live music and exploring new coffee spots all over the world.\nI am genuinely excited about the prospect of learning new machine learning methods, contributing to the design of novel drugs, and collaborating with exceptional peers.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster thesis in the Coley Group at MIT in collaboration with the Schneider Group at ETH Zurich\nMSc in Pharmaceutical Sciences from ETH Zurich\nBSc in Pharmaceutical Sciences from ETH Zurich\n\n\n\n\n\n — https://mailhide.io/e/i6PiL7mC\n — https://twitter.com/RebeccaNeeser\n — https://github.com/rneeser\n — https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en"
+  },
+  {
+    "objectID": "people/rebecca_neeser.html#education",
+    "href": "people/rebecca_neeser.html#education",
+    "title": "Rebecca M. Neeser",
+    "section": "",
+    "text": "Master thesis in the Coley Group at MIT in collaboration with the Schneider Group at ETH Zurich\nMSc in Pharmaceutical Sciences from ETH Zurich\nBSc in Pharmaceutical Sciences from ETH Zurich"
+  },
+  {
+    "objectID": "people/rebecca_neeser.html#links",
+    "href": "people/rebecca_neeser.html#links",
+    "title": "Rebecca M. Neeser",
+    "section": "",
+    "text": "— https://mailhide.io/e/i6PiL7mC\n — https://twitter.com/RebeccaNeeser\n — https://github.com/rneeser\n — https://scholar.google.com/citations?user=8097znEAAAAJ&hl=en"
   },
   {
     "objectID": "people/philippe_schwaller.html",
@@ -364,94 +385,73 @@
     "text": "— https://mailhide.io/e/NMy7s8rr\n — https://twitter.com/pschwllr\n — https://github.com/pschwllr\n — https://scholar.google.com/citations?user=Tz0I4ywAAAAJ"
   },
   {
+    "objectID": "people/paulo_neves.html",
+    "href": "people/paulo_neves.html",
+    "title": "Paulo Neves",
+    "section": "",
+    "text": "Started in January 2023 (with Janssen Pharmaceuticals)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBSc and MSc in Physics Engineering, NOVA School of Science and Technology\n\n\n\n\n\n — https://mailhide.io/e/u6TBDmoN"
+  },
+  {
+    "objectID": "people/paulo_neves.html#education",
+    "href": "people/paulo_neves.html#education",
+    "title": "Paulo Neves",
+    "section": "",
+    "text": "BSc and MSc in Physics Engineering, NOVA School of Science and Technology"
+  },
+  {
+    "objectID": "people/paulo_neves.html#links",
+    "href": "people/paulo_neves.html#links",
+    "title": "Paulo Neves",
+    "section": "",
+    "text": "— https://mailhide.io/e/u6TBDmoN"
+  },
+  {
+    "objectID": "people/oliver_schilter.html",
+    "href": "people/oliver_schilter.html",
+    "title": "Oliver Schilter",
+    "section": "",
+    "text": "With a background in chemical engineering, I have had the privilege of pursuing my research jointly between EPFL and IBM Research in Zürich. My passion lies in exploring the intersection of artificial intelligence (AI) and chemistry, with a particular focus on catalysis.\nThroughout my academic journey, I have dedicated myself to understanding and harnessing the power of AI to revolutionize the field of chemistry. By leveraging cutting-edge technologies and computational models, I aim to unravel the complexities of catalytic processes and develop innovative solutions to advance sustainable chemistry.\nBeyond the realm of research, I find great joy in engaging in various activities such as Squash, running, and hiking. Additionally, I love exploring the art of cooking, experimenting with flavors and techniques to create delectable dishes that nourish both body and soul.\nI am truly excited to be a part of this scientific group, where we can collaborate, exchange ideas, and push the boundaries of scientific knowledge. Together, we can pave the way for transformative advancements in the world of AI-driven chemistry.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster thesis at Jensen Group at MIT\nMSc in Bio & -Chemical Engineering from ETH Zürich\nBSc in Chemical Engineering from ETH Zürich\n\n\n\n\n\n — https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/oliver_schilter.html#education",
+    "href": "people/oliver_schilter.html#education",
+    "title": "Oliver Schilter",
+    "section": "",
+    "text": "Master thesis at Jensen Group at MIT\nMSc in Bio & -Chemical Engineering from ETH Zürich\nBSc in Chemical Engineering from ETH Zürich"
+  },
+  {
+    "objectID": "people/oliver_schilter.html#links",
+    "href": "people/oliver_schilter.html#links",
+    "title": "Oliver Schilter",
+    "section": "",
+    "text": "— https://mailhide.io/e/PXqg7siy\n — https://twitter.com/OSchilter\n — https://github.com/O-Schilter\n — https://scholar.google.com/citations?user=EiKaR5IAAAAJ&hl=en&oi=ao"
+  },
+  {
+    "objectID": "people/andres_bran.html",
+    "href": "people/andres_bran.html",
+    "title": "Andres CM Bran",
+    "section": "",
+    "text": "Started in August 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin\n\n\n\n\n\n — https://mailhide.io/e/DdqfHD8Z\n — https://twitter.com/drecmb\n — https://github.com/doncamilom\n — https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao"
+  },
+  {
+    "objectID": "people/andres_bran.html#education",
+    "href": "people/andres_bran.html#education",
+    "title": "Andres CM Bran",
+    "section": "",
+    "text": "BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin"
+  },
+  {
+    "objectID": "people/andres_bran.html#links",
+    "href": "people/andres_bran.html#links",
+    "title": "Andres CM Bran",
+    "section": "",
+    "text": "— https://mailhide.io/e/DdqfHD8Z\n — https://twitter.com/drecmb\n — https://github.com/doncamilom\n — https://scholar.google.com/citations?user=49NhNmMAAAAJ&hl=de&oi=ao"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Schwaller Group at EPFL",
     "section": "",
     "text": "The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. The lab is led by Prof. Philippe Schwaller.\n\nIn LIAC, we develop artificial intelligence and machine learning approaches for accelerating the synthesis and discovery of novel molecules and materials. We do fundamental science driven by real-world use cases focusing on sustainability.\nLIAC is derived from the French lab name (laboratoire d’intelligence artificielle en chimie)."
-  },
-  {
-    "objectID": "posts/220801_andres/index.html",
-    "href": "posts/220801_andres/index.html",
-    "title": "Welcome, Andres!",
-    "section": "",
-    "text": "We are delighted to welcome Andres Camilo Marulanda Bran as a PhD student! He is part of our NCCR Catalysis team.\n\nAndres got his undergraduate degree from Universidad de Antioquia (Medellín, Colombia), worked as an i-Scholar fellow in Prof. Andrew White’s group, and just completed an internship at MPI for Mathematics in the Sciences in Leipzig."
-  },
-  {
-    "objectID": "posts/230125_paulo/index.html",
-    "href": "posts/230125_paulo/index.html",
-    "title": "Welcome, Paulo!",
-    "section": "",
-    "text": "We are delighted to welcome Paulo Neves as a PhD student! He will share a joint appointment at LIAC and Janssen Pharmaceuticals.\n\nPaulo got his undergraduate degree and master’s degrees in Physics Engineering at NOVA School of Science and Technology in Portugal and is currently a machine learning scientist at Pharmaceuticals."
-  },
-  {
-    "objectID": "posts/230217_toboganning/index.html",
-    "href": "posts/230217_toboganning/index.html",
-    "title": "Toboganning in Leysin",
-    "section": "",
-    "text": "We recently had our first LIAC winter event!\nThe team enjoyed an amazing lunch in Leysin village, trying out local fondue specialties and rostï, before heading to toboganning.\nIt was great to have the whole team together!\n\n\n\nLunch before toboganning\n\n\n\n\n\nToboganning"
-  },
-  {
-    "objectID": "posts/230127_potluck/index.html",
-    "href": "posts/230127_potluck/index.html",
-    "title": "Potluck",
-    "section": "",
-    "text": "We recently had a lab potluck event!\nEveryone brought food to share and it was a perfect way to end the work week!\n\n\n\nBefore we enjoyed the food and drinks"
-  },
-  {
-    "objectID": "posts/230515_tanya/index.html",
-    "href": "posts/230515_tanya/index.html",
-    "title": "Welcome Tanya!",
-    "section": "",
-    "text": "Tanya joins LIAC for a summer internship!\n\n\n\nTanya"
-  },
-  {
-    "objectID": "posts/220805_junwu/index.html",
-    "href": "posts/220805_junwu/index.html",
-    "title": "Welcome, Junwu!",
-    "section": "",
-    "text": "We have the great pleasure of welcoming Junwu Chen as a new NCCR Catalysis PhD student.\n\nJunwu joins the us from the Chinese Academy of Sciences (CAS) in Beijing. If you want to read some of his previous work, they are available from his Google Scholar profile.\nWe are super excited to have you here!"
-  },
-  {
-    "objectID": "posts/230530_sacha/index.html",
-    "href": "posts/230530_sacha/index.html",
-    "title": "Welcome Sacha!",
-    "section": "",
-    "text": "Sacha joins LIAC for his master’s thesis!\n\n\n\nSacha"
-  },
-  {
-    "objectID": "posts/230308_xu/index.html",
-    "href": "posts/230308_xu/index.html",
-    "title": "Welcome Xu!",
-    "section": "",
-    "text": "Xu joins LIAC to carry out her Bachelor’s thesis! Welcome Xu and we are looking forward to doing great science together!\n\n\n\nXu"
-  },
-  {
-    "objectID": "posts/230317_stephane/index.html",
-    "href": "posts/230317_stephane/index.html",
-    "title": "Welcome Stéphane!",
-    "section": "",
-    "text": "Stéphane joins LIAC as a AI4Science research fellow! Stéphane completed his PhD in deep learning at the Center for Data Science at ENS Paris and Facebook AI Research (FAIR).\n\n\n\nStéphane"
-  },
-  {
-    "objectID": "openings.html",
-    "href": "openings.html",
-    "title": "Openings",
-    "section": "",
-    "text": "Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.\nIn our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning."
-  },
-  {
-    "objectID": "openings.html#master-thesis-and-semester-projects",
-    "href": "openings.html#master-thesis-and-semester-projects",
-    "title": "Openings",
-    "section": "",
-    "text": "Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.\nIn our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning."
-  },
-  {
-    "objectID": "openings.html#phd-and-postdoc-positions",
-    "href": "openings.html#phd-and-postdoc-positions",
-    "title": "Openings",
-    "section": "PhD and Postdoc positions",
-    "text": "PhD and Postdoc positions\nCurrently, there are no open positions, but reach out to Prof. Philippe Schwaller if you think there could be a potential match.\nAdditional information on EPFL employment conditions and salary scale.\n\nPostdoc fellowships\n\nSNSF Swiss Postdoctoral Fellowships"
   }
 ]
