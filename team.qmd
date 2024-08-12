@@ -434,6 +434,37 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 :::
 
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+
+## Sandro Agostini
+
+<img src="images/sandro.jpg" alt="Sandro's profile picture" class="img-fluid img-round"/>
+
+- Started in October 2023 (based at IBM Research)
+- MSc and BSc in Physics, ETH
+
+<div class="center">
+
+</div>
+
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Théo Neukomm
+<img src="images/theo.jpg" alt="Théo's profile picture" class="img-fluid img-round"/>
+
+- Starting September, 2024
+- MSc and BSc in Chemistry, EPFL
+<div class="center">
+</div>
+:::
+:::
+
 :::
 
 ### Project Students
@@ -586,20 +617,6 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Théo Neukomm
-<img src="images/theo.jpg" alt="Théo's profile picture" class="img-fluid img-round"/>
-
-- July - December 2023
-- Project student
-- MSc and BSc in Chemistry, EPFL
-<div class="center">
-</div>
-:::
-:::
-
-
 <!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Peri Yerlikaya
@@ -614,7 +631,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 ::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Rémi Schlama
 <img src="images/remi.jpg" alt="Remi's profile picture" class="img-fluid img-round"/>
@@ -625,7 +642,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 </div>
 :::
-:::
+::: -->
 
 <!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
@@ -656,7 +673,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 :::
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Magdalena Lederbauer
 <img src="images/magdalena.jpg" alt="Magdalena's profile picture" class="img-fluid img-round"/>
@@ -667,10 +684,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 </div>
 :::
-:::
+::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Colleen Lonfat
 <img src="images/colleen.jpg" alt="Colleen's profile picture" class="img-fluid img-round"/>
@@ -681,10 +698,10 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 <div class="center">
 </div>
 :::
-:::
+::: -->
 
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note  appearance="simple" icon=false}
 ## Tugdual Kerjan
 <img src="images/tug.jpg" alt="Tug's profile picture" class="img-fluid img-round"/>
@@ -692,6 +709,92 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - February to June 2024
 - Project student
 - MSc and BSc in Computer Science, EPFL
+<div class="center">
+</div>
+:::
+::: -->
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Octavian Susanu
+<img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/>
+
+- Bachelor Student in Chemistry at EPFL
+- Summer in the Lab program, 2024
+<div class="center">
+</div>
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Ines Bouchama
+<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
+
+- Master Student in Computer Science at EPFL
+<div class="center">
+</div>
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Victoire Lang
+<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
+
+- Bachelor Student in Chemistry at EPFL
+<div class="center">
+</div>
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Shai Pranesh
+<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
+
+- Visiting Master thesis student from BITS Pilani
+- NCCR Catalysis Young Talents Fellow
+<div class="center">
+</div>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Alex Oarga
+<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
+
+- Visiting summer student from University of Barcelona
+- Computer and Data Science
+<div class="center">
+</div>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Aleksei Kudrinskii
+<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
+
+- NeuroX, EPFL
+- Master semester project student
+<div class="center">
+</div>
+:::
+:::
+
+
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note  appearance="simple" icon=false}
+## Guillaume Malherbe
+<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
+
+- Chemistry, EPFL
+- Master semester project student
 <div class="center">
 </div>
 :::
@@ -705,6 +808,12 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the ama
 - Dr. Stéphane d'Ascoli (2023, now at Meta AI)
 
 ## Project students
+
+- Franziska Weißbach (TU Berlin, Master valorisation, Summer 2024, now in Jorner Lab at ETHZ)
+- Magdalena Lederbauer (ETHZ, Master Semester project, Spring 2024)
+- Rémi Schlama (EPFL, Master Semester projects, 2023-2024)
+- Tugdual Kerjan (EPFL CS, Master Semester project, Spring 2024)
+- Colleen Lonfat (EPFL, Master Semester project, Spring 2024)
 - Ziad El Maki (EPFL, Master Semester project, Fall 2023)
 - Yifan Du (Zhejiang University, Bachelor thesis, Fall 2023)
 - Cheng-Hua (Lance) Huang (EPFL, Master thesis & valorisation, 2023-2024)
