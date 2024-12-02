@@ -10,7 +10,29 @@ In our lab you can learn how to extract/scrape chemical data, handle it using Py
 
 ## PhD and Postdoc positions
 
-Currently, there are no open positions, but reach out to Prof. Philippe Schwaller if you think there could be a potential match. 
+<!-- Currently, there are no open positions, but reach out to Prof. Philippe Schwaller if you think there could be a potential match.  -->
+
+We are hiring for 2025! 
+
+Fill in this form: [https://forms.fillout.com/t/eq5ADAw3kkus](https://forms.fillout.com/t/eq5ADAw3kkus).
+
+### PhD positions
+
+- PhD on agentic research workflows, LLM training, benchmarks in chemistry
+- PhD on agentic research workflows for homogeneous catalysis, collaboration with SwissCat+ West
+
+
+Fill in [this form](https://forms.fillout.com/t/eq5ADAw3kkus) with your interests, CV, and link to Github profile. Moreover, apply to the [EPFL Chemistry doctoral school by Januray 15th](https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/edch-how-to-apply/). We plan to interview selected candidates in January/February 2025. 
+
+
+### Postdoc positions
+
+- Postdoc on agentic research workflows, LLM training, benchmarks in chemistry
+- Postdoc on “Machine learning for methanol synthesis reactions”
+- Postdoc position in Singapore, together with University of Cambridge (Lapkin/Kraft), AI models/workflows for accelerated reaction development using LLMs
+
+Fill in [this form](https://forms.fillout.com/t/eq5ADAw3kkus), including your CV and link to GitHub repository (deadline: December 20th). Interviews will be in January/February 2025. 
+
 
 Additional information on [EPFL employment conditions](https://www.epfl.ch/about/working/working-at-epfl/employment-conditions/) and [salary scale](https://www.epfl.ch/campus/services/human-resources/en/basic-starting-salary-of-doctoral-assistants-and-postdocs/).
 

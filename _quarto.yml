@@ -8,7 +8,7 @@ website:
     left:
       - team.qmd
       - research.qmd
-      - news.qmd
+      # - news.qmd
       - openings.qmd
       - text: Teaching
         menu:
