@@ -2,39 +2,32 @@
 title: "Openings"
 ---
 
-## Master thesis and semester projects
+Are you excited about machine learning applied to chemical sciences? LIAC brings together chemistry, computer science, materials science, and experimental research.
 
-Are you excited about machine learning applied to chemical sciences? If you interested in a Master thesis or semester project, please contact Prof. Philippe Schwaller via email.
+*Last reviewed: August 2026.*
 
-In our lab you can learn how to extract/scrape chemical data, handle it using Python and learn the underlying features using machine learning. 
+## Postdoctoral Position
 
-## PhD and Postdoc positions
+We have one two-year postdoctoral position on advancing strategic synthesis planning with machine learning and large language models. The project builds on our recent work in [strategy-aware chemical reasoning](https://doi.org/10.1016/j.matt.2026.102812) and [tool-augmented chemistry agents](https://doi.org/10.1038/s42256-024-00832-8).
 
-<!-- Currently, there are no open positions, but reach out to Prof. Philippe Schwaller if you think there could be a potential match.  -->
+The 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the [official EPFL salary scale](https://www.epfl.ch/campus/services/human-resources/management-of-swiss-national-science-foundation-snsf-subsidy-supplements/) for details.
 
-We are hiring for 2025! 
+If you are interested, fill in the following form:
 
-Fill in this form: [https://forms.fillout.com/t/eq5ADAw3kkus](https://forms.fillout.com/t/eq5ADAw3kkus).
+[**Apply for the postdoctoral position**](https://forms.fillout.com/t/nnxVE3RcPpus)
 
-### PhD positions
+## PhD Positions
 
-- PhD on agentic research workflows, LLM training, benchmarks in chemistry
-- PhD on agentic research workflows for homogeneous catalysis, collaboration with SwissCat+ West
+There are no immediate PhD openings. New funded positions will be posted here. Information about admission is available from the [EPFL doctoral program in chemistry and chemical engineering](https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/edch-how-to-apply/).
 
+## Master's Theses and Semester Projects
 
-Fill in [this form](https://forms.fillout.com/t/eq5ADAw3kkus) with your interests, CV, and link to Github profile. Moreover, apply to the [EPFL Chemistry doctoral school by Januray 15th](https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/edch-how-to-apply/). We plan to interview selected candidates in January/February 2025. 
+We regularly supervise projects for students interested in applying machine learning to chemical science. Depending on the project, you might work on chemical data, molecular representations, synthesis planning, generative models, scientific language models, or experimental optimization.
 
+Please contact [Prof. Philippe Schwaller](mailto:philippe.schwaller@epfl.ch) with a short description of your interests, your CV and transcript, your availability, and a link to previous technical work if available.
 
-### Postdoc positions
+## Postdoctoral Fellowships
 
-- Postdoc on agentic research workflows, LLM training, benchmarks in chemistry
-- Postdoc on “Machine learning for methanol synthesis reactions”
-- Postdoc position in Singapore, together with University of Cambridge (Lapkin/Kraft), AI models/workflows for accelerated reaction development using LLMs
+We are happy to discuss strong fellowship proposals that fit LIAC's research directions. Relevant programs include the [EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships](https://www.epfl.ch/research/funding/epfl-programmes/ai-center/).
 
-Fill in [this form](https://forms.fillout.com/t/eq5ADAw3kkus), including your CV and link to GitHub repository (deadline: December 20th). Interviews will be in January/February 2025. 
-
-
-Additional information on [EPFL employment conditions](https://www.epfl.ch/about/working/working-at-epfl/employment-conditions/) and [salary scale](https://www.epfl.ch/campus/services/human-resources/en/basic-starting-salary-of-doctoral-assistants-and-postdocs/).
-
-### Postdoc fellowships
-- [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships)
+We strongly encourage applications from people with different backgrounds, identities, disciplines, and career paths. Every new colleague brings a different perspective, and we see that diversity as part of doing better science.

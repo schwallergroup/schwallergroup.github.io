@@ -1,830 +1,510 @@
 ---
 title: "Team"
 ---
+
 <style>
-  .quarto-title {
-    display: none;
-  }
-  a:link{
-    text-decoration:none;
-   -webkit-text-decoration:none;
-  }
-  a:link:hover {
-    color:black;
-  }
+  .quarto-title { display: none; }
+  a:link { text-decoration: none; -webkit-text-decoration: none; }
+  a:link:hover { color: black; }
 </style>
 
 # Principal Investigator
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
-
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
-<style>
-  .img-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-  }
-</style>
-
-<div class="img-container">
-  ![](images/philippe.jpg){.img-fluid .img-round}
-</div>
-
-:::
-
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-# [Prof. Philippe Schwaller](people/philippe_schwaller.qmd)
-<a href="people/philippe_schwaller.qmd" style="text-decoration: none">
-
-Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022. He leads the Laboratory of Artificial Chemical Intelligence, which works on AI-accelerated discovery and synthesis of molecules. Philippe is also a core PI of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. He belongs to a new generation of scientists with a broad set of skills -- in his case a combination of chemistry, materials science, computer science, and experimental research.
-
-- 5 years at IBM Research -- Zurich (with Dr. Teodoro Laino)
-- PhD (2021) in Chemistry and Molecular Sciences (with Prof. Jean-Louis Reymond), University of Bern
-- MPhil (2019) in Physics, University of Cambridge
-- BSc (2014) and MSc (2016) in Materials Science & Engineering, EPFL
-
-</a>
-
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/NMy7s8rr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) --- [{{< fa brands github size=2xl >}}](https://github.com/pschwllr) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
-</div>
-
-:::
-
-:::
-
-:::
-
-
-## Postdoctoral Associates
-
-<!-- ::: {.callout-note .column-page appearance="simple" icon=false}
 ::: {.grid}
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
 <div class="img-container">
-  ![](images/stephane.jpg){.img-fluid .img-round}
+![](images/philippe.jpg){.img-fluid .img-round}
 </div>
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### [Stéphane d'Ascoli](people/stephane_ascoli.qmd)
-<a href="people/stephane_ascoli.qmd" style="text-decoration: none">
+## [Prof. Philippe Schwaller](people/philippe_schwaller.qmd)
 
+Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence. LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. Philippe is also a core PI of NCCR Catalysis.
 
-- AI4Science research fellow
-- PhD (2021) in deep learning, Ecole Normale Supérieure (ENS) Paris and Facebook AI Research (FAIR)
-- BSc and MSc in theoretical physics
-- Research interests include overparameterized neural networks and their applications to computer vision, symbolic mathematics and the natural sciences
+- Five years at IBM Research Zürich with Dr. Teodoro Laino
+- PhD in Chemistry and Molecular Sciences, University of Bern, 2021
+- MPhil in Physics, University of Cambridge, 2019
+- BSc and MSc in Materials Science and Engineering, EPFL
 
-</a>
 <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Lr7SORC9) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/stephanedascoli) --- [{{< fa brands github size=2xl >}}](https://github.com/sdascoli) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=2GcqQgYAAAAJ&hl=en)
-</div>
-
-:::
-:::
-::: -->
-
-
-::: {.callout-note .column-page appearance="simple" icon=false}
-::: {.grid}
-::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
-<div class="img-container">
-  ![](images/geemi.jpg){.img-fluid .img-round}
+[{{< fa envelope size=2xl >}}](mailto:philippe.schwaller@epfl.ch) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) --- [{{< fa brands github size=2xl >}}](https://github.com/pschwllr) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
 </div>
 :::
-
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### [Dr. Geemi Wellawatte](people/geemi_wellawatte.qmd)
-<a href="people/geemi_wellawatte.qmd" style="text-decoration: none">
-
-- SusEcoCCUS postdoc
-- PhD at the university of Rochester NY (White Lab)
-- BSc Computational Chemistry at University of Colombo Sri Lanka
-- AI-based computational tools to solve chemistry problems
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/P0rmPJBB) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/GWellawatte) --- [{{< fa brands github size=2xl >}}](https://github.com/geemi725) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=naYsHucAAAAJ&hl=en&oi=ao) 
-</div>
-
-:::
 :::
 :::
 
-::: {.callout-note .column-page appearance="simple" icon=false}
-::: {.grid}
-::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
-<div class="img-container">
-  ![](images/zlatko.jpg){.img-fluid .img-round}
-</div>
-:::
+## Postdoctoral Researchers
 
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### [Dr. Zlatko Jončev](people/zlatko_joncev.qmd)
-<a href="people/zlatko_joncev.qmd" style="text-decoration: none">
+::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Dr. Matthew Hart
 
-- PhD at the University of Basel (Sparr Group)
-- BSc and MSc in Organic Chemistry (Alfred Werner Fellow)
-- Research interests include ML assisted Strategic Synthesis Planning, Automated Experimentation, and Acceleration of Drug Discovery
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/8DWrEg3A) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SchwallerGroup) --- [{{< fa brands github size=2xl >}}](https://github.com/golden-boy27) 
-</div>
-
-:::
+- Since September 2025
 :::
 :::
 
-::: {.callout-note .column-page appearance="simple" icon=false}
-::: {.grid}
-::: {.g-col-12 .g-col-sm-4 .g-col-md-4}
-<div class="img-container">
-  ![](images/marta.jpg){.img-fluid .img-round}
-</div>
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/jacky.jpg){.img-fluid .img-round}
+
+## Dr. Ka Lok (Jacky) Chan
+
+- Since September 2025
+- Based in Singapore
+- CARES SM3 project
+:::
 :::
 
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-### [Dr. Marta Brucka](people/marta_brucka.qmd)
-<a href="people/marta_brucka.qmd" style="text-decoration: none">
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Dr. Maarten R. Dobbelaere
 
-- PhD in NMR methodology, University of Geneva
-- MSc in Advanced Spectroscopy for Chemistry, University Lille 1 & University of Bologna
-- Transitioning into the intersection of AI and scientific research
+- Since August 2026
+:::
+:::
 
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/KgsVvhFG) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/martabrc) --- [{{< fa brands github size=2xl >}}](https://github.com/martabrucka) 
-</div>
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Dr. Tom Frömbgen
 
+- Since September 2026
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Dr. Gianin Thomann
+
+- Since September 2026
+- With Spiez Laboratory
 :::
 :::
 :::
 
 ## Administrative Assistant
-Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) -- the amazing person who makes sure that all things run smoothly.
 
+Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the amazing person who makes sure that everything runs smoothly.
 
 ## PhD Students
 
 ::: {.grid .column-page}
-
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note  appearance="simple" icon=false}
-
-# [Bojana Ranković](people/bojana_rankovic.qmd)
-<a href="people/bojana_rankovic.qmd" style="text-decoration: none">
-<img src="images/bojana.jpg" alt="Bojana's profile picture" class="img-fluid img-round" />
-
-- Started in March 2022
-- MSc in Computer Science, EPFL
-- BSc in Computer Science, University of Belgrade
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/3CQKYvPe) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/6ojaHa) --- [{{< fa brands github size=2xl >}}](https://github.com/bojana-rankovic)
-</div>
-
-:::
-
-:::
-
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
 ::: {.callout-note appearance="simple" icon=false}
+![](images/junwu.jpg){.img-fluid .img-round}
 
-# [Oliver Schilter](people/oliver_schilter.qmd)
+## Junwu Chen
 
-<a href="people/oliver_schilter.qmd" style="text-decoration: none">
-<img src="images/oliver.jpg" alt="Oliver's profile picture" class="img-fluid img-round" />
-
-- Started in April 2022 (based at IBM Research)
-- MSc and BSc in Chemistry and Chemical Engineering, ETHZ
-
-</a>
-
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/PXqg7siy) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/OSchilter) --- [{{< fa brands github size=2xl >}}](https://github.com/O-Schilter)
-</div>
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note appearance="simple" icon=false}
-
-# [Andres CM Bran](people/andres_bran.qmd)
-<a href="people/andres_bran.qmd" style="text-decoration: none">
-<img src="images/andres.jpg" alt="Andres' profile picture" class="img-fluid img-round" />
-
-- Started in August 2022
-- BSc in Chemistry and Chemical Engineering from Universidad de Antioquia, Medellin
-
-</a>
-
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/DdqfHD8Z) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/drecmb) --- [{{< fa brands github size=2xl >}}](https://github.com/doncamilom)
-</div>
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note appearance="simple" icon=false}
-
-## [Junwu Chen](people/junuwu_chen.qmd)
-<a href="people/junuwu_chen.qmd" style="text-decoration: none">
-
-<img src="images/junwu.jpg" alt="Junwu's profile picture" class="img-fluid img-round" />
-
-- Started in August 2022
-- MSc in Chemical Engineering from University of Chinese Academy of Sciences, Beijing
-
-</a>
-
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Asvfx7kH) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JunwuChen25) --- [{{< fa brands github size=2xl >}}](https://github.com/jwchen25)
-</div>
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note appearance="simple" icon=false}
-
-## [Jeff Guo](people/jeff_guo.qmd)
-<a href="people/jeff_guo.qmd" style="text-decoration: none">
-
-<img src="images/jeff.jpg" alt="Jeff's profile picture" class="img-fluid img-round" />
-
-- Started in September 2022
-- AstraZeneca Grad Program
-- MRes, Imperial College London and BSc, McGill University
-
-</a>
-
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/48LY5AGP) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/JeffGuo__) --- [{{< fa brands github size=2xl >}}](https://github.com/GuoJeff)
-</div>
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-
-::: {.callout-note appearance="simple" icon=false}
-
-## [Víctor Sabanza Gil](people/victor_sabanza.qmd)
-<a href="people/victor_sabanza.qmd" style="text-decoration: none">
-
-<img src="images/victor.jpg" alt="Victor's profile picture" class="img-fluid img-round" />
-
-- Started in October 2022
-- Joint with LPDC
-- MSc in Complex Systems Chemistry, Université de Strasbourg (France)
-- BSc in Chemistry, Universidad de La Rioja (Spain)
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/xarXmL0P) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/VictorSabanza) --- [{{< fa brands github size=2xl >}}](https://github.com/victorsabanza)
-</div>
-
-
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-
-::: {.callout-note appearance="simple" icon=false}
-
-## [Paulo Neves](people/paulo_neves.qmd)
-<a href="people/paulo_neves.qmd" style="text-decoration: none">
-
-<img src="images/paulo-square.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
-
-- Started in January 2023 (with Janssen Pharmaceuticals)
-- BSc and MSc in Physics Engineering, NOVA School of Science and Technology
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/u6TBDmoN) --- [{{< fa brands twitter size=2xl >}}]() --- [{{< fa brands github size=2xl >}}]()
-</div>
-
+- Since August 2022
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/victor.jpg){.img-fluid .img-round}
 
-## [Rebecca Neeser](people/rebecca_neeser.qmd)
-<a href="people/rebecca_neeser.qmd" style="text-decoration: none">
+## Víctor Sabanza Gil
 
-<img src="images/rebecca.jpg" alt="Paulo's profile picture" class="img-fluid img-round" />
-
-- Started in April 2023
-- Joint with LPDI
-- BSc and Msc in Pharmaceutical Sciences from ETH Zurich and master thesis at MIT
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/i6PiL7mC) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/RebeccaNeeser) --- [{{< fa brands github size=2xl >}}](https://github.com/rneeser)
-</div>
-
-:::
-:::
-
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
-
-## [Sarina Kopf](people/sarina_kopf.qmd)
-<a href="people/sarina_kopf.qmd" style="text-decoration: none">
-
-<img src="images/sarina.jpg" alt="Sarina's profile picture" class="img-fluid img-round" />
-
-- Started in August 2023
-- Joint with Prof. Nevado (UZH)
-- Fulbright Scholar (EPFL)
-- BSc in Biological Chemistry from Grinnell College (US)
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/EOQR1Bwr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/SarinaKopf) --- [{{< fa brands github size=2xl >}}](https://github.com/SchwallerGroup)
-</div>
-
+- Since October 2022
+- Co-supervised by Prof. Jeremy Luterbacher
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-## Daniel Armstrong
-<!-- ## [Joshua Sin](people/sarina_kopf.qmd)
-<a href="people/sarina_kopf.qmd" style="text-decoration: none">
--->
-<img src="images/daniel.jpg" alt="Daniel's profile picture" class="img-fluid img-round" /> 
+![](images/paulo-square.jpg){.img-fluid .img-round}
 
-- Started in September 2023
-- MSc Information Technology, Glasgow
-- MChem from University of St. Andrews
-- Amazon Alexa Prize 2nd Place
+## Paulo Neves
 
-<!-- </a> -->
-<!-- <div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/EOQR1Bwr) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/d_armstr
-) --- [{{< fa brands github size=2xl >}}](https://github.com/SchwallerGroup)
-</div> -->
-
+- Since January 2023
+- External PhD with Janssen Pharmaceuticals
 :::
 :::
-
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-## Joshua Sin
-<!-- ## [Joshua Sin](people/sarina_kopf.qmd)
-<a href="people/sarina_kopf.qmd" style="text-decoration: none"> -->
+![](images/rebecca.jpg){.img-fluid .img-round}
 
-<img src="images/joshua.jpg" alt="Joshua's profile picture" class="img-fluid img-round" /> 
+## Rebecca M. Neeser
 
-- Started in October 2023 (with Roche)
-- MChem from University of Oxford
-
-</a>
-<div class="center">
-[{{< fa envelope size=2xl >}}](https://mailhide.io/e/Pe6jb5Jt) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/jwpsin) --- [{{< fa brands github size=2xl >}}](https://github.com/jwpsin)
-</div>
+- Since April 2023
+- Co-supervised by Prof. Bruno Correia
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
+::: {.callout-note appearance="simple" icon=false}
+![](images/sarina.jpg){.img-fluid .img-round}
 
-## Sacha Raffaud
+## Sarina N. Kopf
 
-<img src="images/sacha.jpg" alt="Sacha's profile picture" class="img-fluid img-round"/>
-
-- May 2023 - August 2023
-- Master's thesis
-- BSc Natural Sciences at UCL
-- MSc in Applied Computational Science and Engineering at Imperial College London
-
-<div class="center">
-
-</div>
-
+- Since August 2023
+- Co-supervised by Prof. Cristina Nevado
 :::
 :::
-
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
+::: {.callout-note appearance="simple" icon=false}
+![](images/daniel.jpg){.img-fluid .img-round}
+
+## Daniel P. Armstrong
+
+- Since September 2023
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/joshua.jpg){.img-fluid .img-round}
+
+## Wing Pong (Joshua) Sin
+
+- Since October 2023
+- External PhD with Roche
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/sandro.jpg){.img-fluid .img-round}
 
 ## Sandro Agostini
 
-<img src="images/sandro.jpg" alt="Sandro's profile picture" class="img-fluid img-round"/>
-
-- Started in October 2023 (based at IBM Research)
-- MSc and BSc in Physics, ETH
-
-<div class="center">
-
-</div>
-
+- Since March 2024
+- External PhD with IBM Research
 :::
 :::
-
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Théo Neukomm
-<img src="images/theo.jpg" alt="Théo's profile picture" class="img-fluid img-round"/>
+::: {.callout-note appearance="simple" icon=false}
+![](images/theo.jpg){.img-fluid .img-round}
 
-- Starting September, 2024
-- MSc and BSc in Chemistry, EPFL
-<div class="center">
-</div>
+## Théo A. Neukomm
+
+- Since September 2024
 :::
 :::
 
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/salome.jpg){.img-fluid .img-round}
+
+## Salomé M. A. Guilbert
+
+- Since October 2024
+- Co-supervised by Prof. Ursula Röthlisberger
+:::
 :::
 
-### Project Students
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/amin.jpg){.img-fluid .img-round}
 
+## Amin Mansouri
+
+- Since April 2025
+- Co-supervised by Prof. Caglar Gulcehre
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/bohdan.jpg){.img-fluid .img-round}
+
+## Bohdan Naida
+
+- Since September 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/cassandra.jpg){.img-fluid .img-round}
+
+## Cassandra Masschelein
+
+- Since September 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/vu.jpg){.img-fluid .img-round}
+
+## Vu Nguyen
+
+- Since October 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/remi.jpg){.img-fluid .img-round}
+
+## Rémi Schlama
+
+- Since October 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## David Ming Segura
+
+- Since February 2026
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/kelmanson.jpg){.img-fluid .img-round}
+
+## Anna Kelmanson
+
+- Since February 2026
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Saumya Thakur
+
+- Since February 2026
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Thibaud Southiratn
+
+- Since March 2026
+- External PhD with AstraZeneca
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Susanna Di Vita
+
+- Since June 2026
+- External PhD with SecureCell
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Gabriel Gibberd
+
+- Since June 2026
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Anabel Yong
+
+- Since August 2026
+:::
+:::
+:::
+
+## Research Engineers
 
 ::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/jeremy.jpeg){.img-fluid .img-round}
 
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+## Jeremy Goumaz
 
-::: {.callout-note  appearance="simple" icon=false}
-
-## Artur Stefaniuk
-
-<img src="images/artur-square.jpg" alt="Artur's profile picture" class="img-fluid img-round" />
-
-- February - June 2023
-- Master's thesis
-- MSc and BSc in Molecular & Biological Chemistry, EPFL
-
-<div class="center">
-
-[{{< fa brands github size=2xl >}}](https://github.com/stefaniukartur)
-</div>
-
+- Shared with Prof. Maria Brbić
+- BSc and MSc from EPFL
+:::
+:::
 :::
 
-::: -->
+## Interns
 
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note  appearance="simple" icon=false}
-
-## Malte Franke
-
-<img src="images/malte-square.jpg" alt="Malte's profile picture" class="img-fluid img-round" />
-
-- February - June 2023
-- Project student
-- BSc in Mechanical Engineering, RWTH Aachen
-- MSc in Chemical Engineering, RWTH Aachen
-
-<div class="center">
-
-[{{< fa brands github size=2xl >}}](https://github.com/maltefranke)
-</div>
-
+::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Aurélie Bechinger
 :::
-
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-
-::: {.callout-note  appearance="simple" icon=false}
-
-## Lucien Brey
-
-<img src="images/lucien-square.jpg" alt="Lucien's profile picture" class="img-fluid img-round" />
-
-- February - June 2023
-- Project student
-- MSc and BSc in Chemistry, EPFL
-
-<div class="center">
-
-</div>
-
 :::
-
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Xu Huang
-
-<img src="images/xu.jpg" alt="Xu's profile picture" class="img-fluid img-round" />
-
-- March 2023 - July 2023
-- Bachelor's thesis
-- Senior undergraduate at Shanghai Jiao Tong University
-
-<div class="center">
-</div>
-:::
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-
-## Cheng-Hua (Lance) Huang
-
-<img src="images/cheng_hua.jpg" alt="Cheng-Hua's profile picture" class="img-fluid img-round"/>
-
-- April 2023 - August 2023
-- Master's thesis
-- BSc in Material Science & Engineering (MSE) at National Tsing Hua University, Taiwan
-- MSc in MSE at EPFL
-
-<div class="center">
-
-</div>
-
-:::
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Tanya Gupta
-
-<img src="images/tanya.jpg" alt="Tanya's profile picture" class="img-fluid img-round"/>
-
-- May 2023 - July 2023
-- Internship
-- B.Tech in Chemical Engineering at Indian Institute of Technology, Delhi (IIT Delhi)
-<div class="center">
-</div>
-:::
-::: -->
-
-
-
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Ximena Leyva Peralta
-<img src="images/ximena.jpg" alt="Ximena's profile picture" class="img-fluid img-round"/>
-
-- June 2023 - July 2023
-- Summer project
-- BSc in Chemistry at Yale University, class of 2025
-<div class="center">
-</div>
-:::
-::: -->
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Jenestin Anthonipillai
-<img src="images/jenestin.jpg" alt="Jenestin's profile picture" class="img-fluid img-round"/>
-
-- Summer project & Master thesis
-- MSc in Computer Science, University of St. Gallen
-<div class="center">
-</div>
+::: {.callout-note appearance="simple" icon=false}
+## Diane Tambey
 :::
 :::
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Peri Yerlikaya
-<img src="images/peri.jpg" alt="Peri's profile picture" class="img-fluid img-round"/>
-
-- July - September 2023
-- Laidlaw Scholar
-- BSc in Chemistry, EPFL
-<div class="center">
-</div>
-:::
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Rémi Schlama
-<img src="images/remi.jpg" alt="Remi's profile picture" class="img-fluid img-round"/>
-
-- August to December 2023
-- Project student
-- MSc and BSc in Chemistry, EPFL
-<div class="center">
-</div>
-:::
-::: -->
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Yifan Du
-<img src="images/yifan.jpg" alt="Yifan's profile picture" class="img-fluid img-round"/>
-
-- Fall 2023
-- Bachelor Thesis
-- Zhejiang University
-<div class="center">
-</div>
-:::
-::: -->
-
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Anna Borisova
-<img src="images/kelmanson.jpg" alt="Anna's profile picture" class="img-fluid img-round"/>
-
-- February to June 2024
-- Master thesis student
-- EMJMD Theoretical Chemistry and Computational Modelling
-- State University St. Petersburg / University of Helsinki
-<div class="center">
-</div>
+::: {.callout-note appearance="simple" icon=false}
+## Artiom Hrynov
 :::
 :::
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Magdalena Lederbauer
-<img src="images/magdalena.jpg" alt="Magdalena's profile picture" class="img-fluid img-round"/>
-
-- February to June 2024
-- Master semester project
-- MSc and BSc in Chemistry, ETHZ
-<div class="center">
-</div>
-:::
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Colleen Lonfat
-<img src="images/colleen.jpg" alt="Colleen's profile picture" class="img-fluid img-round"/>
-
-- February to June 2024
-- Project student
-- MSc and BSc in Chemistry, EPFL
-<div class="center">
-</div>
-:::
-::: -->
-
-
-<!-- ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Tugdual Kerjan
-<img src="images/tug.jpg" alt="Tug's profile picture" class="img-fluid img-round"/>
-
-- February to June 2024
-- Project student
-- MSc and BSc in Computer Science, EPFL
-<div class="center">
-</div>
-:::
-::: -->
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
+::: {.callout-note appearance="simple" icon=false}
+## Duc Dat Dang
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
 ## Octavian Susanu
-<img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/>
-
-- Bachelor Student in Chemistry at EPFL
-- Summer in the Lab program, 2024
-<div class="center">
-</div>
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Ines Bouchama
-<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
-
-- Master Student in Computer Science at EPFL
-<div class="center">
-</div>
+::: {.callout-note appearance="simple" icon=false}
+## Louis Vasseur
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Victoire Lang
-<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
-
-- Bachelor Student in Chemistry at EPFL
-<div class="center">
-</div>
+::: {.callout-note appearance="simple" icon=false}
+## Gabrielė Strodomskytė
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Shai Pranesh
-<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
-
-- Visiting Master thesis student from BITS Pilani
-- NCCR Catalysis Young Talents Fellow
-<div class="center">
-</div>
+::: {.callout-note appearance="simple" icon=false}
+## Marc Al Hachem
 :::
 :::
-
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Alex Oarga
-<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
-
-- Visiting summer student from University of Barcelona
-- Computer and Data Science
-<div class="center">
-</div>
-:::
-:::
-
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Aleksei Kudrinskii
-<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
-
-- NeuroX, EPFL
-- Master semester project student
-<div class="center">
-</div>
-:::
-:::
-
-
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note  appearance="simple" icon=false}
-## Guillaume Malherbe
-<!-- <img src="images/octavian.jpg" alt="Octavian's profile picture" class="img-fluid img-round"/> -->
-
-- Chemistry, EPFL
-- Master semester project student
-<div class="center">
-</div>
-:::
-:::
-
 :::
 
 # Alumni
 
+## PhD Students
+
+- **Dr. Bojana Ranković**, March 2022–August 2026 — ETH AI Center Postdoctoral Fellow. Thesis: *Language, Likelihood, and the Laboratory: Aligning Language Models with Bayesian Optimization for Experimental Discovery*
+- **Dr. Oliver Schilter**, external PhD with IBM Research, April 2022–June 2025 — Senior AI Engineer at Sphere Energy. Thesis: *Integrating AI across the Discovery Cycle — Advancing Sustainable Chemistry through Digital Methods*
+- **Dr. Andres M. Bran**, August 2022–June 2026 — Cofounder and CTO of b-12 labs (Y Combinator). Thesis: *Chemistry in Context: Applications of Large Language Models to Synthetic Organic Chemistry and Catalysis*
+- **Dr. Jeff Guo**, September 2022–December 2025 — Research Scientist at Isomorphic Labs. Thesis: *Language-based Sample-efficient and Synthesizable Molecular Generative Design*
+
 ## Postdocs & Fellows
-- Dr. Stéphane d'Ascoli (2023, now at Meta AI)
 
-## Project students
+- **Dr. Stéphane d'Ascoli**, March–October 2023 — Research Scientist at Meta
+- **Dr. Geemi Wellawatte**, August 2023–August 2024 — now at Lila Sciences; previously Academic Coordinator at FutureHouse
+- **Dr. Zlatko Jončev**, September 2023–August 2025 — Cofounder and CEO of b-12 labs (Y Combinator)
+- **Dr. Marta Brucka**, April–September 2024 — Application Scientist at Enantios
+- **Dr. Edvin Fako**, February 2025–January 2026 — Elemynt
+- **Dr. Julian Götz**, February 2025–March 2026 — OnePot
+- **Dr. Sergey Pozdnyakov**, February–December 2025 — Postdoc at Microsoft
+- **Dr. Jan Rittig**, June 2025–May 2026 — Cofounder of aChEntic
 
-- Franziska Weißbach (TU Berlin, Master valorisation, Summer 2024, now in Jorner Lab at ETHZ)
-- Magdalena Lederbauer (ETHZ, Master Semester project, Spring 2024)
-- Rémi Schlama (EPFL, Master Semester projects, 2023-2024)
-- Tugdual Kerjan (EPFL CS, Master Semester project, Spring 2024)
-- Colleen Lonfat (EPFL, Master Semester project, Spring 2024)
-- Ziad El Maki (EPFL, Master Semester project, Fall 2023)
-- Yifan Du (Zhejiang University, Bachelor thesis, Fall 2023)
-- Cheng-Hua (Lance) Huang (EPFL, Master thesis & valorisation, 2023-2024)
-- Peri Yerlikaya (EPFL, Laidlaw Scholar, Summer 2023)
-- Xu Huang (Shanghai Jiao Tong University, Bachelor thesis, Spring 2023)
-- Ximena Leyva Peralta (Yale University, Summer 2023)
-- Tanya Gupta (IIT Dehli, Summer 2023)
-- Lucien Brey (EPFL, Master semester project, Spring 2023)
-- Malte Franke (Aachen/EPFL exchange, Master semester project, Spring 2023)
-- Artur Stefaniuk (EPFL, Master thesis, Spring 2023)
-- Anna Kapeliukha (Taras Shevchenko National University of Kyiv, Ukraine, Spring 2023)
-<!-- - Théo Neukomm (EPFL, Master semester project, Fall 2022) -->
+## Visiting Doctoral Students
 
+- Matthew Hart — University of North Carolina at Chapel Hill
+- Juliette Fenogli — ENS–PSL
+- Rostislav Fedorov — Heidelberg Institute for Theoretical Studies (HITS)
+- Matt Ball — University of Strasbourg
+- Eric Alcaide — Università della Svizzera italiana (USI)
+- Oliver Loveday — Institute of Chemical Research of Catalonia (ICIQ)
+- Nicholas Runcie — University of Oxford
+- Ryo Kuroki — Asahi Kasei
 
+## Visiting Postdoctoral Researchers
+
+- Dr. Maarten R. Dobbelaere — Ghent University, before joining LIAC as a postdoc
+- Dr. Adem R. N. Aouichaoui — Technical University of Denmark (DTU)
+
+## Master's Theses
+
+### 2022/23 (2 theses)
+
+- Cheng-Hua Huang — EPFL
+- Artur Andrzej Stefaniuk — EPFL
+
+### 2023/24 (3 theses)
+
+- Lucien Michel Gérard Brey — MIT
+- Amin Abdelrafour Debabeche — MIT
+- Théo Alain Neukomm — Carnegie Mellon University
+
+### 2024/25 (4 theses)
+
+- Cesar Antonio Doñez Miranda — Empa
+- Rémi Michel Maxime Schlama — ETH Zurich
+- David Ming Segura — EPFL
+- Yunjie Xu — ETH Zurich
+
+### 2025/26 (4 theses)
+
+- Tim Arni — Mila
+- Miquel Angel Perez Puigdomenech — EPFL
+- Luca Rota — ETH Zurich
+- Milena Charlotte Wiegand — Technical University of Munich
+
+Master's theses listing an external institution were carried out under Prof. Schwaller's supervision at EPFL, with the degree awarded by the student's home institution.
+
+## Master Semester Projects (EPFL)
+
+### 2022/23 (3 projects)
+
+- Lucien Michel Gérard Brey
+- Malte Franke
+- Théo Alain Neukomm
+
+### 2023/24 (7 projects)
+
+- Jenestin Anton Anthonipillai
+- Ziad El Malki
+- Tugdual Marc-Emmanuel Pierre Marie Kerjan
+- Colleen Rachèle Lonfat
+- Théo Alain Neukomm
+- Rémi Michel Maxime Schlama — two projects
+
+### 2024/25 (7 projects)
+
+- Arne Beckmann — two projects
+- Ziad El Malki
+- Aleksei Kudrinskii
+- Guillaume Romain Galaad Malherbe
+- Marko Simic
+- Ines Bouchama
+
+### 2025/26 (10 projects)
+
+- Sathvik Bhagavan
+- Malo Gfeller
+- Zeineb Mellouli
+- Cédric Nathanaël Rossboth
+- Octavian Susanu
+- Matéo Tatzber — two projects
+- Anthony David Verhoeven
+- Nicholas Jeffrey Weiss
+- Zongmin Zhang
+
+## Visiting Project Students
+
+### 2022–26 (20 projects)
+
+- Xu Huang — Shanghai Jiao Tong University; now PhD student at UC Berkeley
+- Tanya Gupta — IIT Delhi; now Associate at Strategy&
+- Anna Kelmanson — TCCM; now PhD student at EPFL
+- Anna Kapeliukha — Taras Shevchenko National University of Kyiv; now Head of AI & Cheminformatics at Chemspace
+- Franziska Weissbach — Technical University of Berlin; now PhD student at ETH Zürich
+- Melih Gökay Yiğit — Middle East Technical University
+- Shaipranesh Sentilkumar — BITS Pilani; now PhD student at Mila
+- Huixuan Guo — Nanyang Technological University; now PhD student at MIT
+- Yedong Xie — University of Science and Technology of China
+- Ximena Leyva Peralta — Yale University
+- Yifan Du — Zhejiang University; now PhD student at UCLA
+- Magdalena Lederbauer — ETH Zürich; now PhD student at MIT
+- Sacha Raffaud — Imperial College London
+- Manuel Ott — ETH Zürich
+- Orkhan Abdullayev — University of Strasbourg
+- Duc Dat Dang — VinUniversity
+- Diogo Torres — NOVA University Lisbon
+- Alexandre Lohest — University of Strasbourg
+- Jonathan Tubb — Stanford University
+- Alex Oarga — University of Barcelona
+
+## Other Former Interns
+
+- Nichelle Sequeira, Victoire Lang, and Peri Yerlikaya.

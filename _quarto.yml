@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - team.qmd
+    - research.qmd
+    - openings.qmd
+    - people/philippe_schwaller.qmd
 
 website:
   title: "LIAC"
@@ -8,7 +14,6 @@ website:
     left:
       - team.qmd
       - research.qmd
-      # - news.qmd
       - openings.qmd
       - text: Teaching
         menu:
