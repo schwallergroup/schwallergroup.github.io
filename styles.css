@@ -24,7 +24,6 @@ body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
-
 a:link {
   color: black;
 }
@@ -37,7 +36,6 @@ a:visited {
   color: black;
 }
 
-
 .title {
   font-style: bold;
   font-stretch: 100%;
@@ -46,8 +44,6 @@ a:visited {
   padding: 4px 8px;
   border-radius: 6px;
 }
-
-
 
 .img-round:hover {
   opacity: 0.6;
@@ -64,11 +60,9 @@ a:visited {
   transition: opacity 0.1s ease-in-out;
 }
 
-
 .center {
   text-align: center;
 }
-
 
 .navbar {
   background: var(--navbar2);
@@ -84,8 +78,6 @@ a:visited {
   background: var(--banner);
 }
 
-
-
 .navbar-title {
   position: relative;
   font-family: 'IBM Plex Sans', sans-serif;
@@ -99,7 +91,6 @@ a:visited {
   transition: border-color 0.1s, color 0.1s;
   background-color: white;
 }
-
 
 .navbar-title::before {
   content: "";
@@ -116,19 +107,14 @@ a:visited {
   width: 100%;
 }
 
-
-
-
 .menu-text {
   color: black;
   font-style: bold;
 }
 
-
 .nav-item {
   position: relative;
 }
-
 
 .nav-item::before {
   content: "";
@@ -144,8 +130,6 @@ a:visited {
 .nav-item:hover::before {
   width: 100%;
 }
-
-
 
 .dropdown-text {
   color: black
@@ -176,7 +160,6 @@ a:visited {
   width: 100%;
   transform: scaleX(1);
   background-color: red;
-  /* Replace with your desired line color */
 }
 
 .dropdown-menu {
@@ -187,15 +170,12 @@ a:visited {
   background-color: var(--dropdown-bg-color);
   min-width: 0px;
   box-shadow: 4px 4px 8px 0px rgba(244, 136, 136, 0.554);
-  /* Updated box-shadow */
   color: black;
   z-index: 1;
   opacity: 1;
   transform: translateY(4px);
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
-
-
 
 .callout-title-container {
   position: relative;
