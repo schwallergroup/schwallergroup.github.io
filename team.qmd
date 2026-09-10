@@ -310,6 +310,19 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 :::
 :::
 
+## Visiting PhD Students
+
+::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Luca Ruvo
+
+- Since September 2026
+- Vall d'Hebron Institute of Oncology (VHIO)
+:::
+:::
+:::
+
 ## Research Engineers
 
 ::: {.grid .column-page}
