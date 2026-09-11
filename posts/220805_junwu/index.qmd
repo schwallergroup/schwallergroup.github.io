@@ -5,7 +5,7 @@ date: "2022-08-05"
 categories: [news]
 image: "image.jpg"
 ---
-We have the great pleasure of welcoming [Junwu Chen](https://twitter.com/JunwuChen25) as a new NCCR Catalysis PhD student. 
+We have the great pleasure of welcoming [Junwu Chen](https://twitter.com/JunwuChen25) as a new NCCR Catalysis PhD student.
 
 ![](image.jpg)
 

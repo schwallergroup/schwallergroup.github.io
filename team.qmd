@@ -21,7 +21,9 @@ title: "Team"
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
 ## [Prof. Philippe Schwaller](people/philippe_schwaller.qmd)
 
-Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence. LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. Philippe is also a core PI of NCCR Catalysis.
+Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence.
+LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization.
+Philippe is also a core PI of NCCR Catalysis.
 
 - Five years at IBM Research Zürich with Dr. Teodoro Laino
 - PhD in Chemistry and Molecular Sciences, University of Bern, 2021
@@ -29,13 +31,16 @@ Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Arti
 - BSc and MSc in Materials Science and Engineering, EPFL
 
 <div class="center">
-[{{< fa envelope size=2xl >}}](mailto:philippe.schwaller@epfl.ch) --- [{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) --- [{{< fa brands github size=2xl >}}](https://github.com/pschwllr) --- [{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
+[{{< fa envelope size=2xl >}}](mailto:philippe.schwaller@epfl.ch) ---
+[{{< fa brands twitter size=2xl >}}](https://twitter.com/pschwllr) ---
+[{{< fa brands github size=2xl >}}](https://github.com/pschwllr) ---
+[{{< fa graduation-cap size=2xl >}}](https://scholar.google.com/citations?user=Tz0I4ywAAAAJ)
 </div>
 :::
 :::
 :::
 
-## Postdoctoral Researchers
+# Postdoctoral Researchers
 
 ::: {.grid .column-page}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -68,6 +73,8 @@ Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Arti
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/tom.jpg){.img-fluid .img-round}
+
 ## Dr. Tom Frömbgen
 
 - Since September 2026
@@ -84,11 +91,19 @@ Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Arti
 :::
 :::
 
-## Administrative Assistant
+# Administrative Assistant
 
-Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the amazing person who makes sure that everything runs smoothly.
+::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Annick Delmonaco
 
-## PhD Students
+The amazing person who makes sure that everything runs smoothly -- [{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)
+:::
+:::
+:::
+
+# PhD Students
 
 ::: {.grid .column-page}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -310,9 +325,18 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 :::
 :::
 
-## Visiting PhD Students
+# Visiting PhD Students
 
 ::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Taddäus Strunden
+
+- Since July 2026
+- ETH Zürich
+:::
+:::
+
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
 ## Luca Ruvo
@@ -323,7 +347,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 :::
 :::
 
-## Research Engineers
+# Research Engineers
 
 ::: {.grid .column-page}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -333,12 +357,13 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 ## Jeremy Goumaz
 
 - Shared with Prof. Maria Brbić
-- BSc and MSc from EPFL
+<!-- TODO: confirm with Jeremy whether to re-add "BSc and MSc from EPFL" -->
+<!-- - BSc and MSc from EPFL -->
 :::
 :::
 :::
 
-## Interns
+# Interns
 
 ::: {.grid .column-page}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -399,7 +424,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 - **Dr. Andres M. Bran**, August 2022–June 2026 — Cofounder and CTO of b-12 labs (Y Combinator). Thesis: *Chemistry in Context: Applications of Large Language Models to Synthetic Organic Chemistry and Catalysis*
 - **Dr. Jeff Guo**, September 2022–December 2025 — Research Scientist at Isomorphic Labs. Thesis: *Language-based Sample-efficient and Synthesizable Molecular Generative Design*
 
-## Postdocs & Fellows
+## Postdoctoral Researchers & Fellows
 
 - **Dr. Stéphane d'Ascoli**, March–October 2023 — Research Scientist at Meta
 - **Dr. Geemi Wellawatte**, August 2023–August 2024 — now at Lila Sciences; previously Academic Coordinator at FutureHouse
@@ -428,23 +453,7 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 
 ## Master's Theses
 
-### 2022/23 (2 theses)
-
-- Cheng-Hua Huang — EPFL
-- Artur Andrzej Stefaniuk — EPFL
-
-### 2023/24 (3 theses)
-
-- Lucien Michel Gérard Brey — MIT
-- Amin Abdelrafour Debabeche — MIT
-- Théo Alain Neukomm — Carnegie Mellon University
-
-### 2024/25 (4 theses)
-
-- Cesar Antonio Doñez Miranda — Empa
-- Rémi Michel Maxime Schlama — ETH Zurich
-- David Ming Segura — EPFL
-- Yunjie Xu — ETH Zurich
+Master's theses listing an external institution were carried out under Prof. Schwaller's supervision at EPFL, with the degree awarded by the student's home institution.
 
 ### 2025/26 (4 theses)
 
@@ -453,33 +462,25 @@ Annick Gaudin ([{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)) — the am
 - Luca Rota — ETH Zurich
 - Milena Charlotte Wiegand — Technical University of Munich
 
-Master's theses listing an external institution were carried out under Prof. Schwaller's supervision at EPFL, with the degree awarded by the student's home institution.
+### 2024/25 (4 theses)
+
+- Cesar Antonio Doñez Miranda — Empa
+- Rémi Michel Maxime Schlama — ETH Zurich
+- David Ming Segura — EPFL
+- Yunjie Xu — ETH Zurich
+
+### 2023/24 (3 theses)
+
+- Lucien Michel Gérard Brey — MIT
+- Amin Abdelrafour Debabeche — MIT
+- Théo Alain Neukomm — Carnegie Mellon University
+
+### 2022/23 (2 theses)
+
+- Cheng-Hua Huang — EPFL
+- Artur Andrzej Stefaniuk — EPFL
 
 ## Master Semester Projects (EPFL)
-
-### 2022/23 (3 projects)
-
-- Lucien Michel Gérard Brey
-- Malte Franke
-- Théo Alain Neukomm
-
-### 2023/24 (7 projects)
-
-- Jenestin Anton Anthonipillai
-- Ziad El Malki
-- Tugdual Marc-Emmanuel Pierre Marie Kerjan
-- Colleen Rachèle Lonfat
-- Théo Alain Neukomm
-- Rémi Michel Maxime Schlama — two projects
-
-### 2024/25 (7 projects)
-
-- Arne Beckmann — two projects
-- Ziad El Malki
-- Aleksei Kudrinskii
-- Guillaume Romain Galaad Malherbe
-- Marko Simic
-- Ines Bouchama
 
 ### 2025/26 (10 projects)
 
@@ -492,6 +493,30 @@ Master's theses listing an external institution were carried out under Prof. Sch
 - Anthony David Verhoeven
 - Nicholas Jeffrey Weiss
 - Zongmin Zhang
+
+### 2024/25 (7 projects)
+
+- Arne Beckmann — two projects
+- Ziad El Malki
+- Aleksei Kudrinskii
+- Guillaume Romain Galaad Malherbe
+- Marko Simic
+- Ines Bouchama
+
+### 2023/24 (7 projects)
+
+- Jenestin Anton Anthonipillai
+- Ziad El Malki
+- Tugdual Marc-Emmanuel Pierre Marie Kerjan
+- Colleen Rachèle Lonfat
+- Théo Alain Neukomm
+- Rémi Michel Maxime Schlama — two projects
+
+### 2022/23 (3 projects)
+
+- Lucien Michel Gérard Brey
+- Malte Franke
+- Théo Alain Neukomm
 
 ## Visiting Project Students
 

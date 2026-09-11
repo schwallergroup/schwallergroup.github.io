@@ -13,7 +13,7 @@ title: "Sarina Kopf"
   }
 </style>
 
- 
+
 
 <script>
 // JavaScript code here
@@ -38,14 +38,14 @@ console.log(entries.length)
     var formattedAuthors = authors.map(function(author) {
         return author.trim();
     });
-    
+
     for (var k = 0; k < formattedAuthors.length; k++) {
         if (formattedAuthors[k] === author_name) {
         html += "<b>" + formattedAuthors[k] + "</b>";
         } else {
         html += formattedAuthors[k];
         }
-        
+
         if (i < formattedAuthors.length - 1) {
         html += "; ";
         } else {
@@ -53,7 +53,7 @@ console.log(entries.length)
         }
     }
     }
-    
+
     if (entry.hasOwnProperty("title")) {
       html += entry.title + ". ";
     }
@@ -69,7 +69,7 @@ console.log(entries.length)
     html += "</li></p>";
     console.log(html)
   }
-    
+
   return html;
 }
 

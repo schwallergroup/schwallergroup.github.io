@@ -27,4 +27,3 @@ LIAC is derived from the French laboratory name, *Laboratoire d'intelligence art
 - **α-PSO** uses interpretable swarm intelligence and machine learning for parallel chemical-reaction optimization. [Chem (2026)](https://doi.org/10.1016/j.chempr.2026.103035)
 
 [See more research highlights](research.qmd).
-
