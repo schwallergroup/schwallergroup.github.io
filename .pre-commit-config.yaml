@@ -11,5 +11,5 @@ repos:
         args: [--fix=lf]
       - id: check-merge-conflict
       - id: check-added-large-files
-        args: [--maxkb=5000]
+        args: [--maxkb=15000]
       - id: check-yaml

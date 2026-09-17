@@ -1,13 +1,3 @@
----
-title: "Team"
----
-
-<style>
-  .quarto-title { display: none; }
-  a:link { text-decoration: none; -webkit-text-decoration: none; }
-  a:link:hover { color: black; }
-</style>
-
 # Principal Investigator
 
 ::: {.callout-note .column-page appearance="simple" icon=false}
@@ -23,7 +13,7 @@ title: "Team"
 
 Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence.
 LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization.
-Philippe is also a core PI of NCCR Catalysis.
+Philippe is also a core PI of NCCR Catalysis and NCCR Separations.
 
 - Five years at IBM Research Zürich with Dr. Teodoro Laino
 - PhD in Chemistry and Molecular Sciences, University of Bern, 2021
@@ -40,11 +30,25 @@ Philippe is also a core PI of NCCR Catalysis.
 :::
 :::
 
+# Administrative Assistant
+
+::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Annick Delmonaco
+
+The amazing person who makes sure that everything runs smoothly -- [{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)
+:::
+:::
+:::
+
 # Postdoctoral Researchers
 
 ::: {.grid .column-page}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/MattHart.jpeg){.img-fluid .img-round}
+
 ## Dr. Matthew Hart
 
 - Since September 2025
@@ -58,13 +62,14 @@ Philippe is also a core PI of NCCR Catalysis.
 ## Dr. Ka Lok (Jacky) Chan
 
 - Since September 2025
-- Based in Singapore
-- CARES SM3 project
+- Based in Singapore, CARES SM3 project
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/MaartenDobbelaere.jpeg){.img-fluid .img-round}
+
 ## Dr. Maarten R. Dobbelaere
 
 - Since August 2026
@@ -73,7 +78,7 @@ Philippe is also a core PI of NCCR Catalysis.
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-![](images/tom.jpg){.img-fluid .img-round}
+![](images/TomFroembgen.jpg){.img-fluid .img-round}
 
 ## Dr. Tom Frömbgen
 
@@ -83,22 +88,12 @@ Philippe is also a core PI of NCCR Catalysis.
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/GianinThomann.jpg){.img-fluid .img-round}
+
 ## Dr. Gianin Thomann
 
 - Since September 2026
 - With Spiez Laboratory
-:::
-:::
-:::
-
-# Administrative Assistant
-
-::: {.grid .column-page}
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
-## Annick Delmonaco
-
-The amazing person who makes sure that everything runs smoothly -- [{{< fa envelope >}}](https://mailhide.io/e/3FagEfKd)
 :::
 :::
 :::
@@ -256,7 +251,7 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-![](images/remi.jpg){.img-fluid .img-round}
+![](images/RemiSchlama.jpg){.img-fluid .img-round}
 
 ## Rémi Schlama
 
@@ -266,6 +261,8 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/DavidMingSegura.png){.img-fluid .img-round}
+
 ## David Ming Segura
 
 - Since February 2026
@@ -284,6 +281,8 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/SaumyaThakur.jpg){.img-fluid .img-round}
+
 ## Saumya Thakur
 
 - Since February 2026
@@ -292,6 +291,8 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/ThibaudSouthiratn.jpeg){.img-fluid .img-round}
+
 ## Thibaud Southiratn
 
 - Since March 2026
@@ -310,6 +311,8 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/GabrielGibberd.jpeg){.img-fluid .img-round}
+
 ## Gabriel Gibberd
 
 - Since June 2026
@@ -318,31 +321,11 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
+![](images/AnabelYong.png){.img-fluid .img-round}
+
 ## Anabel Yong
 
 - Since August 2026
-:::
-:::
-:::
-
-# Visiting PhD Students
-
-::: {.grid .column-page}
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
-## Taddäus Strunden
-
-- Since July 2026
-- ETH Zürich
-:::
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
-## Luca Ruvo
-
-- Since September 2026
-- Vall d'Hebron Institute of Oncology (VHIO)
 :::
 :::
 :::
@@ -363,68 +346,103 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 :::
 :::
 
+<!-- Visiting Postdoctoral Researchers section commented out: currently no one in this category -->
+<!-- # Visiting Postdoctoral Researchers -->
+
+# Visiting PhD Students
+
+::: {.grid .column-page}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Taddäus Strunden
+
+- Since July 2026
+- From ETH Zürich
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Luca Ruvo
+
+- Since September 2026
+- From Vall d'Hebron Institute of Oncology (VHIO)
+:::
+:::
+:::
+
 # Interns
 
 ::: {.grid .column-page}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-## Aurélie Bechinger
-:::
-:::
+## Duc Dat Dang
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
-## Diane Tambey
+- Since February 2026
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
 ## Artiom Hrynov
-:::
-:::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
-## Duc Dat Dang
+- Since July 2026
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
 ## Octavian Susanu
+
+- Since July 2026
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
 ## Louis Vasseur
+
+- Since July 2026
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-## Gabrielė Strodomskytė
+## Diane Tambey
+
+- Since August 2026
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
 ## Marc Al Hachem
+
+- Since September 2026
 :::
 :::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Aurélie Bechinger
+
+- Since September 2026
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+## Gabrielė Strodomskytė
+
+- Since September 2026
+:::
+:::
+
 :::
 
 # Alumni
 
-## PhD Students
-
-- **Dr. Bojana Ranković**, March 2022–August 2026 — ETH AI Center Postdoctoral Fellow. Thesis: *Language, Likelihood, and the Laboratory: Aligning Language Models with Bayesian Optimization for Experimental Discovery*
-- **Dr. Oliver Schilter**, external PhD with IBM Research, April 2022–June 2025 — Senior AI Engineer at Sphere Energy. Thesis: *Integrating AI across the Discovery Cycle — Advancing Sustainable Chemistry through Digital Methods*
-- **Dr. Andres M. Bran**, August 2022–June 2026 — Cofounder and CTO of b-12 labs (Y Combinator). Thesis: *Chemistry in Context: Applications of Large Language Models to Synthetic Organic Chemistry and Catalysis*
-- **Dr. Jeff Guo**, September 2022–December 2025 — Research Scientist at Isomorphic Labs. Thesis: *Language-based Sample-efficient and Synthesizable Molecular Generative Design*
-
-## Postdoctoral Researchers & Fellows
+## Postdoctoral Researchers
 
 - **Dr. Stéphane d'Ascoli**, March–October 2023 — Research Scientist at Meta
 - **Dr. Geemi Wellawatte**, August 2023–August 2024 — now at Lila Sciences; previously Academic Coordinator at FutureHouse
@@ -435,7 +453,19 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 - **Dr. Sergey Pozdnyakov**, February–December 2025 — Postdoc at Microsoft
 - **Dr. Jan Rittig**, June 2025–May 2026 — Cofounder of aChEntic
 
-## Visiting Doctoral Students
+## PhD Students
+
+- **Dr. Bojana Ranković**, March 2022–August 2026 — ETH AI Center Postdoctoral Fellow. Thesis: *Language, Likelihood, and the Laboratory: Aligning Language Models with Bayesian Optimization for Experimental Discovery*
+- **Dr. Oliver Schilter**, external PhD with IBM Research, April 2022–June 2025 — Senior AI Engineer at Sphere Energy. Thesis: *Integrating AI across the Discovery Cycle — Advancing Sustainable Chemistry through Digital Methods*
+- **Dr. Andres M. Bran**, August 2022–June 2026 — Cofounder and CTO of b-12 labs (Y Combinator). Thesis: *Chemistry in Context: Applications of Large Language Models to Synthetic Organic Chemistry and Catalysis*
+- **Dr. Jeff Guo**, September 2022–December 2025 — Research Scientist at Isomorphic Labs. Thesis: *Language-based Sample-efficient and Synthesizable Molecular Generative Design*
+
+## Visiting Postdoctoral Researchers
+
+- Dr. Maarten R. Dobbelaere — Ghent University, before joining LIAC as a postdoc
+- Dr. Adem R. N. Aouichaoui — Technical University of Denmark (DTU)
+
+## Visiting PhD Students
 
 - Matthew Hart — University of North Carolina at Chapel Hill
 - Juliette Fenogli — ENS–PSL
@@ -445,11 +475,6 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 - Oliver Loveday — Institute of Chemical Research of Catalonia (ICIQ)
 - Nicholas Runcie — University of Oxford
 - Ryo Kuroki — Asahi Kasei
-
-## Visiting Postdoctoral Researchers
-
-- Dr. Maarten R. Dobbelaere — Ghent University, before joining LIAC as a postdoc
-- Dr. Adem R. N. Aouichaoui — Technical University of Denmark (DTU)
 
 ## Master's Theses
 

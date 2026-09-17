@@ -1,6 +1,4 @@
----
-title: "Research"
----
+# Research
 
 At LIAC, we develop artificial intelligence and machine-learning methods for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. We aim to connect predictive models to the decisions that chemists make and, ultimately, to experiments that generate new knowledge.
 

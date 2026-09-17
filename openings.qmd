@@ -1,24 +1,26 @@
----
-title: "Openings"
----
+# Openings
 
 Are you excited about machine learning applied to chemical sciences? LIAC brings together chemistry, computer science, materials science, and experimental research.
 
-*Last reviewed: August 2026.*
+*Last reviewed: September 2026.*
 
 ## Postdoctoral Position
 
-We have one two-year postdoctoral position on advancing strategic synthesis planning with machine learning and large language models. The project builds on our recent work in [strategy-aware chemical reasoning](https://doi.org/10.1016/j.matt.2026.102812) and [tool-augmented chemistry agents](https://doi.org/10.1038/s42256-024-00832-8).
+<!-- We have one two-year postdoctoral position on advancing strategic synthesis planning with machine learning and large language models. The project builds on our recent work in [strategy-aware chemical reasoning](https://doi.org/10.1016/j.matt.2026.102812) and [tool-augmented chemistry agents](https://doi.org/10.1038/s42256-024-00832-8). -->
+
+There are no immediate Postdoc openings. New funded positions will be posted here.
 
 The 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the [official EPFL salary scale](https://www.epfl.ch/campus/services/human-resources/management-of-swiss-national-science-foundation-snsf-subsidy-supplements/) for details.
 
-If you are interested, fill in the following form:
+<!-- If you are interested, fill in the following form: -->
 
-[**Apply for the postdoctoral position**](https://forms.fillout.com/t/nnxVE3RcPpus)
+<!-- [**Apply for the postdoctoral position**](https://forms.fillout.com/t/nnxVE3RcPpus) -->
 
 ## PhD Positions
 
-There are no immediate PhD openings. New funded positions will be posted here. Information about admission is available from the [EPFL doctoral program in chemistry and chemical engineering](https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/edch-how-to-apply/).
+There are no immediate PhD openings. New funded positions will be posted here.
+
+Information about admission is available from the [EPFL doctoral program in chemistry and chemical engineering](https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/edch-how-to-apply/).
 
 ## Master's Theses and Semester Projects
 
