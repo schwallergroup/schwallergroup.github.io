@@ -32,21 +32,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "At LIAC, we develop artificial intelligence and machine-learning methods for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. We aim to connect predictive models to the decisions that chemists make and, ultimately, to experiments that generate new knowledge.\nOur main research directions include:"
+    "text": "At LIAC, we develop artificial intelligence and machine-learning methods for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. We aim to connect predictive models to the decisions that chemists make and, ultimately, to experiments that generate new knowledge.\nOur main research directions include:\n\nlanguage models, chemical reasoning, and tool-augmented agents;\nreaction prediction, synthesis planning, and reaction-space navigation;\ngenerative molecular design with synthesis constraints;\nadaptive experimentation for reactions, catalysis, and materials.\n\n\n\n\n\n\n\n\n\n\n\nNoteSynthegy: strategy-aware chemical reasoning\n\n\n\nMatter, 2026. Large language models guide chemical search algorithms using strategies written in natural language, enabling steerable retrosynthesis and reaction-mechanism elucidation.\nPaper · Preprint\n\n\n\n\n\n\n\n\n\n\nNoteSample-efficient generative molecular design using memory manipulation\n\n\n\nNature Machine Intelligence, 2026. Saturn combines the Mamba architecture with augmented memory to learn more from each scored molecule and directly optimize high-fidelity objectives.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteTANGO: direct optimization of constrained synthesizability\n\n\n\nNature Computational Science, 2026. TANGO guides generative models toward molecules that use required starting materials or intermediates, making synthesizability part of the design objective.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteSwarm intelligence for chemical-reaction optimization\n\n\n\nChem, 2026. α-PSO combines interpretable particle-swarm dynamics with machine-learning guidance for parallel experimental optimization.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteHighly parallel optimization of chemical reactions\n\n\n\nNature Communications, 2025. Minerva couples Bayesian optimization with automated 96-well experimentation to navigate large reaction-condition spaces.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteA multi-modal transformer for predicting global minimum adsorption energy\n\n\n\nNature Communications, 2025. AdsMT predicts global minimum adsorption energies without enumerating binding sites and uses cross-attention to identify favorable adsorption locations.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteData-driven synthesis predictions of colloidal nanocrystal shapes\n\n\n\nJournal of the American Chemical Society, 2025. Machine learning, electronic-lab-notebook data, Bayesian optimization, and experiments were combined to navigate copper-nanocrystal synthesis.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteChemCrow: augmenting large-language models with chemistry tools\n\n\n\nNature Machine Intelligence, 2024. ChemCrow demonstrated how a language model can plan and execute complex chemistry tasks by using purpose-built tools.\nPaper · Code\n\n\n\n\n\n\n\nFor the complete and current publication record, see Google Scholar."
   },
   {
     "objectID": "research.html#selected-research-highlights",
     "href": "research.html#selected-research-highlights",
     "title": "Research",
-    "section": "Selected Research Highlights",
-    "text": "Selected Research Highlights\n\n\n\n\n\n\n\n\nNoteSynthegy: strategy-aware chemical reasoning\n\n\n\nMatter, 2026. Large language models guide chemical search algorithms using strategies written in natural language, enabling steerable retrosynthesis and reaction-mechanism elucidation.\nPaper · Preprint\n\n\n\n\n\n\n\n\n\n\nNoteSample-efficient generative molecular design using memory manipulation\n\n\n\nNature Machine Intelligence, 2026. Saturn combines the Mamba architecture with augmented memory to learn more from each scored molecule and directly optimize high-fidelity objectives.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteTANGO: direct optimization of constrained synthesizability\n\n\n\nNature Computational Science, 2026. TANGO guides generative models toward molecules that use required starting materials or intermediates, making synthesizability part of the design objective.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteSwarm intelligence for chemical-reaction optimization\n\n\n\nChem, 2026. α-PSO combines interpretable particle-swarm dynamics with machine-learning guidance for parallel experimental optimization.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteHighly parallel optimization of chemical reactions\n\n\n\nNature Communications, 2025. Minerva couples Bayesian optimization with automated 96-well experimentation to navigate large reaction-condition spaces.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteA multi-modal transformer for predicting global minimum adsorption energy\n\n\n\nNature Communications, 2025. AdsMT predicts global minimum adsorption energies without enumerating binding sites and uses cross-attention to identify favorable adsorption locations.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteData-driven synthesis predictions of colloidal nanocrystal shapes\n\n\n\nJournal of the American Chemical Society, 2025. Machine learning, electronic-lab-notebook data, Bayesian optimization, and experiments were combined to navigate copper-nanocrystal synthesis.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteChemCrow: augmenting large-language models with chemistry tools\n\n\n\nNature Machine Intelligence, 2024. ChemCrow demonstrated how a language model can plan and execute complex chemistry tasks by using purpose-built tools.\nPaper · Code"
+    "section": "",
+    "text": "NoteSynthegy: strategy-aware chemical reasoning\n\n\n\nMatter, 2026. Large language models guide chemical search algorithms using strategies written in natural language, enabling steerable retrosynthesis and reaction-mechanism elucidation.\nPaper · Preprint\n\n\n\n\n\n\n\n\n\n\nNoteSample-efficient generative molecular design using memory manipulation\n\n\n\nNature Machine Intelligence, 2026. Saturn combines the Mamba architecture with augmented memory to learn more from each scored molecule and directly optimize high-fidelity objectives.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteTANGO: direct optimization of constrained synthesizability\n\n\n\nNature Computational Science, 2026. TANGO guides generative models toward molecules that use required starting materials or intermediates, making synthesizability part of the design objective.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteSwarm intelligence for chemical-reaction optimization\n\n\n\nChem, 2026. α-PSO combines interpretable particle-swarm dynamics with machine-learning guidance for parallel experimental optimization.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteHighly parallel optimization of chemical reactions\n\n\n\nNature Communications, 2025. Minerva couples Bayesian optimization with automated 96-well experimentation to navigate large reaction-condition spaces.\nPaper · Code\n\n\n\n\n\n\n\n\n\n\nNoteA multi-modal transformer for predicting global minimum adsorption energy\n\n\n\nNature Communications, 2025. AdsMT predicts global minimum adsorption energies without enumerating binding sites and uses cross-attention to identify favorable adsorption locations.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteData-driven synthesis predictions of colloidal nanocrystal shapes\n\n\n\nJournal of the American Chemical Society, 2025. Machine learning, electronic-lab-notebook data, Bayesian optimization, and experiments were combined to navigate copper-nanocrystal synthesis.\nPaper\n\n\n\n\n\n\n\n\n\n\nNoteChemCrow: augmenting large-language models with chemistry tools\n\n\n\nNature Machine Intelligence, 2024. ChemCrow demonstrated how a language model can plan and execute complex chemistry tasks by using purpose-built tools.\nPaper · Code"
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nFor the complete and current publication record, see Google Scholar."
+    "section": "",
+    "text": "For the complete and current publication record, see Google Scholar."
   },
   {
     "objectID": "index.html",
@@ -65,203 +65,259 @@
   {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "",
-    "text": "Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence. LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. Philippe is also a core PI of NCCR Catalysis.\n\nFive years at IBM Research Zürich with Dr. Teodoro Laino\nPhD in Chemistry and Molecular Sciences, University of Bern, 2021\nMPhil in Physics, University of Cambridge, 2019\nBSc and MSc in Materials Science and Engineering, EPFL\n\n\n —  —  —"
+    "text": "Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence. LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. Philippe is also a core PI of NCCR Catalysis and NCCR Separations.\n\nFive years at IBM Research Zürich with Dr. Teodoro Laino\nPhD in Chemistry and Molecular Sciences, University of Bern, 2021\nMPhil in Physics, University of Cambridge, 2019\nBSc and MSc in Materials Science and Engineering, EPFL\n\n\n —  —  —"
   },
   {
     "objectID": "team.html#prof.-philippe-schwaller",
     "href": "team.html#prof.-philippe-schwaller",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "",
-    "text": "Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence. LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. Philippe is also a core PI of NCCR Catalysis.\n\nFive years at IBM Research Zürich with Dr. Teodoro Laino\nPhD in Chemistry and Molecular Sciences, University of Bern, 2021\nMPhil in Physics, University of Cambridge, 2019\nBSc and MSc in Materials Science and Engineering, EPFL\n\n\n —  —  —"
+    "text": "Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence. LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization. Philippe is also a core PI of NCCR Catalysis and NCCR Separations.\n\nFive years at IBM Research Zürich with Dr. Teodoro Laino\nPhD in Chemistry and Molecular Sciences, University of Bern, 2021\nMPhil in Physics, University of Cambridge, 2019\nBSc and MSc in Materials Science and Engineering, EPFL\n\n\n —  —  —"
+  },
+  {
+    "objectID": "team.html#dr.-matthew-hart",
+    "href": "team.html#dr.-matthew-hart",
+    "title": "Principal Investigator",
+    "section": "Dr. Matthew Hart",
+    "text": "Dr. Matthew Hart\n\nSince September 2025"
   },
   {
     "objectID": "team.html#dr.-ka-lok-jacky-chan",
     "href": "team.html#dr.-ka-lok-jacky-chan",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Dr. Ka Lok (Jacky) Chan",
-    "text": "Dr. Ka Lok (Jacky) Chan\n\nSince September 2025\nBased in Singapore\nCARES SM3 project"
+    "text": "Dr. Ka Lok (Jacky) Chan\n\nSince September 2025\nBased in Singapore, CARES SM3 project"
+  },
+  {
+    "objectID": "team.html#dr.-maarten-r.-dobbelaere",
+    "href": "team.html#dr.-maarten-r.-dobbelaere",
+    "title": "Principal Investigator",
+    "section": "Dr. Maarten R. Dobbelaere",
+    "text": "Dr. Maarten R. Dobbelaere\n\nSince August 2026"
   },
   {
     "objectID": "team.html#dr.-tom-frömbgen",
     "href": "team.html#dr.-tom-frömbgen",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Dr. Tom Frömbgen",
     "text": "Dr. Tom Frömbgen\n\nSince September 2026"
   },
   {
+    "objectID": "team.html#dr.-gianin-thomann",
+    "href": "team.html#dr.-gianin-thomann",
+    "title": "Principal Investigator",
+    "section": "Dr. Gianin Thomann",
+    "text": "Dr. Gianin Thomann\n\nSince September 2026\nWith Spiez Laboratory"
+  },
+  {
     "objectID": "team.html#junwu-chen",
     "href": "team.html#junwu-chen",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Junwu Chen",
     "text": "Junwu Chen\n\nSince August 2022"
   },
   {
     "objectID": "team.html#víctor-sabanza-gil",
     "href": "team.html#víctor-sabanza-gil",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Víctor Sabanza Gil",
     "text": "Víctor Sabanza Gil\n\nSince October 2022\nCo-supervised by Prof. Jeremy Luterbacher"
   },
   {
     "objectID": "team.html#paulo-neves",
     "href": "team.html#paulo-neves",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Paulo Neves",
     "text": "Paulo Neves\n\nSince January 2023\nExternal PhD with Janssen Pharmaceuticals"
   },
   {
     "objectID": "team.html#rebecca-m.-neeser",
     "href": "team.html#rebecca-m.-neeser",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Rebecca M. Neeser",
     "text": "Rebecca M. Neeser\n\nSince April 2023\nCo-supervised by Prof. Bruno Correia"
   },
   {
     "objectID": "team.html#sarina-n.-kopf",
     "href": "team.html#sarina-n.-kopf",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Sarina N. Kopf",
     "text": "Sarina N. Kopf\n\nSince August 2023\nCo-supervised by Prof. Cristina Nevado"
   },
   {
     "objectID": "team.html#daniel-p.-armstrong",
     "href": "team.html#daniel-p.-armstrong",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Daniel P. Armstrong",
     "text": "Daniel P. Armstrong\n\nSince September 2023"
   },
   {
     "objectID": "team.html#wing-pong-joshua-sin",
     "href": "team.html#wing-pong-joshua-sin",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Wing Pong (Joshua) Sin",
     "text": "Wing Pong (Joshua) Sin\n\nSince October 2023\nExternal PhD with Roche"
   },
   {
     "objectID": "team.html#sandro-agostini",
     "href": "team.html#sandro-agostini",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Sandro Agostini",
     "text": "Sandro Agostini\n\nSince March 2024\nExternal PhD with IBM Research"
   },
   {
     "objectID": "team.html#théo-a.-neukomm",
     "href": "team.html#théo-a.-neukomm",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Théo A. Neukomm",
     "text": "Théo A. Neukomm\n\nSince September 2024"
   },
   {
     "objectID": "team.html#salomé-m.-a.-guilbert",
     "href": "team.html#salomé-m.-a.-guilbert",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Salomé M. A. Guilbert",
     "text": "Salomé M. A. Guilbert\n\nSince October 2024\nCo-supervised by Prof. Ursula Röthlisberger"
   },
   {
     "objectID": "team.html#amin-mansouri",
     "href": "team.html#amin-mansouri",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Amin Mansouri",
     "text": "Amin Mansouri\n\nSince April 2025\nCo-supervised by Prof. Caglar Gulcehre"
   },
   {
     "objectID": "team.html#bohdan-naida",
     "href": "team.html#bohdan-naida",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Bohdan Naida",
     "text": "Bohdan Naida\n\nSince September 2025"
   },
   {
     "objectID": "team.html#cassandra-masschelein",
     "href": "team.html#cassandra-masschelein",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Cassandra Masschelein",
     "text": "Cassandra Masschelein\n\nSince September 2025"
   },
   {
     "objectID": "team.html#vu-nguyen",
     "href": "team.html#vu-nguyen",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Vu Nguyen",
     "text": "Vu Nguyen\n\nSince October 2025"
   },
   {
     "objectID": "team.html#rémi-schlama",
     "href": "team.html#rémi-schlama",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Rémi Schlama",
     "text": "Rémi Schlama\n\nSince October 2025"
   },
   {
+    "objectID": "team.html#david-ming-segura",
+    "href": "team.html#david-ming-segura",
+    "title": "Principal Investigator",
+    "section": "David Ming Segura",
+    "text": "David Ming Segura\n\nSince February 2026"
+  },
+  {
     "objectID": "team.html#anna-kelmanson",
     "href": "team.html#anna-kelmanson",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Anna Kelmanson",
     "text": "Anna Kelmanson\n\nSince February 2026"
   },
   {
+    "objectID": "team.html#saumya-thakur",
+    "href": "team.html#saumya-thakur",
+    "title": "Principal Investigator",
+    "section": "Saumya Thakur",
+    "text": "Saumya Thakur\n\nSince February 2026"
+  },
+  {
+    "objectID": "team.html#thibaud-southiratn",
+    "href": "team.html#thibaud-southiratn",
+    "title": "Principal Investigator",
+    "section": "Thibaud Southiratn",
+    "text": "Thibaud Southiratn\n\nSince March 2026\nExternal PhD with AstraZeneca"
+  },
+  {
+    "objectID": "team.html#gabriel-gibberd",
+    "href": "team.html#gabriel-gibberd",
+    "title": "Principal Investigator",
+    "section": "Gabriel Gibberd",
+    "text": "Gabriel Gibberd\n\nSince June 2026"
+  },
+  {
+    "objectID": "team.html#anabel-yong",
+    "href": "team.html#anabel-yong",
+    "title": "Principal Investigator",
+    "section": "Anabel Yong",
+    "text": "Anabel Yong\n\nSince August 2026"
+  },
+  {
     "objectID": "team.html#jeremy-goumaz",
     "href": "team.html#jeremy-goumaz",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Jeremy Goumaz",
     "text": "Jeremy Goumaz\n\nShared with Prof. Maria Brbić"
   },
   {
+    "objectID": "team.html#postdoctoral-researchers-1",
+    "href": "team.html#postdoctoral-researchers-1",
+    "title": "Principal Investigator",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\n\nDr. Stéphane d’Ascoli, March–October 2023 — Research Scientist at Meta\nDr. Geemi Wellawatte, August 2023–August 2024 — now at Lila Sciences; previously Academic Coordinator at FutureHouse\nDr. Zlatko Jončev, September 2023–August 2025 — Cofounder and CEO of b-12 labs (Y Combinator)\nDr. Marta Brucka, April–September 2024 — Application Scientist at Enantios\nDr. Edvin Fako, February 2025–January 2026 — Elemynt\nDr. Julian Götz, February 2025–March 2026 — OnePot\nDr. Sergey Pozdnyakov, February–December 2025 — Postdoc at Microsoft\nDr. Jan Rittig, June 2025–May 2026 — Cofounder of aChEntic"
+  },
+  {
     "objectID": "team.html#phd-students-1",
     "href": "team.html#phd-students-1",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "PhD Students",
     "text": "PhD Students\n\nDr. Bojana Ranković, March 2022–August 2026 — ETH AI Center Postdoctoral Fellow. Thesis: Language, Likelihood, and the Laboratory: Aligning Language Models with Bayesian Optimization for Experimental Discovery\nDr. Oliver Schilter, external PhD with IBM Research, April 2022–June 2025 — Senior AI Engineer at Sphere Energy. Thesis: Integrating AI across the Discovery Cycle — Advancing Sustainable Chemistry through Digital Methods\nDr. Andres M. Bran, August 2022–June 2026 — Cofounder and CTO of b-12 labs (Y Combinator). Thesis: Chemistry in Context: Applications of Large Language Models to Synthetic Organic Chemistry and Catalysis\nDr. Jeff Guo, September 2022–December 2025 — Research Scientist at Isomorphic Labs. Thesis: Language-based Sample-efficient and Synthesizable Molecular Generative Design"
   },
   {
-    "objectID": "team.html#postdoctoral-researchers-fellows",
-    "href": "team.html#postdoctoral-researchers-fellows",
-    "title": "Team",
-    "section": "Postdoctoral Researchers & Fellows",
-    "text": "Postdoctoral Researchers & Fellows\n\nDr. Stéphane d’Ascoli, March–October 2023 — Research Scientist at Meta\nDr. Geemi Wellawatte, August 2023–August 2024 — now at Lila Sciences; previously Academic Coordinator at FutureHouse\nDr. Zlatko Jončev, September 2023–August 2025 — Cofounder and CEO of b-12 labs (Y Combinator)\nDr. Marta Brucka, April–September 2024 — Application Scientist at Enantios\nDr. Edvin Fako, February 2025–January 2026 — Elemynt\nDr. Julian Götz, February 2025–March 2026 — OnePot\nDr. Sergey Pozdnyakov, February–December 2025 — Postdoc at Microsoft\nDr. Jan Rittig, June 2025–May 2026 — Cofounder of aChEntic"
-  },
-  {
-    "objectID": "team.html#visiting-doctoral-students",
-    "href": "team.html#visiting-doctoral-students",
-    "title": "Team",
-    "section": "Visiting Doctoral Students",
-    "text": "Visiting Doctoral Students\n\nMatthew Hart — University of North Carolina at Chapel Hill\nJuliette Fenogli — ENS–PSL\nRostislav Fedorov — Heidelberg Institute for Theoretical Studies (HITS)\nMatt Ball — University of Strasbourg\nEric Alcaide — Università della Svizzera italiana (USI)\nOliver Loveday — Institute of Chemical Research of Catalonia (ICIQ)\nNicholas Runcie — University of Oxford\nRyo Kuroki — Asahi Kasei"
-  },
-  {
     "objectID": "team.html#visiting-postdoctoral-researchers",
     "href": "team.html#visiting-postdoctoral-researchers",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Visiting Postdoctoral Researchers",
     "text": "Visiting Postdoctoral Researchers\n\nDr. Maarten R. Dobbelaere — Ghent University, before joining LIAC as a postdoc\nDr. Adem R. N. Aouichaoui — Technical University of Denmark (DTU)"
   },
   {
+    "objectID": "team.html#visiting-phd-students-1",
+    "href": "team.html#visiting-phd-students-1",
+    "title": "Principal Investigator",
+    "section": "Visiting PhD Students",
+    "text": "Visiting PhD Students\n\nMatthew Hart — University of North Carolina at Chapel Hill\nJuliette Fenogli — ENS–PSL\nRostislav Fedorov — Heidelberg Institute for Theoretical Studies (HITS)\nMatt Ball — University of Strasbourg\nEric Alcaide — Università della Svizzera italiana (USI)\nOliver Loveday — Institute of Chemical Research of Catalonia (ICIQ)\nNicholas Runcie — University of Oxford\nRyo Kuroki — Asahi Kasei"
+  },
+  {
     "objectID": "team.html#masters-theses",
     "href": "team.html#masters-theses",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Master’s Theses",
     "text": "Master’s Theses\nMaster’s theses listing an external institution were carried out under Prof. Schwaller’s supervision at EPFL, with the degree awarded by the student’s home institution.\n\n2025/26 (4 theses)\n\nTim Arni — Mila\nMiquel Angel Perez Puigdomenech — EPFL\nLuca Rota — ETH Zurich\nMilena Charlotte Wiegand — Technical University of Munich\n\n\n\n2024/25 (4 theses)\n\nCesar Antonio Doñez Miranda — Empa\nRémi Michel Maxime Schlama — ETH Zurich\nDavid Ming Segura — EPFL\nYunjie Xu — ETH Zurich\n\n\n\n2023/24 (3 theses)\n\nLucien Michel Gérard Brey — MIT\nAmin Abdelrafour Debabeche — MIT\nThéo Alain Neukomm — Carnegie Mellon University\n\n\n\n2022/23 (2 theses)\n\nCheng-Hua Huang — EPFL\nArtur Andrzej Stefaniuk — EPFL"
   },
   {
     "objectID": "team.html#master-semester-projects-epfl",
     "href": "team.html#master-semester-projects-epfl",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Master Semester Projects (EPFL)",
     "text": "Master Semester Projects (EPFL)\n\n2025/26 (10 projects)\n\nSathvik Bhagavan\nMalo Gfeller\nZeineb Mellouli\nCédric Nathanaël Rossboth\nOctavian Susanu\nMatéo Tatzber — two projects\nAnthony David Verhoeven\nNicholas Jeffrey Weiss\nZongmin Zhang\n\n\n\n2024/25 (7 projects)\n\nArne Beckmann — two projects\nZiad El Malki\nAleksei Kudrinskii\nGuillaume Romain Galaad Malherbe\nMarko Simic\nInes Bouchama\n\n\n\n2023/24 (7 projects)\n\nJenestin Anton Anthonipillai\nZiad El Malki\nTugdual Marc-Emmanuel Pierre Marie Kerjan\nColleen Rachèle Lonfat\nThéo Alain Neukomm\nRémi Michel Maxime Schlama — two projects\n\n\n\n2022/23 (3 projects)\n\nLucien Michel Gérard Brey\nMalte Franke\nThéo Alain Neukomm"
   },
   {
     "objectID": "team.html#visiting-project-students",
     "href": "team.html#visiting-project-students",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Visiting Project Students",
     "text": "Visiting Project Students\n\n2022–26 (20 projects)\n\nXu Huang — Shanghai Jiao Tong University; now PhD student at UC Berkeley\nTanya Gupta — IIT Delhi; now Associate at Strategy&\nAnna Kelmanson — TCCM; now PhD student at EPFL\nAnna Kapeliukha — Taras Shevchenko National University of Kyiv; now Head of AI & Cheminformatics at Chemspace\nFranziska Weissbach — Technical University of Berlin; now PhD student at ETH Zürich\nMelih Gökay Yiğit — Middle East Technical University\nShaipranesh Sentilkumar — BITS Pilani; now PhD student at Mila\nHuixuan Guo — Nanyang Technological University; now PhD student at MIT\nYedong Xie — University of Science and Technology of China\nXimena Leyva Peralta — Yale University\nYifan Du — Zhejiang University; now PhD student at UCLA\nMagdalena Lederbauer — ETH Zürich; now PhD student at MIT\nSacha Raffaud — Imperial College London\nManuel Ott — ETH Zürich\nOrkhan Abdullayev — University of Strasbourg\nDuc Dat Dang — VinUniversity\nDiogo Torres — NOVA University Lisbon\nAlexandre Lohest — University of Strasbourg\nJonathan Tubb — Stanford University\nAlex Oarga — University of Barcelona"
   },
   {
     "objectID": "team.html#other-former-interns",
     "href": "team.html#other-former-interns",
-    "title": "Team",
+    "title": "Principal Investigator",
     "section": "Other Former Interns",
     "text": "Other Former Interns\n\nNichelle Sequeira, Victoire Lang, and Peri Yerlikaya."
   },
@@ -270,34 +326,34 @@
     "href": "openings.html",
     "title": "Openings",
     "section": "",
-    "text": "Are you excited about machine learning applied to chemical sciences? LIAC brings together chemistry, computer science, materials science, and experimental research.\nLast reviewed: August 2026."
+    "text": "Are you excited about machine learning applied to chemical sciences? LIAC brings together chemistry, computer science, materials science, and experimental research.\nLast reviewed: September 2026.\n\n\n\nThere are no immediate Postdoc openings. New funded positions will be posted here.\nThe 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the official EPFL salary scale for details.\n\n\n\n\n\nThere are no immediate PhD openings. New funded positions will be posted here.\nInformation about admission is available from the EPFL doctoral program in chemistry and chemical engineering.\n\n\n\nWe regularly supervise projects for students interested in applying machine learning to chemical science. Depending on the project, you might work on chemical data, molecular representations, synthesis planning, generative models, scientific language models, or experimental optimization.\nPlease contact Prof. Philippe Schwaller with a short description of your interests, your CV and transcript, your availability, and a link to previous technical work if available.\n\n\n\nWe are happy to discuss strong fellowship proposals that fit LIAC’s research directions. Relevant programs include the EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships.\nWe strongly encourage applications from people with different backgrounds, identities, disciplines, and career paths. Every new colleague brings a different perspective, and we see that diversity as part of doing better science."
   },
   {
     "objectID": "openings.html#postdoctoral-position",
     "href": "openings.html#postdoctoral-position",
     "title": "Openings",
-    "section": "Postdoctoral Position",
-    "text": "Postdoctoral Position\nWe have one two-year postdoctoral position on advancing strategic synthesis planning with machine learning and large language models. The project builds on our recent work in strategy-aware chemical reasoning and tool-augmented chemistry agents.\nThe 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the official EPFL salary scale for details.\nIf you are interested, fill in the following form:\nApply for the postdoctoral position"
+    "section": "",
+    "text": "There are no immediate Postdoc openings. New funded positions will be posted here.\nThe 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the official EPFL salary scale for details."
   },
   {
     "objectID": "openings.html#phd-positions",
     "href": "openings.html#phd-positions",
     "title": "Openings",
-    "section": "PhD Positions",
-    "text": "PhD Positions\nThere are no immediate PhD openings. New funded positions will be posted here. Information about admission is available from the EPFL doctoral program in chemistry and chemical engineering."
+    "section": "",
+    "text": "There are no immediate PhD openings. New funded positions will be posted here.\nInformation about admission is available from the EPFL doctoral program in chemistry and chemical engineering."
   },
   {
     "objectID": "openings.html#masters-theses-and-semester-projects",
     "href": "openings.html#masters-theses-and-semester-projects",
     "title": "Openings",
-    "section": "Master’s Theses and Semester Projects",
-    "text": "Master’s Theses and Semester Projects\nWe regularly supervise projects for students interested in applying machine learning to chemical science. Depending on the project, you might work on chemical data, molecular representations, synthesis planning, generative models, scientific language models, or experimental optimization.\nPlease contact Prof. Philippe Schwaller with a short description of your interests, your CV and transcript, your availability, and a link to previous technical work if available."
+    "section": "",
+    "text": "We regularly supervise projects for students interested in applying machine learning to chemical science. Depending on the project, you might work on chemical data, molecular representations, synthesis planning, generative models, scientific language models, or experimental optimization.\nPlease contact Prof. Philippe Schwaller with a short description of your interests, your CV and transcript, your availability, and a link to previous technical work if available."
   },
   {
     "objectID": "openings.html#postdoctoral-fellowships",
     "href": "openings.html#postdoctoral-fellowships",
     "title": "Openings",
-    "section": "Postdoctoral Fellowships",
-    "text": "Postdoctoral Fellowships\nWe are happy to discuss strong fellowship proposals that fit LIAC’s research directions. Relevant programs include the EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships.\nWe strongly encourage applications from people with different backgrounds, identities, disciplines, and career paths. Every new colleague brings a different perspective, and we see that diversity as part of doing better science."
+    "section": "",
+    "text": "We are happy to discuss strong fellowship proposals that fit LIAC’s research directions. Relevant programs include the EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships.\nWe strongly encourage applications from people with different backgrounds, identities, disciplines, and career paths. Every new colleague brings a different perspective, and we see that diversity as part of doing better science."
   }
 ]
