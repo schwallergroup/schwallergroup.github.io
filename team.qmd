@@ -1,11 +1,18 @@
 ---
 title: "Team"
+lang: en  # required for hyphens: auto to pick English hyphenation rules
 ---
 
 <style>
   .quarto-title { display: none; }
   a:link { text-decoration: none; -webkit-text-decoration: none; }
   a:link:hover { color: black; }
+  /* Justified text; hyphenation avoids large word gaps in narrow (mobile) columns */
+  .bio-justify { text-align: justify; hyphens: auto; -webkit-hyphens: auto; overflow-wrap: break-word; }
+  @media (max-width: 576px) {
+    /* Tighter list indent gives mobile more line width */
+    .bio-justify ul { padding-left: 1.1em; }
+  }
 </style>
 
 
@@ -20,16 +27,17 @@ title: "Team"
 :::
 
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8}
-## [Prof. Philippe Schwaller](people/philippe_schwaller.qmd)
+## Prof. Philippe Schwaller
 
-Philippe Schwaller joined EPFL in February 2022 and leads the Laboratory of Artificial Chemical Intelligence.
-LIAC develops artificial intelligence for chemical reasoning, synthesis planning, molecular and materials discovery, and experimental optimization.
-Philippe is also a core PI of NCCR Catalysis and NCCR Separations.
-
-- Five years at IBM Research Zürich with Dr. Teodoro Laino
-- PhD in Chemistry and Molecular Sciences, University of Bern, 2021
-- MPhil in Physics, University of Cambridge, 2019
-- BSc and MSc in Materials Science and Engineering, EPFL
+::: {.bio-justify}
+Philippe Schwaller joined EPFL as a tenure-track assistant professor in the Institute of Chemical Sciences and Engineering in February 2022.
+He leads the Laboratory of Artificial Chemical Intelligence (LIAC), which works on AI-accelerated discovery and synthesis of molecules and materials.
+Philippe sits on the steering committee of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation, and is a core PI of the NCCR Separations.
+He belongs to a new generation of scientists with a broad set of skills — in his case, a combination of chemistry, materials science, computer science, and machine learning.
+His work has been recognised with the University Latsis Award, the Novartis Early Career Award, the Sandmeyer Award of the Swiss Chemical Society, and the Prix Schläfli, and has given rise to two spin-offs.
+Before EPFL, Philippe worked for five years at IBM Research and simultaneously completed an MPhil in Physics (University of Cambridge) and a PhD in Chemistry and Molecular Sciences (University of Bern).
+He also holds a BSc and MSc in Materials Science and Engineering (EPFL).
+:::
 
 <div class="center">
 [{{< fa envelope size=2xl >}}](mailto:philippe.schwaller@epfl.ch) ---
@@ -455,6 +463,7 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ## Postdoctoral Researchers
 
+::: {.bio-justify}
 - **Dr. Stéphane d'Ascoli**, March–October 2023 — Research Scientist at Meta
 - **Dr. Geemi Wellawatte**, August 2023–August 2024 — now at Lila Sciences; previously Academic Coordinator at FutureHouse
 - **Dr. Zlatko Jončev**, September 2023–August 2025 — Cofounder and CEO of b-12 labs (Y Combinator)
@@ -463,13 +472,16 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 - **Dr. Julian Götz**, February 2025–March 2026 — OnePot
 - **Dr. Sergey Pozdnyakov**, February–December 2025 — Postdoc at Microsoft
 - **Dr. Jan Rittig**, June 2025–May 2026 — Cofounder of aChEntic
+:::
 
 ## PhD Students
 
+::: {.bio-justify}
 - **Dr. Bojana Ranković**, March 2022–August 2026 — ETH AI Center Postdoctoral Fellow. Thesis: *Language, Likelihood, and the Laboratory: Aligning Language Models with Bayesian Optimization for Experimental Discovery*
 - **Dr. Oliver Schilter**, external PhD with IBM Research, April 2022–June 2025 — Senior AI Engineer at Sphere Energy. Thesis: *Integrating AI across the Discovery Cycle — Advancing Sustainable Chemistry through Digital Methods*
 - **Dr. Andres M. Bran**, August 2022–June 2026 — Cofounder and CTO of b-12 labs (Y Combinator). Thesis: *Chemistry in Context: Applications of Large Language Models to Synthetic Organic Chemistry and Catalysis*
 - **Dr. Jeff Guo**, September 2022–December 2025 — Research Scientist at Isomorphic Labs. Thesis: *Language-based Sample-efficient and Synthesizable Molecular Generative Design*
+:::
 
 ## Visiting Postdoctoral Researchers
 
@@ -489,7 +501,9 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ## Master's Theses
 
+::: {.bio-justify}
 Master's theses listing an external institution were carried out under Prof. Schwaller's supervision at EPFL, with the degree awarded by the student's home institution.
+:::
 
 ### 2025/26 (4 theses)
 
