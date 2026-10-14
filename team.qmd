@@ -115,6 +115,16 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 - With Spiez Laboratory
 :::
 :::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/OliverLoveday.png){.img-fluid .img-round}
+
+## Dr. Oliver Loveday
+
+- Since October 2026
+:::
+:::
 :::
 
 # PhD Students
@@ -347,6 +357,16 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 - Since August 2026
 :::
 :::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.callout-note appearance="simple" icon=false}
+![](images/OriolVillaLavela.jpg){.img-fluid .img-round}
+
+## Oriol Villa Lavela
+
+- Since October 2026
+:::
+:::
 :::
 
 # Research Engineers
@@ -427,14 +447,6 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ::: {.callout-note appearance="simple" icon=false}
-## Diane Tambey
-
-- Since August 2026
-:::
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-::: {.callout-note appearance="simple" icon=false}
 ## Marc Al Hachem
 
 - Since September 2026
@@ -504,6 +516,10 @@ The amazing person who makes sure that everything runs smoothly -- [{{< fa envel
 ::: {.bio-justify}
 Master's theses listing an external institution were carried out under Prof. Schwaller's supervision at EPFL, with the degree awarded by the student's home institution.
 :::
+
+### 2026/27
+
+- Michael Zhang - EPFL
 
 ### 2025/26 (4 theses)
 

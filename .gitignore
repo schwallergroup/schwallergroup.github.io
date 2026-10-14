@@ -2,5 +2,5 @@
 /_site/
 *.DS_Store
 /.luarc.json
-
+.vscode/
 **/*.quarto_ipynb
