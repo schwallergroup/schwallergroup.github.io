@@ -112,6 +112,13 @@
     "text": "Dr. Gianin Thomann\n\nSince September 2026\nWith Spiez Laboratory"
   },
   {
+    "objectID": "team.html#dr.-oliver-loveday",
+    "href": "team.html#dr.-oliver-loveday",
+    "title": "Team",
+    "section": "Dr. Oliver Loveday",
+    "text": "Dr. Oliver Loveday\n\nSince October 2026"
+  },
+  {
     "objectID": "team.html#junwu-chen",
     "href": "team.html#junwu-chen",
     "title": "Team",
@@ -259,6 +266,13 @@
     "text": "Anabel Yong\n\nSince August 2026"
   },
   {
+    "objectID": "team.html#oriol-villa-lavela",
+    "href": "team.html#oriol-villa-lavela",
+    "title": "Team",
+    "section": "Oriol Villa Lavela",
+    "text": "Oriol Villa Lavela\n\nSince October 2026"
+  },
+  {
     "objectID": "team.html#jeremy-goumaz",
     "href": "team.html#jeremy-goumaz",
     "title": "Team",
@@ -298,7 +312,7 @@
     "href": "team.html#masters-theses",
     "title": "Team",
     "section": "Master’s Theses",
-    "text": "Master’s Theses\n\nMaster’s theses listing an external institution were carried out under Prof. Schwaller’s supervision at EPFL, with the degree awarded by the student’s home institution.\n\n\n2025/26 (4 theses)\n\nTim Arni — Mila\nMiquel Angel Perez Puigdomenech — EPFL\nLuca Rota — ETH Zurich\nMilena Charlotte Wiegand — Technical University of Munich\n\n\n\n2024/25 (4 theses)\n\nCesar Antonio Doñez Miranda — Empa\nRémi Michel Maxime Schlama — ETH Zurich\nDavid Ming Segura — EPFL\nYunjie Xu — ETH Zurich\n\n\n\n2023/24 (3 theses)\n\nLucien Michel Gérard Brey — MIT\nAmin Abdelrafour Debabeche — MIT\nThéo Alain Neukomm — Carnegie Mellon University\n\n\n\n2022/23 (2 theses)\n\nCheng-Hua Huang — EPFL\nArtur Andrzej Stefaniuk — EPFL"
+    "text": "Master’s Theses\n\nMaster’s theses listing an external institution were carried out under Prof. Schwaller’s supervision at EPFL, with the degree awarded by the student’s home institution.\n\n\n2026/27\n\nMichael Zhang - EPFL\n\n\n\n2025/26 (4 theses)\n\nTim Arni — Mila\nMiquel Angel Perez Puigdomenech — EPFL\nLuca Rota — ETH Zurich\nMilena Charlotte Wiegand — Technical University of Munich\n\n\n\n2024/25 (4 theses)\n\nCesar Antonio Doñez Miranda — Empa\nRémi Michel Maxime Schlama — ETH Zurich\nDavid Ming Segura — EPFL\nYunjie Xu — ETH Zurich\n\n\n\n2023/24 (3 theses)\n\nLucien Michel Gérard Brey — MIT\nAmin Abdelrafour Debabeche — MIT\nThéo Alain Neukomm — Carnegie Mellon University\n\n\n\n2022/23 (2 theses)\n\nCheng-Hua Huang — EPFL\nArtur Andrzej Stefaniuk — EPFL"
   },
   {
     "objectID": "team.html#master-semester-projects-epfl",
@@ -326,7 +340,7 @@
     "href": "openings.html",
     "title": "Openings",
     "section": "",
-    "text": "Last reviewed: October 2026.\nAre you excited about machine learning applied to chemical sciences? LIAC brings together chemistry, computer science, materials science, and experimental research.\nWe strongly encourage applications from people with different backgrounds, identities, disciplines, and career paths. Every new colleague brings a different perspective, and we see that diversity as part of doing better science.\nIf you are interested in joining LIAC and would like to apply for a specific advertised position or submit a spontaneous application, please fill out this form. Note that we do not consider applications via email or social media.\n\n\n\nThere are no immediate Postdoc openings. New funded positions will be posted here.\nThe 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the official EPFL salary scale for details.\n\n\n\n\n\nThere are no immediate PhD openings. New funded positions will be posted here.\nInformation about admission is available from the EPFL doctoral program in chemistry and chemical engineering.\n\n\n\nWe regularly supervise projects for students interested in applying machine learning to chemical science. Depending on the project, you might work on chemical data, molecular representations, synthesis planning, generative models, scientific language models, or experimental optimization.\n\n\n\n\nWe are happy to discuss strong fellowship proposals that fit LIAC’s research directions. Relevant programs include the EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships."
+    "text": "Last reviewed: October 2026.\nAre you excited about machine learning applied to chemical sciences? LIAC brings together chemistry, computer science, materials science, and experimental research.\nWe strongly encourage applications from people with different backgrounds, identities, disciplines, and career paths. Every new colleague brings a different perspective, and we see that diversity as part of doing better science.\nIf you are interested in joining LIAC and would like to apply for a specific advertised position or submit a spontaneous application, please fill out this form. Applications sent by email may be overlooked.\n\n\n\nThere are no immediate Postdoc openings. New funded positions will be posted here.\nThe 2026 EPFL postdoctoral starting salary is CHF 88,000 gross per year, including the 13th salary month. See the official EPFL salary scale for details.\n\n\n\n\n\nThere are no immediate PhD openings. New funded positions will be posted here.\nInformation about admission is available from the EPFL doctoral program in chemistry and chemical engineering.\n\n\n\nWe regularly supervise projects for students interested in applying machine learning to chemical science. Depending on the project, you might work on chemical data, molecular representations, synthesis planning, generative models, scientific language models, or experimental optimization.\n\n\n\n\nWe are happy to discuss strong fellowship proposals that fit LIAC’s research directions. Relevant programs include the EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships."
   },
   {
     "objectID": "openings.html#postdoctoral-position",
