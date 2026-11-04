@@ -231,3 +231,32 @@ overflow-x: hidden;
   color: red;
 }
 } */
+
+/* Team page filter buttons */
+.team-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+.team-filter-btn {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 500;
+  padding: 0.35rem 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  border-radius: 999px;
+  background: transparent;
+  color: black;
+  cursor: pointer;
+  transition: background 0.1s ease-in-out, color 0.1s ease-in-out;
+}
+
+.team-filter-btn:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.team-filter-btn.active {
+  background: black;
+  color: white;
+}

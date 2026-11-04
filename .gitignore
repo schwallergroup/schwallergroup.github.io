@@ -4,3 +4,5 @@
 /.luarc.json
 .vscode/
 **/*.quarto_ipynb
+
+.handoff/
